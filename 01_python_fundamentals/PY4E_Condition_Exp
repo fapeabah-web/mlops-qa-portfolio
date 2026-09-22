@@ -1,6 +1,38 @@
+#Conditional Expression Example 1: IF Statement using Operators
 x = 5
 if x < 10:
     print('small')
 if x > 10:
     print('large')
 print('finish')
+
+#Conditional Expression Example 2: IF Statement using Operators
+x = 5
+if x == 5:
+    print('equals to 5')
+if x > 6:
+    print('greater than 6')
+if x < 4:
+    print('less than 4')
+if x >= 5:
+    print('greater than or equal to 5')
+if x <= 5:
+    print('less than or equal to 5')
+if x != 6:
+    print('not equal to 6')
+print('finish')
+
+#Conditional Expression Example 2: IF Statement - One Way Decision
+x = 5
+print('before 5')
+if x== 5:
+    print('is 5')
+    print('is still 5')
+    print('third 5')
+print('afterwards 5')
+print('before 6')
+if x == 6:
+    print('is 6')
+    print('is still 6')
+    print('third 6')
+print('afterwards 6')
