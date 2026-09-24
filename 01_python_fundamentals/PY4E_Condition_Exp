@@ -36,3 +36,18 @@ if x == 6:
     print('is still 6')
     print('third 6')
 print('afterwards 6')
+
+x = 5
+if x > 2:
+    print('bigger than 2')
+    print('still bigger')
+print('done with 2')
+
+for i in range(5):
+    print(i)
+    if i < 2:
+        print('smaller than 2')
+    if i >=2:
+        print('equal to or bigger than 2')
+    print('done with i', i)
+print('all done')
