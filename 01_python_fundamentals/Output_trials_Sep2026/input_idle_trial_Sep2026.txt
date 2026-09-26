@@ -1,0 +1,14 @@
+Python 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/C4S-000000/Documents/FApeaBah/Developer/mlops-qa-portfolio/01_python_fundamentals/input_idle_trial_Sep2026.py
+Enter your first name: Cindy
+Enter your last name: Thompson
+Welcome, Cindy Thompson
+Enter you country of origin: Canada
+Enter your home city: Winnipeg
+Enter your province or state: MB
+Enter you post code or zip code: R3T 2K1
+Your permanent address is: Winnipeg, MB, R3T 2K1, Canada
+How many days will you be staying? Enter only number, e.g. 5: 7
+Your fee for  7  days will be $ 862.3216

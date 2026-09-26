@@ -1,0 +1,24 @@
+Python 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:\Users\C4S-000000\Documents\FApeaBah\Developer\mlops-qa-portfolio\01_python_fundamentals\Output_trials_Sep2026\Exercise 3.1 and 3.2_Sep2026.py
+Enter the hours: 40
+Enter the rate: 10.50
+Regular
+Pay is: 420.0
+>>> 
+= RESTART: C:\Users\C4S-000000\Documents\FApeaBah\Developer\mlops-qa-portfolio\01_python_fundamentals\Output_trials_Sep2026\Exercise 3.1 and 3.2_Sep2026.py
+Enter the hours: 45
+Enter the rate: 10.50
+Overtime
+Pay is: 551.25
+>>> 
+= RESTART: C:\Users\C4S-000000\Documents\FApeaBah\Developer\mlops-qa-portfolio\01_python_fundamentals\Output_trials_Sep2026\Exercise 3.1 and 3.2_Sep2026.py
+Enter the hours: 40
+Enter the rate: 10.50
+Regular
+Pay is: 420.0
+Enter the hours: 45
+Enter the rate: 10.50
+Overtime
+Pay is: 498.75

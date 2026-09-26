@@ -14,6 +14,5 @@ print(str(tons_per_hour) + " MT processed at " + facility_name + " every hour")
 print("--- PIPELINE OPERATION AUDIT REPORT ---")
 print("Facility Location: " + facility_name)
 print("Calculated Throughput: " + str(tons_per_hour) + " tons per hour")
-git add .
-git commit -m "Add core control loop structures to data validation file"
-git push
+
+
