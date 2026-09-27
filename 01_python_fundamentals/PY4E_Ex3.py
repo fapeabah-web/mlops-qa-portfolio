@@ -20,4 +20,4 @@ else:
     print('Regular')
     xp = reg
 print('Pay is:', xp)
-    
+
