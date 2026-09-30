@@ -14,7 +14,8 @@ score = input('Enter Score between 0.0 - 1.0: ')
 try:
     score_grade = float(score)
 except:
-    score_grade > 1.0 or score_grade < 0.0
+    print('Error: Please enter a valid number.')
+    exit()
     
 if score_grade >= 0.9 and score_grade <= 1.0:
     print('Your Grade is: A')
