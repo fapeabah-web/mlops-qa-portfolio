@@ -1,0 +1,51 @@
+batch_id,crop_type,seed_variety,processing_facility,moisture_percentage,quantity_metric_tons,cost_per_metric_ton,stock_status,physical_audit_quantity_mt,total_value_cad,operational_alert_level
+BAT-101,Oats,AAC Douglas,Brandon Warehouse (MB),14.1,162.7,363.38,In-Warehouse,162.7,59121.93,CRITICAL_SPOILAGE_RISK
+BAT-102,Barley,CDC Copeland,Saskatoon Warehouse (SK),14.7,213.6,408.83,In-Warehouse,213.6,87326.09,CRITICAL_SPOILAGE_RISK
+BAT-103,Canola,CS3000 TF,Plum Coulee (MB),11.7,233.1,1243.34,In-Warehouse,233.1,289822.55,OPERATIONAL_NORMAL
+BAT-104,Barley,CDC Copeland,Brandon Warehouse (MB),12.3,101.4,411.33,In-Warehouse,101.4,41708.86,OPERATIONAL_NORMAL
+BAT-105,Wheat,AAC Viewfield,Saskatoon Warehouse (SK),13.2,56.5,438.31,In-Warehouse,56.5,24764.52,OPERATIONAL_NORMAL
+BAT-106,Wheat,AAC Brandon,Plum Coulee (MB),12.5,236.4,478.43,In-Warehouse,236.4,113100.85,OPERATIONAL_NORMAL
+BAT-107,Canola,CS3000 TF,Winnipeg Head Office (MB),12.9,203.2,1184.28,In-Warehouse,203.2,240645.7,OPERATIONAL_NORMAL
+BAT-108,Wheat,AAC Starbuck,Plum Coulee (MB),13.4,242.0,491.56,In-Warehouse,242.0,118957.52,OPERATIONAL_NORMAL
+BAT-109,Canola,CS3000 TF,Saskatoon Warehouse (SK),11.8,111.0,1223.11,In-Warehouse,111.0,135765.21,OPERATIONAL_NORMAL
+BAT-110,Oats,CS Camden,Saskatoon Warehouse (SK),14.1,38.1,381.71,In-Warehouse,38.1,14543.15,CRITICAL_SPOILAGE_RISK
+BAT-111,Canola,CS3000 TF,Winnipeg Head Office (MB),14.8,247.9,1187.16,In-Warehouse,247.9,294296.96,CRITICAL_SPOILAGE_RISK
+BAT-112,Wheat,AAC Starbuck,North Battleford (SK),11.6,183.1,488.75,In-Warehouse,183.1,89490.12,OPERATIONAL_NORMAL
+BAT-113,Wheat,AAC Viewfield,Plum Coulee (MB),13.1,114.2,425.26,In-Warehouse,114.2,48564.69,OPERATIONAL_NORMAL
+BAT-114,Wheat,AAC Starbuck,North Battleford (SK),14.7,117.8,481.56,In-Warehouse,105.8,56727.77,CRITICAL_SPOILAGE_RISK
+BAT-115,Barley,CDC Copeland,North Battleford (SK),12.9,235.9,420.35,In-Warehouse,235.9,99160.56,OPERATIONAL_NORMAL
+BAT-116,Oats,CS Camden,Plum Coulee (MB),15.3,169.3,357.77,In-Warehouse,169.3,60570.46,CRITICAL_SPOILAGE_RISK
+BAT-117,Wheat,AAC Viewfield,Plum Coulee (MB),12.5,142.3,440.09,In-Warehouse,142.3,62624.81,OPERATIONAL_NORMAL
+BAT-118,Oats,CS Camden,Brandon Warehouse (MB),12.3,72.6,349.56,In-Warehouse,72.6,25378.06,OPERATIONAL_NORMAL
+BAT-119,Barley,CDC Copeland,Saskatoon Warehouse (SK),14.0,248.6,419.08,In-Warehouse,248.6,104183.29,OPERATIONAL_NORMAL
+BAT-120,Canola,CS4100 LL,Saskatoon Warehouse (SK),14.7,235.8,1217.92,In-Warehouse,223.8,287185.54,CRITICAL_SPOILAGE_RISK
+BAT-121,Wheat,AAC Viewfield,North Battleford (SK),12.8,131.2,438.64,In-Warehouse,131.2,57549.57,OPERATIONAL_NORMAL
+BAT-122,Canola,CS3000 TF,Winnipeg Head Office (MB),15.5,57.1,1223.63,In-Warehouse,57.1,69869.27,CRITICAL_SPOILAGE_RISK
+BAT-123,Oats,CS Camden,Plum Coulee (MB),11.9,183.1,374.88,In-Warehouse,183.1,68640.53,OPERATIONAL_NORMAL
+BAT-124,Wheat,AAC Brandon,Winnipeg Head Office (MB),14.3,31.7,424.31,In-Warehouse,31.7,13450.63,CRITICAL_SPOILAGE_RISK
+BAT-125,Barley,CDC Copeland,Brandon Warehouse (MB),12.0,157.0,417.85,In-Warehouse,157.0,65602.45,OPERATIONAL_NORMAL
+BAT-126,Wheat,AAC Brandon,Saskatoon Warehouse (SK),15.2,143.5,450.41,In-Warehouse,143.5,64633.84,CRITICAL_SPOILAGE_RISK
+BAT-127,Canola,CS4100 LL,North Battleford (SK),14.0,103.8,1187.21,In-Warehouse,103.8,123232.4,OPERATIONAL_NORMAL
+BAT-128,Barley,CDC Copeland,Saskatoon Warehouse (SK),11.6,128.4,421.21,In-Warehouse,128.4,54083.36,OPERATIONAL_NORMAL
+BAT-129,Wheat,AAC Brandon,Plum Coulee (MB),14.0,121.1,481.53,In-Warehouse,121.1,58313.28,OPERATIONAL_NORMAL
+BAT-130,Wheat,AAC Brandon,Winnipeg Head Office (MB),13.6,145.4,480.08,In-Warehouse,145.4,69803.63,OPERATIONAL_NORMAL
+BAT-131,Canola,CS4100 LL,Plum Coulee (MB),11.8,172.6,1199.19,In-Warehouse,172.6,206980.19,OPERATIONAL_NORMAL
+BAT-132,Barley,AAC Connect,Brandon Warehouse (MB),11.8,137.9,416.71,In-Warehouse,137.9,57464.31,OPERATIONAL_NORMAL
+BAT-133,Wheat,AAC Viewfield,Winnipeg Head Office (MB),15.2,118.0,485.49,In-Warehouse,118.0,57287.82,CRITICAL_SPOILAGE_RISK
+BAT-134,Oats,AAC Douglas,Brandon Warehouse (MB),14.5,108.9,324.58,In-Warehouse,108.9,35346.76,CRITICAL_SPOILAGE_RISK
+BAT-135,Canola,CS4100 LL,Brandon Warehouse (MB),14.2,217.1,1181.75,In-Warehouse,217.1,256557.92,CRITICAL_SPOILAGE_RISK
+BAT-136,Canola,CS4100 LL,Winnipeg Head Office (MB),12.0,51.0,1202.82,In-Warehouse,51.0,61343.82,OPERATIONAL_NORMAL
+BAT-137,Oats,CS Camden,Saskatoon Warehouse (SK),15.5,130.6,364.53,In-Warehouse,130.6,47607.62,CRITICAL_SPOILAGE_RISK
+BAT-138,Oats,CS Camden,Plum Coulee (MB),11.9,144.9,344.47,In-Warehouse,144.9,49913.7,OPERATIONAL_NORMAL
+BAT-139,Oats,CS Camden,Saskatoon Warehouse (SK),13.9,235.3,368.53,In-Warehouse,235.3,86715.11,OPERATIONAL_NORMAL
+BAT-140,Oats,CS Camden,Plum Coulee (MB),13.5,153.3,361.35,In-Warehouse,153.3,55394.96,OPERATIONAL_NORMAL
+BAT-141,Barley,AAC Connect,Brandon Warehouse (MB),13.9,41.9,440.59,In-Warehouse,41.9,18460.72,OPERATIONAL_NORMAL
+BAT-142,Canola,CS2600 RR,Plum Coulee (MB),13.0,165.7,1236.41,In-Warehouse,165.7,204873.14,OPERATIONAL_NORMAL
+BAT-143,Canola,CS2600 RR,Saskatoon Warehouse (SK),13.8,43.2,1217.07,In-Warehouse,43.2,52577.42,OPERATIONAL_NORMAL
+BAT-144,Barley,CDC Copeland,Saskatoon Warehouse (SK),14.9,240.5,383.18,In-Warehouse,240.5,92154.79,CRITICAL_SPOILAGE_RISK
+BAT-145,Wheat,AAC Viewfield,Saskatoon Warehouse (SK),13.7,126.9,431.11,In-Warehouse,126.9,54707.86,OPERATIONAL_NORMAL
+BAT-146,Canola,CS3000 TF,North Battleford (SK),12.2,215.3,1203.26,In-Warehouse,215.3,259061.88,OPERATIONAL_NORMAL
+BAT-147,Canola,CS2600 RR,Plum Coulee (MB),14.4,195.4,1185.04,In-Warehouse,193.9,231556.82,CRITICAL_SPOILAGE_RISK
+BAT-148,Canola,CS4100 LL,North Battleford (SK),12.0,217.4,1180.14,In-Warehouse,217.4,256562.44,OPERATIONAL_NORMAL
+BAT-149,Oats,AAC Douglas,Saskatoon Warehouse (SK),14.9,239.5,380.31,In-Transit,239.5,91084.24,OPERATIONAL_NORMAL
+BAT-150,Barley,CDC Copeland,Saskatoon Warehouse (SK),14.0,209.6,449.62,In-Warehouse,209.6,94240.35,OPERATIONAL_NORMAL
