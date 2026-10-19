@@ -1,51 +1,51 @@
-batch_id,crop_type,seed_variety,processing_facility,moisture_percentage,quantity_metric_tons
-BAT-101,Oats,AAC Douglas,Brandon Warehouse (MB),14.1,162.7
-BAT-102,Barley,CDC Copeland,Saskatoon Warehouse (SK),14.7,213.6
-BAT-103,Canola,CS3000 TF,Plum Coulee (MB),11.7,233.1
-BAT-104,Barley,CDC Copeland,Brandon Warehouse (MB),12.3,101.4
-BAT-105,Wheat,AAC Viewfield,Saskatoon Warehouse (SK),13.2,56.5
-BAT-106,Wheat,AAC Brandon,Plum Coulee (MB),12.5,236.4
-BAT-107,Canola,CS3000 TF,Winnipeg Head Office (MB),12.9,203.2
-BAT-108,Wheat,AAC Starbuck,Plum Coulee (MB),13.4,242.0
-BAT-109,Canola,CS3000 TF,Saskatoon Warehouse (SK),11.8,111.0
-BAT-110,Oats,CS Camden,Saskatoon Warehouse (SK),14.1,38.1
-BAT-111,Canola,CS3000 TF,Winnipeg Head Office (MB),14.8,247.9
-BAT-112,Wheat,AAC Starbuck,North Battleford (SK),11.6,183.1
-BAT-113,Wheat,AAC Viewfield,Plum Coulee (MB),13.1,114.2
-BAT-114,Wheat,AAC Starbuck,North Battleford (SK),14.7,117.8
-BAT-115,Barley,CDC Copeland,North Battleford (SK),12.9,235.9
-BAT-116,Oats,CS Camden,Plum Coulee (MB),15.3,169.3
-BAT-117,Wheat,AAC Viewfield,Plum Coulee (MB),12.5,142.3
-BAT-118,Oats,CS Camden,Brandon Warehouse (MB),12.3,72.6
-BAT-119,Barley,CDC Copeland,Saskatoon Warehouse (SK),14.0,248.6
-BAT-120,Canola,CS4100 LL,Saskatoon Warehouse (SK),14.7,235.8
-BAT-121,Wheat,AAC Viewfield,North Battleford (SK),12.8,131.2
-BAT-122,Canola,CS3000 TF,Winnipeg Head Office (MB),15.5,57.1
-BAT-123,Oats,CS Camden,Plum Coulee (MB),11.9,183.1
-BAT-124,Wheat,AAC Brandon,Winnipeg Head Office (MB),14.3,31.7
-BAT-125,Barley,CDC Copeland,Brandon Warehouse (MB),12.0,157.0
-BAT-126,Wheat,AAC Brandon,Saskatoon Warehouse (SK),15.2,143.5
-BAT-127,Canola,CS4100 LL,North Battleford (SK),14.0,103.8
-BAT-128,Barley,CDC Copeland,Saskatoon Warehouse (SK),11.6,128.4
-BAT-129,Wheat,AAC Brandon,Plum Coulee (MB),14.0,121.1
-BAT-130,Wheat,AAC Brandon,Winnipeg Head Office (MB),13.6,145.4
-BAT-131,Canola,CS4100 LL,Plum Coulee (MB),11.8,172.6
-BAT-132,Barley,AAC Connect,Brandon Warehouse (MB),11.8,137.9
-BAT-133,Wheat,AAC Viewfield,Winnipeg Head Office (MB),15.2,118.0
-BAT-134,Oats,AAC Douglas,Brandon Warehouse (MB),14.5,108.9
-BAT-135,Canola,CS4100 LL,Brandon Warehouse (MB),14.2,217.1
-BAT-136,Canola,CS4100 LL,Winnipeg Head Office (MB),12.0,51.0
-BAT-137,Oats,CS Camden,Saskatoon Warehouse (SK),15.5,130.6
-BAT-138,Oats,CS Camden,Plum Coulee (MB),11.9,144.9
-BAT-139,Oats,CS Camden,Saskatoon Warehouse (SK),13.9,235.3
-BAT-140,Oats,CS Camden,Plum Coulee (MB),13.5,153.3
-BAT-141,Barley,AAC Connect,Brandon Warehouse (MB),13.9,41.9
-BAT-142,Canola,CS2600 RR,Plum Coulee (MB),13.0,165.7
-BAT-143,Canola,CS2600 RR,Saskatoon Warehouse (SK),13.8,43.2
-BAT-144,Barley,CDC Copeland,Saskatoon Warehouse (SK),14.9,240.5
-BAT-145,Wheat,AAC Viewfield,Saskatoon Warehouse (SK),13.7,126.9
-BAT-146,Canola,CS3000 TF,North Battleford (SK),12.2,215.3
-BAT-147,Canola,CS2600 RR,Plum Coulee (MB),14.4,195.4
-BAT-148,Canola,CS4100 LL,North Battleford (SK),12.0,217.4
-BAT-149,Oats,AAC Douglas,Saskatoon Warehouse (SK),14.9,239.5
-BAT-150,Barley,CDC Copeland,Saskatoon Warehouse (SK),14.0,209.6
+batch_id,grower_id,crop_type,received_date,moisture_percentage
+LOT-2026-001,GRW-015,Canola,2026-08-02,14.3
+LOT-2026-002,GRW-002,Oats,2026-08-28,15.0
+LOT-2026-003,GRW-010,Pulses/Peas,2026-07-05,12.2
+LOT-2026-004,GRW-012,Canola,2026-08-11,14.5
+LOT-2026-005,GRW-002,Pedigreed Wheat,2026-08-08,14.2
+LOT-2026-006,GRW-010,Pedigreed Wheat,2026-08-27,12.5
+LOT-2026-007,GRW-014,Pedigreed Wheat,2026-08-10,16.2
+LOT-2026-008,GRW-004,Barley,2026-07-28,14.5
+LOT-2026-009,GRW-014,Pulses/Peas,2026-07-07,15.0
+LOT-2026-010,GRW-015,Pulses/Peas,2026-07-09,15.9
+LOT-2026-011,GRW-015,Pedigreed Wheat,2026-07-08,14.6
+LOT-2026-012,GRW-008,Oats,2026-07-12,13.0
+LOT-2026-013,GRW-014,Barley,2026-08-03,12.0
+LOT-2026-014,GRW-007,Pedigreed Wheat,2026-08-02,13.8
+LOT-2026-015,GRW-012,Pedigreed Wheat,2026-08-17,12.6
+LOT-2026-016,GRW-009,Pedigreed Wheat,2026-08-24,13.6
+LOT-2026-017,GRW-014,Canola,2026-07-23,15.9
+LOT-2026-018,GRW-008,Canola,2026-07-24,13.1
+LOT-2026-019,GRW-005,Canola,2026-08-06,12.1
+LOT-2026-020,GRW-013,Pedigreed Wheat,2026-08-04,13.3
+LOT-2026-021,GRW-002,Pulses/Peas,2026-08-13,16.0
+LOT-2026-022,GRW-015,Pedigreed Wheat,2026-08-09,12.9
+LOT-2026-023,GRW-005,Pedigreed Wheat,2026-07-22,14.7
+LOT-2026-024,GRW-008,Canola,2026-07-27,11.5
+LOT-2026-025,GRW-010,Canola,2026-08-04,13.3
+LOT-2026-026,GRW-009,Barley,2026-07-01,13.0
+LOT-2026-027,GRW-012,Pedigreed Wheat,2026-08-04,12.3
+LOT-2026-028,GRW-012,Canola,2026-08-06,14.2
+LOT-2026-029,GRW-012,Canola,2026-08-16,13.9
+LOT-2026-030,GRW-013,Pedigreed Wheat,2026-07-14,15.0
+LOT-2026-031,GRW-009,Pulses/Peas,2026-07-03,12.8
+LOT-2026-032,GRW-013,Pedigreed Wheat,2026-07-01,12.7
+LOT-2026-033,GRW-015,Pedigreed Wheat,2026-07-05,12.3
+LOT-2026-034,GRW-013,Oats,2026-07-26,12.6
+LOT-2026-035,GRW-001,Oats,2026-08-24,14.3
+LOT-2026-036,GRW-009,Barley,2026-07-14,13.5
+LOT-2026-037,GRW-007,Canola,2026-08-08,11.8
+LOT-2026-038,GRW-009,Pedigreed Wheat,2026-07-27,12.8
+LOT-2026-039,GRW-008,Pulses/Peas,2026-07-09,12.7
+LOT-2026-040,GRW-001,Canola,2026-07-15,15.0
+LOT-2026-041,GRW-012,Pedigreed Wheat,2026-07-15,15.1
+LOT-2026-042,GRW-008,Canola,2026-07-26,12.2
+LOT-2026-043,GRW-008,Pedigreed Wheat,2026-08-11,16.5
+LOT-2026-044,GRW-015,Oats,2026-08-29,12.8
+LOT-2026-045,GRW-011,Pedigreed Wheat,2026-07-13,16.4
+LOT-2026-046,GRW-003,Pulses/Peas,2026-08-20,13.6
+LOT-2026-047,GRW-001,Canola,2026-08-01,11.7
+LOT-2026-048,GRW-008,Canola,2026-08-08,13.2
+LOT-2026-049,GRW-003,Canola,2026-08-18,14.7
+LOT-2026-050,GRW-003,Pedigreed Wheat,2026-08-21,14.9
