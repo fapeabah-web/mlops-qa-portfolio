@@ -1,0 +1,51 @@
+bill_of_lading_id,batch_id,certified_tag_id,carrier_name,shipping_facility,delivery_status
+BOL-CAN-001,LOT-2026-001,TAG-CA-70D-001,Gardewine,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-002,LOT-2026-002,TAG-CA-70D-002,Mullen Group,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-003,LOT-2026-003,TAG-CA-70D-003,CP Rail,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-004,LOT-2026-004,TAG-CA-70D-004,Bison Transport,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-005,LOT-2026-005,TAG-CA-70D-005,Gardewine,Winnipeg Corporate HQ,Allocated
+BOL-CAN-006,LOT-2026-006,TAG-CA-70D-006,CP Rail,Manitoba Contract Growers,In-Transit
+BOL-CAN-007,LOT-2026-007,TAG-CA-70D-007,Gardewine,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-008,LOT-2026-008,TAG-CA-70D-008,Gardewine,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-009,LOT-2026-009,TAG-CA-70D-009,Bison Transport,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-010,LOT-2026-010,TAG-CA-70D-010,Mullen Group,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-011,LOT-2026-011,TAG-CA-70D-011,CP Rail,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-012,LOT-2026-012,TAG-CA-70D-012,CP Rail,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-013,LOT-2026-013,TAG-CA-70D-013,CP Rail,Saskatchewan Retail Networks,In-Transit
+BOL-CAN-014,LOT-2026-014,TAG-CA-70D-014,CP Rail,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-015,LOT-2026-015,TAG-CA-70D-015,Bison Transport,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-016,LOT-2026-016,TAG-CA-70D-016,Mullen Group,Saskatchewan Retail Networks,Allocated
+BOL-CAN-017,LOT-2026-017,TAG-CA-70D-017,Gardewine,Alberta Co-op Distribution,In-Transit
+BOL-CAN-018,LOT-2026-018,TAG-CA-70D-018,Bison Transport,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-019,LOT-2026-019,TAG-CA-70D-019,Bison Transport,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-020,LOT-2026-020,TAG-CA-70D-020,Bison Transport,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-021,LOT-2026-021,TAG-CA-70D-021,CP Rail,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-022,LOT-2026-022,TAG-CA-70D-022,CP Rail,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-023,LOT-2026-023,TAG-CA-70D-023,CP Rail,Winnipeg Corporate HQ,In-Transit
+BOL-CAN-024,LOT-2026-024,TAG-CA-70D-024,Mullen Group,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-025,LOT-2026-025,TAG-CA-70D-025,Gardewine,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-026,LOT-2026-026,TAG-CA-70D-026,Bison Transport,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-027,LOT-2026-027,TAG-CA-70D-027,Bison Transport,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-028,LOT-2026-028,TAG-CA-70D-028,Mullen Group,Saskatchewan Retail Networks,In-Transit
+BOL-CAN-029,LOT-2026-029,TAG-CA-70D-029,Bison Transport,Saskatchewan Retail Networks,In-Transit
+BOL-CAN-030,LOT-2026-030,TAG-CA-70D-030,CP Rail,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-031,LOT-2026-031,TAG-CA-70D-031,Mullen Group,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-032,LOT-2026-032,TAG-CA-70D-032,Mullen Group,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-033,LOT-2026-033,TAG-CA-70D-033,Mullen Group,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-034,LOT-2026-034,TAG-CA-70D-034,Mullen Group,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-035,LOT-2026-035,TAG-CA-70D-035,Bison Transport,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-036,LOT-2026-036,TAG-CA-70D-036,Mullen Group,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-037,LOT-2026-037,TAG-CA-70D-037,CP Rail,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-038,LOT-2026-038,TAG-CA-70D-038,Gardewine,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-039,LOT-2026-039,TAG-CA-70D-039,Mullen Group,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-040,LOT-2026-040,TAG-CA-70D-040,CP Rail,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-041,LOT-2026-041,TAG-CA-70D-041,Bison Transport,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-042,LOT-2026-042,TAG-CA-70D-042,CP Rail,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-043,LOT-2026-043,TAG-CA-70D-043,Gardewine,Manitoba Contract Growers,In-Transit
+BOL-CAN-044,LOT-2026-044,TAG-CA-70D-044,Gardewine,Saskatchewan Retail Networks,In-Warehouse
+BOL-CAN-045,LOT-2026-045,TAG-CA-70D-045,CP Rail,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-046,LOT-2026-046,TAG-CA-70D-046,CP Rail,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-047,LOT-2026-047,TAG-CA-70D-047,Mullen Group,Manitoba Contract Growers,In-Warehouse
+BOL-CAN-048,LOT-2026-048,TAG-CA-70D-048,Mullen Group,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-049,LOT-2026-049,TAG-CA-70D-049,Bison Transport,Alberta Co-op Distribution,In-Warehouse
+BOL-CAN-050,LOT-2026-050,TAG-CA-70D-050,CP Rail,Alberta Co-op Distribution,Allocated
