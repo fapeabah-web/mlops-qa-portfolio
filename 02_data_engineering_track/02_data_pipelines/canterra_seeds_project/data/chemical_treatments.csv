@@ -1,0 +1,521 @@
+batch_id,applied_treatment_regimen,agent_unit_price_cad,treatment_quantity_purchased_liters,treatment_quantity_used_liters,warehouse_remaining_storage_liters
+LOT-2021-022,Neonicotinoid + Broad-Spectrum Fungicide,95.0,53.85,53.85,0.0
+LOT-2021-028,Teraxxa F4 Cereal Treatment,48.0,43.44,43.44,0.0
+LOT-2021-029,Teraxxa F4 Cereal Treatment,95.0,52.76,52.76,0.0
+LOT-2021-041,Teraxxa F4 Cereal Treatment,95.0,60.3,54.82,5.48
+LOT-2021-046,Trilex AL + Liquid Rhizobium Inoculant,72.0,75.9,75.9,0.0
+LOT-2021-049,Teraxxa F4 Cereal Treatment,95.0,56.58,56.58,0.0
+LOT-2021-054,Trilex AL + Liquid Rhizobium Inoculant,48.0,89.73,89.73,0.0
+LOT-2021-065,Trilex AL + Liquid Rhizobium Inoculant,48.0,84.6,84.6,0.0
+LOT-2021-087,Teraxxa F4 Cereal Treatment,25.0,53.9,53.9,0.0
+LOT-2021-094,Trilex AL + Liquid Rhizobium Inoculant,25.0,75.96,75.96,0.0
+LOT-2021-099,Teraxxa F4 Cereal Treatment,72.0,48.98,48.98,0.0
+LOT-2021-102,Teraxxa F4 Cereal Treatment,48.0,41.68,41.68,0.0
+LOT-2021-103,Neonicotinoid + Broad-Spectrum Fungicide,48.0,59.97,59.97,0.0
+LOT-2021-104,Neonicotinoid + Broad-Spectrum Fungicide,48.0,80.03,72.75,7.28
+LOT-2021-105,Neonicotinoid + Broad-Spectrum Fungicide,72.0,70.2,70.2,0.0
+LOT-2021-109,Neonicotinoid + Broad-Spectrum Fungicide,48.0,55.4,55.4,0.0
+LOT-2021-112,Neonicotinoid + Broad-Spectrum Fungicide,25.0,61.68,61.68,0.0
+LOT-2021-117,Teraxxa F4 Cereal Treatment,72.0,56.34,56.34,0.0
+LOT-2021-119,Neonicotinoid + Broad-Spectrum Fungicide,25.0,51.68,51.68,0.0
+LOT-2021-122,Trilex AL + Liquid Rhizobium Inoculant,25.0,71.61,71.61,0.0
+LOT-2021-130,Teraxxa F4 Cereal Treatment,72.0,57.04,57.04,0.0
+LOT-2021-135,Neonicotinoid + Broad-Spectrum Fungicide,95.0,60.1,60.1,0.0
+LOT-2021-140,Teraxxa F4 Cereal Treatment,95.0,41.56,41.56,0.0
+LOT-2021-146,Neonicotinoid + Broad-Spectrum Fungicide,25.0,63.58,63.58,0.0
+LOT-2021-165,Neonicotinoid + Broad-Spectrum Fungicide,95.0,71.55,71.55,0.0
+LOT-2021-178,Teraxxa F4 Cereal Treatment,48.0,51.8,51.8,0.0
+LOT-2021-180,Teraxxa F4 Cereal Treatment,72.0,44.52,44.52,0.0
+LOT-2021-181,Teraxxa F4 Cereal Treatment,25.0,47.68,47.68,0.0
+LOT-2021-182,Teraxxa F4 Cereal Treatment,48.0,49.0,49.0,0.0
+LOT-2021-185,Teraxxa F4 Cereal Treatment,95.0,51.58,51.58,0.0
+LOT-2021-188,Neonicotinoid + Broad-Spectrum Fungicide,48.0,75.87,68.97,6.9
+LOT-2021-192,Neonicotinoid + Broad-Spectrum Fungicide,95.0,52.47,52.47,0.0
+LOT-2021-195,Teraxxa F4 Cereal Treatment,25.0,57.8,57.8,0.0
+LOT-2021-201,Teraxxa F4 Cereal Treatment,48.0,40.24,40.24,0.0
+LOT-2021-203,Teraxxa F4 Cereal Treatment,72.0,47.4,47.4,0.0
+LOT-2021-205,Trilex AL + Liquid Rhizobium Inoculant,25.0,60.81,60.81,0.0
+LOT-2021-212,Trilex AL + Liquid Rhizobium Inoculant,48.0,78.97,71.79,7.18
+LOT-2021-214,Teraxxa F4 Cereal Treatment,48.0,50.52,50.52,0.0
+LOT-2021-215,Trilex AL + Liquid Rhizobium Inoculant,95.0,75.36,75.36,0.0
+LOT-2021-217,Teraxxa F4 Cereal Treatment,25.0,43.32,43.32,0.0
+LOT-2021-223,Teraxxa F4 Cereal Treatment,25.0,52.92,52.92,0.0
+LOT-2021-224,Trilex AL + Liquid Rhizobium Inoculant,25.0,61.35,61.35,0.0
+LOT-2021-235,Teraxxa F4 Cereal Treatment,25.0,55.24,55.24,0.0
+LOT-2021-243,Teraxxa F4 Cereal Treatment,95.0,58.94,58.94,0.0
+LOT-2021-244,Neonicotinoid + Broad-Spectrum Fungicide,72.0,58.5,58.5,0.0
+LOT-2021-260,Teraxxa F4 Cereal Treatment,25.0,50.34,50.34,0.0
+LOT-2021-261,Trilex AL + Liquid Rhizobium Inoculant,95.0,71.37,71.37,0.0
+LOT-2021-263,Teraxxa F4 Cereal Treatment,72.0,44.15,40.14,4.01
+LOT-2021-266,Trilex AL + Liquid Rhizobium Inoculant,72.0,71.58,71.58,0.0
+LOT-2021-267,Teraxxa F4 Cereal Treatment,95.0,61.42,55.84,5.58
+LOT-2021-274,Trilex AL + Liquid Rhizobium Inoculant,25.0,77.88,77.88,0.0
+LOT-2021-277,Neonicotinoid + Broad-Spectrum Fungicide,72.0,52.53,52.53,0.0
+LOT-2021-279,Teraxxa F4 Cereal Treatment,25.0,56.94,56.94,0.0
+LOT-2021-285,Neonicotinoid + Broad-Spectrum Fungicide,25.0,63.28,63.28,0.0
+LOT-2021-286,Trilex AL + Liquid Rhizobium Inoculant,48.0,93.79,85.26,8.53
+LOT-2021-292,Teraxxa F4 Cereal Treatment,25.0,51.6,51.6,0.0
+LOT-2021-295,Teraxxa F4 Cereal Treatment,48.0,51.2,51.2,0.0
+LOT-2021-302,Teraxxa F4 Cereal Treatment,72.0,42.1,42.1,0.0
+LOT-2021-304,Teraxxa F4 Cereal Treatment,95.0,43.34,43.34,0.0
+LOT-2021-313,Trilex AL + Liquid Rhizobium Inoculant,48.0,89.16,89.16,0.0
+LOT-2021-315,Neonicotinoid + Broad-Spectrum Fungicide,95.0,55.7,55.7,0.0
+LOT-2021-317,Trilex AL + Liquid Rhizobium Inoculant,72.0,89.31,89.31,0.0
+LOT-2021-322,Teraxxa F4 Cereal Treatment,25.0,50.64,50.64,0.0
+LOT-2021-323,Teraxxa F4 Cereal Treatment,72.0,42.72,42.72,0.0
+LOT-2021-341,Teraxxa F4 Cereal Treatment,95.0,41.98,41.98,0.0
+LOT-2021-343,Teraxxa F4 Cereal Treatment,72.0,44.18,44.18,0.0
+LOT-2021-350,Neonicotinoid + Broad-Spectrum Fungicide,25.0,80.47,73.15,7.32
+LOT-2021-351,Trilex AL + Liquid Rhizobium Inoculant,72.0,72.42,72.42,0.0
+LOT-2021-361,Neonicotinoid + Broad-Spectrum Fungicide,25.0,59.88,59.88,0.0
+LOT-2021-364,Trilex AL + Liquid Rhizobium Inoculant,48.0,69.39,69.39,0.0
+LOT-2021-369,Trilex AL + Liquid Rhizobium Inoculant,95.0,70.85,64.41,6.44
+LOT-2021-373,Teraxxa F4 Cereal Treatment,25.0,49.76,49.76,0.0
+LOT-2021-376,Trilex AL + Liquid Rhizobium Inoculant,25.0,63.9,63.9,0.0
+LOT-2021-389,Neonicotinoid + Broad-Spectrum Fungicide,72.0,70.88,70.88,0.0
+LOT-2021-390,Neonicotinoid + Broad-Spectrum Fungicide,48.0,59.25,59.25,0.0
+LOT-2021-391,Teraxxa F4 Cereal Treatment,25.0,47.5,47.5,0.0
+LOT-2021-399,Teraxxa F4 Cereal Treatment,48.0,49.48,49.48,0.0
+LOT-2021-403,Neonicotinoid + Broad-Spectrum Fungicide,48.0,61.1,61.1,0.0
+LOT-2021-407,Neonicotinoid + Broad-Spectrum Fungicide,72.0,74.88,74.88,0.0
+LOT-2021-417,Teraxxa F4 Cereal Treatment,25.0,50.9,50.9,0.0
+LOT-2021-425,Neonicotinoid + Broad-Spectrum Fungicide,72.0,52.2,52.2,0.0
+LOT-2021-433,Teraxxa F4 Cereal Treatment,95.0,52.14,52.14,0.0
+LOT-2021-452,Teraxxa F4 Cereal Treatment,95.0,47.34,43.04,4.3
+LOT-2021-461,Neonicotinoid + Broad-Spectrum Fungicide,25.0,50.78,50.78,0.0
+LOT-2021-464,Neonicotinoid + Broad-Spectrum Fungicide,48.0,74.28,74.28,0.0
+LOT-2021-467,Teraxxa F4 Cereal Treatment,25.0,55.48,55.48,0.0
+LOT-2021-471,Trilex AL + Liquid Rhizobium Inoculant,25.0,89.4,89.4,0.0
+LOT-2021-474,Trilex AL + Liquid Rhizobium Inoculant,95.0,74.34,74.34,0.0
+LOT-2021-485,Teraxxa F4 Cereal Treatment,95.0,50.64,50.64,0.0
+LOT-2021-490,Teraxxa F4 Cereal Treatment,48.0,43.36,43.36,0.0
+LOT-2021-501,Teraxxa F4 Cereal Treatment,48.0,44.94,44.94,0.0
+LOT-2021-516,Teraxxa F4 Cereal Treatment,25.0,56.78,56.78,0.0
+LOT-2022-006,Trilex AL + Liquid Rhizobium Inoculant,72.0,70.68,70.68,0.0
+LOT-2022-015,Neonicotinoid + Broad-Spectrum Fungicide,25.0,70.68,70.68,0.0
+LOT-2022-019,Teraxxa F4 Cereal Treatment,48.0,54.18,54.18,0.0
+LOT-2022-024,Teraxxa F4 Cereal Treatment,72.0,43.54,43.54,0.0
+LOT-2022-032,Trilex AL + Liquid Rhizobium Inoculant,95.0,75.21,75.21,0.0
+LOT-2022-047,Teraxxa F4 Cereal Treatment,48.0,53.54,53.54,0.0
+LOT-2022-052,Neonicotinoid + Broad-Spectrum Fungicide,48.0,55.88,55.88,0.0
+LOT-2022-053,Trilex AL + Liquid Rhizobium Inoculant,72.0,93.42,84.93,8.49
+LOT-2022-055,Neonicotinoid + Broad-Spectrum Fungicide,48.0,63.62,63.62,0.0
+LOT-2022-057,Trilex AL + Liquid Rhizobium Inoculant,48.0,64.95,64.95,0.0
+LOT-2022-067,Neonicotinoid + Broad-Spectrum Fungicide,48.0,64.57,64.57,0.0
+LOT-2022-069,Neonicotinoid + Broad-Spectrum Fungicide,48.0,75.0,75.0,0.0
+LOT-2022-073,Neonicotinoid + Broad-Spectrum Fungicide,48.0,53.78,53.78,0.0
+LOT-2022-077,Teraxxa F4 Cereal Treatment,48.0,56.34,56.34,0.0
+LOT-2022-078,Teraxxa F4 Cereal Treatment,48.0,44.14,44.14,0.0
+LOT-2022-080,Teraxxa F4 Cereal Treatment,48.0,55.64,55.64,0.0
+LOT-2022-081,Teraxxa F4 Cereal Treatment,95.0,54.7,54.7,0.0
+LOT-2022-091,Trilex AL + Liquid Rhizobium Inoculant,48.0,69.0,69.0,0.0
+LOT-2022-093,Neonicotinoid + Broad-Spectrum Fungicide,95.0,58.15,58.15,0.0
+LOT-2022-115,Teraxxa F4 Cereal Treatment,95.0,55.86,55.86,0.0
+LOT-2022-116,Neonicotinoid + Broad-Spectrum Fungicide,25.0,61.52,61.52,0.0
+LOT-2022-121,Teraxxa F4 Cereal Treatment,25.0,54.62,54.62,0.0
+LOT-2022-137,Neonicotinoid + Broad-Spectrum Fungicide,95.0,53.7,53.7,0.0
+LOT-2022-141,Teraxxa F4 Cereal Treatment,95.0,57.06,57.06,0.0
+LOT-2022-142,Neonicotinoid + Broad-Spectrum Fungicide,48.0,74.56,67.78,6.78
+LOT-2022-161,Teraxxa F4 Cereal Treatment,25.0,58.14,58.14,0.0
+LOT-2022-162,Trilex AL + Liquid Rhizobium Inoculant,72.0,63.96,63.96,0.0
+LOT-2022-176,Teraxxa F4 Cereal Treatment,25.0,51.86,51.86,0.0
+LOT-2022-197,Neonicotinoid + Broad-Spectrum Fungicide,95.0,64.97,64.97,0.0
+LOT-2022-206,Teraxxa F4 Cereal Treatment,95.0,47.06,47.06,0.0
+LOT-2022-210,Teraxxa F4 Cereal Treatment,48.0,49.16,49.16,0.0
+LOT-2022-218,Trilex AL + Liquid Rhizobium Inoculant,48.0,61.14,61.14,0.0
+LOT-2022-219,Teraxxa F4 Cereal Treatment,25.0,54.92,54.92,0.0
+LOT-2022-227,Teraxxa F4 Cereal Treatment,48.0,50.98,50.98,0.0
+LOT-2022-230,Trilex AL + Liquid Rhizobium Inoculant,72.0,67.91,61.74,6.17
+LOT-2022-239,Teraxxa F4 Cereal Treatment,72.0,53.62,53.62,0.0
+LOT-2022-255,Teraxxa F4 Cereal Treatment,48.0,49.34,49.34,0.0
+LOT-2022-262,Teraxxa F4 Cereal Treatment,72.0,40.68,40.68,0.0
+LOT-2022-268,Neonicotinoid + Broad-Spectrum Fungicide,72.0,74.25,74.25,0.0
+LOT-2022-270,Neonicotinoid + Broad-Spectrum Fungicide,25.0,73.72,73.72,0.0
+LOT-2022-273,Teraxxa F4 Cereal Treatment,72.0,50.26,50.26,0.0
+LOT-2022-278,Teraxxa F4 Cereal Treatment,95.0,41.88,41.88,0.0
+LOT-2022-306,Trilex AL + Liquid Rhizobium Inoculant,95.0,82.65,82.65,0.0
+LOT-2022-308,Teraxxa F4 Cereal Treatment,25.0,49.84,49.84,0.0
+LOT-2022-309,Neonicotinoid + Broad-Spectrum Fungicide,48.0,57.55,57.55,0.0
+LOT-2022-338,Neonicotinoid + Broad-Spectrum Fungicide,25.0,62.28,62.28,0.0
+LOT-2022-375,Trilex AL + Liquid Rhizobium Inoculant,48.0,75.66,75.66,0.0
+LOT-2022-377,Trilex AL + Liquid Rhizobium Inoculant,48.0,76.89,76.89,0.0
+LOT-2022-379,Teraxxa F4 Cereal Treatment,48.0,48.82,48.82,0.0
+LOT-2022-382,Neonicotinoid + Broad-Spectrum Fungicide,48.0,65.15,65.15,0.0
+LOT-2022-384,Teraxxa F4 Cereal Treatment,48.0,58.38,58.38,0.0
+LOT-2022-386,Teraxxa F4 Cereal Treatment,25.0,47.24,47.24,0.0
+LOT-2022-387,Teraxxa F4 Cereal Treatment,48.0,54.52,54.52,0.0
+LOT-2022-388,Trilex AL + Liquid Rhizobium Inoculant,72.0,86.82,86.82,0.0
+LOT-2022-395,Trilex AL + Liquid Rhizobium Inoculant,72.0,73.68,73.68,0.0
+LOT-2022-396,Teraxxa F4 Cereal Treatment,48.0,48.86,48.86,0.0
+LOT-2022-398,Teraxxa F4 Cereal Treatment,72.0,52.04,52.04,0.0
+LOT-2022-402,Neonicotinoid + Broad-Spectrum Fungicide,95.0,64.78,64.78,0.0
+LOT-2022-413,Teraxxa F4 Cereal Treatment,25.0,56.14,56.14,0.0
+LOT-2022-414,Teraxxa F4 Cereal Treatment,25.0,49.52,49.52,0.0
+LOT-2022-418,Teraxxa F4 Cereal Treatment,48.0,59.92,59.92,0.0
+LOT-2022-422,Teraxxa F4 Cereal Treatment,48.0,41.18,41.18,0.0
+LOT-2022-423,Teraxxa F4 Cereal Treatment,95.0,44.07,40.06,4.01
+LOT-2022-427,Trilex AL + Liquid Rhizobium Inoculant,48.0,79.2,79.2,0.0
+LOT-2022-447,Teraxxa F4 Cereal Treatment,72.0,45.96,45.96,0.0
+LOT-2022-449,Teraxxa F4 Cereal Treatment,95.0,44.8,44.8,0.0
+LOT-2022-455,Neonicotinoid + Broad-Spectrum Fungicide,72.0,57.8,57.8,0.0
+LOT-2022-456,Neonicotinoid + Broad-Spectrum Fungicide,25.0,56.4,56.4,0.0
+LOT-2022-458,Trilex AL + Liquid Rhizobium Inoculant,72.0,60.93,60.93,0.0
+LOT-2022-465,Teraxxa F4 Cereal Treatment,25.0,59.44,59.44,0.0
+LOT-2022-466,Teraxxa F4 Cereal Treatment,72.0,44.42,44.42,0.0
+LOT-2022-468,Neonicotinoid + Broad-Spectrum Fungicide,25.0,68.35,68.35,0.0
+LOT-2022-481,Teraxxa F4 Cereal Treatment,48.0,55.26,55.26,0.0
+LOT-2022-497,Trilex AL + Liquid Rhizobium Inoculant,72.0,87.87,87.87,0.0
+LOT-2022-498,Teraxxa F4 Cereal Treatment,25.0,40.62,40.62,0.0
+LOT-2022-505,Teraxxa F4 Cereal Treatment,72.0,57.44,57.44,0.0
+LOT-2022-506,Teraxxa F4 Cereal Treatment,95.0,50.54,50.54,0.0
+LOT-2022-510,Trilex AL + Liquid Rhizobium Inoculant,48.0,78.99,78.99,0.0
+LOT-2022-512,Trilex AL + Liquid Rhizobium Inoculant,25.0,79.32,79.32,0.0
+LOT-2022-513,Neonicotinoid + Broad-Spectrum Fungicide,95.0,70.5,70.5,0.0
+LOT-2022-515,Neonicotinoid + Broad-Spectrum Fungicide,72.0,58.32,58.32,0.0
+LOT-2022-520,Teraxxa F4 Cereal Treatment,95.0,54.66,54.66,0.0
+LOT-2023-003,Teraxxa F4 Cereal Treatment,72.0,50.58,50.58,0.0
+LOT-2023-007,Teraxxa F4 Cereal Treatment,48.0,55.86,55.86,0.0
+LOT-2023-008,Teraxxa F4 Cereal Treatment,95.0,59.82,59.82,0.0
+LOT-2023-009,Teraxxa F4 Cereal Treatment,48.0,44.02,44.02,0.0
+LOT-2023-012,Teraxxa F4 Cereal Treatment,25.0,59.9,59.9,0.0
+LOT-2023-030,Teraxxa F4 Cereal Treatment,72.0,41.8,41.8,0.0
+LOT-2023-031,Teraxxa F4 Cereal Treatment,72.0,40.04,40.04,0.0
+LOT-2023-038,Neonicotinoid + Broad-Spectrum Fungicide,48.0,56.21,51.1,5.11
+LOT-2023-042,Trilex AL + Liquid Rhizobium Inoculant,48.0,70.26,70.26,0.0
+LOT-2023-044,Neonicotinoid + Broad-Spectrum Fungicide,25.0,65.82,65.82,0.0
+LOT-2023-063,Teraxxa F4 Cereal Treatment,95.0,41.38,41.38,0.0
+LOT-2023-107,Teraxxa F4 Cereal Treatment,72.0,40.12,40.12,0.0
+LOT-2023-108,Neonicotinoid + Broad-Spectrum Fungicide,72.0,73.42,73.42,0.0
+LOT-2023-110,Teraxxa F4 Cereal Treatment,25.0,56.44,56.44,0.0
+LOT-2023-111,Teraxxa F4 Cereal Treatment,25.0,56.18,56.18,0.0
+LOT-2023-113,Trilex AL + Liquid Rhizobium Inoculant,48.0,86.52,86.52,0.0
+LOT-2023-125,Neonicotinoid + Broad-Spectrum Fungicide,48.0,67.5,67.5,0.0
+LOT-2023-128,Teraxxa F4 Cereal Treatment,95.0,42.08,42.08,0.0
+LOT-2023-129,Trilex AL + Liquid Rhizobium Inoculant,25.0,71.97,71.97,0.0
+LOT-2023-131,Teraxxa F4 Cereal Treatment,95.0,54.46,54.46,0.0
+LOT-2023-134,Trilex AL + Liquid Rhizobium Inoculant,25.0,68.4,68.4,0.0
+LOT-2023-139,Teraxxa F4 Cereal Treatment,72.0,53.74,53.74,0.0
+LOT-2023-145,Teraxxa F4 Cereal Treatment,25.0,40.48,40.48,0.0
+LOT-2023-153,Teraxxa F4 Cereal Treatment,25.0,46.12,46.12,0.0
+LOT-2023-157,Teraxxa F4 Cereal Treatment,72.0,56.08,50.98,5.1
+LOT-2023-158,Trilex AL + Liquid Rhizobium Inoculant,25.0,86.86,78.96,7.9
+LOT-2023-175,Neonicotinoid + Broad-Spectrum Fungicide,95.0,70.86,64.42,6.44
+LOT-2023-183,Neonicotinoid + Broad-Spectrum Fungicide,48.0,67.45,67.45,0.0
+LOT-2023-189,Teraxxa F4 Cereal Treatment,48.0,40.12,40.12,0.0
+LOT-2023-191,Teraxxa F4 Cereal Treatment,95.0,46.22,42.02,4.2
+LOT-2023-196,Teraxxa F4 Cereal Treatment,72.0,57.38,57.38,0.0
+LOT-2023-199,Neonicotinoid + Broad-Spectrum Fungicide,25.0,67.05,67.05,0.0
+LOT-2023-211,Neonicotinoid + Broad-Spectrum Fungicide,95.0,52.82,52.82,0.0
+LOT-2023-216,Neonicotinoid + Broad-Spectrum Fungicide,48.0,71.05,71.05,0.0
+LOT-2023-225,Trilex AL + Liquid Rhizobium Inoculant,48.0,67.26,67.26,0.0
+LOT-2023-233,Teraxxa F4 Cereal Treatment,95.0,49.56,49.56,0.0
+LOT-2023-234,Trilex AL + Liquid Rhizobium Inoculant,48.0,64.35,64.35,0.0
+LOT-2023-242,Trilex AL + Liquid Rhizobium Inoculant,95.0,81.3,81.3,0.0
+LOT-2023-246,Teraxxa F4 Cereal Treatment,48.0,53.34,53.34,0.0
+LOT-2023-249,Trilex AL + Liquid Rhizobium Inoculant,95.0,66.33,66.33,0.0
+LOT-2023-252,Trilex AL + Liquid Rhizobium Inoculant,25.0,85.89,85.89,0.0
+LOT-2023-254,Teraxxa F4 Cereal Treatment,25.0,48.02,48.02,0.0
+LOT-2023-256,Trilex AL + Liquid Rhizobium Inoculant,25.0,68.79,68.79,0.0
+LOT-2023-257,Teraxxa F4 Cereal Treatment,25.0,43.04,43.04,0.0
+LOT-2023-264,Teraxxa F4 Cereal Treatment,48.0,45.32,45.32,0.0
+LOT-2023-271,Teraxxa F4 Cereal Treatment,72.0,40.44,40.44,0.0
+LOT-2023-284,Neonicotinoid + Broad-Spectrum Fungicide,95.0,64.57,64.57,0.0
+LOT-2023-287,Teraxxa F4 Cereal Treatment,72.0,56.84,56.84,0.0
+LOT-2023-288,Trilex AL + Liquid Rhizobium Inoculant,48.0,76.47,76.47,0.0
+LOT-2023-289,Neonicotinoid + Broad-Spectrum Fungicide,48.0,55.48,55.48,0.0
+LOT-2023-294,Trilex AL + Liquid Rhizobium Inoculant,72.0,61.02,61.02,0.0
+LOT-2023-300,Teraxxa F4 Cereal Treatment,72.0,44.3,44.3,0.0
+LOT-2023-303,Trilex AL + Liquid Rhizobium Inoculant,48.0,72.48,72.48,0.0
+LOT-2023-311,Trilex AL + Liquid Rhizobium Inoculant,48.0,82.8,82.8,0.0
+LOT-2023-321,Teraxxa F4 Cereal Treatment,95.0,43.76,43.76,0.0
+LOT-2023-325,Neonicotinoid + Broad-Spectrum Fungicide,25.0,68.0,68.0,0.0
+LOT-2023-326,Neonicotinoid + Broad-Spectrum Fungicide,25.0,71.68,71.68,0.0
+LOT-2023-334,Neonicotinoid + Broad-Spectrum Fungicide,95.0,61.35,61.35,0.0
+LOT-2023-336,Neonicotinoid + Broad-Spectrum Fungicide,72.0,70.53,70.53,0.0
+LOT-2023-337,Neonicotinoid + Broad-Spectrum Fungicide,48.0,63.88,63.88,0.0
+LOT-2023-347,Neonicotinoid + Broad-Spectrum Fungicide,72.0,65.92,65.92,0.0
+LOT-2023-349,Teraxxa F4 Cereal Treatment,25.0,50.52,50.52,0.0
+LOT-2023-359,Neonicotinoid + Broad-Spectrum Fungicide,25.0,61.58,61.58,0.0
+LOT-2023-367,Trilex AL + Liquid Rhizobium Inoculant,72.0,67.05,67.05,0.0
+LOT-2023-374,Teraxxa F4 Cereal Treatment,25.0,50.67,46.06,4.61
+LOT-2023-380,Trilex AL + Liquid Rhizobium Inoculant,48.0,68.7,68.7,0.0
+LOT-2023-385,Teraxxa F4 Cereal Treatment,95.0,51.26,51.26,0.0
+LOT-2023-392,Neonicotinoid + Broad-Spectrum Fungicide,72.0,53.0,53.0,0.0
+LOT-2023-397,Neonicotinoid + Broad-Spectrum Fungicide,48.0,72.93,72.93,0.0
+LOT-2023-411,Neonicotinoid + Broad-Spectrum Fungicide,48.0,68.03,68.03,0.0
+LOT-2023-416,Neonicotinoid + Broad-Spectrum Fungicide,25.0,60.03,60.03,0.0
+LOT-2023-430,Neonicotinoid + Broad-Spectrum Fungicide,48.0,53.98,53.98,0.0
+LOT-2023-444,Neonicotinoid + Broad-Spectrum Fungicide,72.0,72.05,72.05,0.0
+LOT-2023-451,Neonicotinoid + Broad-Spectrum Fungicide,48.0,70.6,70.6,0.0
+LOT-2023-453,Neonicotinoid + Broad-Spectrum Fungicide,95.0,68.05,68.05,0.0
+LOT-2023-479,Trilex AL + Liquid Rhizobium Inoculant,48.0,68.16,68.16,0.0
+LOT-2023-482,Neonicotinoid + Broad-Spectrum Fungicide,48.0,60.05,60.05,0.0
+LOT-2023-514,Trilex AL + Liquid Rhizobium Inoculant,95.0,69.4,63.09,6.31
+LOT-2024-001,Trilex AL + Liquid Rhizobium Inoculant,48.0,65.67,65.67,0.0
+LOT-2024-011,Teraxxa F4 Cereal Treatment,48.0,55.66,55.66,0.0
+LOT-2024-016,Neonicotinoid + Broad-Spectrum Fungicide,25.0,67.88,67.88,0.0
+LOT-2024-020,Teraxxa F4 Cereal Treatment,72.0,51.86,51.86,0.0
+LOT-2024-023,Teraxxa F4 Cereal Treatment,25.0,57.92,57.92,0.0
+LOT-2024-027,Neonicotinoid + Broad-Spectrum Fungicide,72.0,64.57,64.57,0.0
+LOT-2024-033,Teraxxa F4 Cereal Treatment,95.0,49.34,49.34,0.0
+LOT-2024-034,Teraxxa F4 Cereal Treatment,95.0,46.8,46.8,0.0
+LOT-2024-039,Neonicotinoid + Broad-Spectrum Fungicide,95.0,80.85,73.5,7.35
+LOT-2024-040,Neonicotinoid + Broad-Spectrum Fungicide,72.0,57.29,52.08,5.21
+LOT-2024-048,Teraxxa F4 Cereal Treatment,72.0,58.62,58.62,0.0
+LOT-2024-050,Teraxxa F4 Cereal Treatment,72.0,56.54,56.54,0.0
+LOT-2024-058,Neonicotinoid + Broad-Spectrum Fungicide,95.0,53.25,53.25,0.0
+LOT-2024-059,Neonicotinoid + Broad-Spectrum Fungicide,72.0,64.12,64.12,0.0
+LOT-2024-060,Trilex AL + Liquid Rhizobium Inoculant,48.0,86.01,86.01,0.0
+LOT-2024-061,Trilex AL + Liquid Rhizobium Inoculant,25.0,77.16,77.16,0.0
+LOT-2024-066,Teraxxa F4 Cereal Treatment,95.0,58.14,58.14,0.0
+LOT-2024-068,Trilex AL + Liquid Rhizobium Inoculant,25.0,88.29,88.29,0.0
+LOT-2024-074,Trilex AL + Liquid Rhizobium Inoculant,48.0,72.66,72.66,0.0
+LOT-2024-079,Teraxxa F4 Cereal Treatment,72.0,47.54,47.54,0.0
+LOT-2024-083,Neonicotinoid + Broad-Spectrum Fungicide,25.0,73.4,73.4,0.0
+LOT-2024-086,Neonicotinoid + Broad-Spectrum Fungicide,48.0,66.88,66.88,0.0
+LOT-2024-095,Teraxxa F4 Cereal Treatment,48.0,42.32,42.32,0.0
+LOT-2024-096,Teraxxa F4 Cereal Treatment,25.0,44.92,40.84,4.08
+LOT-2024-097,Trilex AL + Liquid Rhizobium Inoculant,95.0,76.95,76.95,0.0
+LOT-2024-106,Trilex AL + Liquid Rhizobium Inoculant,25.0,87.9,87.9,0.0
+LOT-2024-118,Neonicotinoid + Broad-Spectrum Fungicide,95.0,71.1,71.1,0.0
+LOT-2024-120,Trilex AL + Liquid Rhizobium Inoculant,72.0,80.28,80.28,0.0
+LOT-2024-126,Trilex AL + Liquid Rhizobium Inoculant,95.0,64.17,64.17,0.0
+LOT-2024-143,Neonicotinoid + Broad-Spectrum Fungicide,72.0,56.35,56.35,0.0
+LOT-2024-147,Neonicotinoid + Broad-Spectrum Fungicide,25.0,71.9,71.9,0.0
+LOT-2024-149,Trilex AL + Liquid Rhizobium Inoculant,72.0,65.49,65.49,0.0
+LOT-2024-155,Neonicotinoid + Broad-Spectrum Fungicide,48.0,56.95,56.95,0.0
+LOT-2024-160,Trilex AL + Liquid Rhizobium Inoculant,72.0,70.29,63.9,6.39
+LOT-2024-168,Neonicotinoid + Broad-Spectrum Fungicide,95.0,66.9,66.9,0.0
+LOT-2024-169,Trilex AL + Liquid Rhizobium Inoculant,95.0,88.32,88.32,0.0
+LOT-2024-170,Neonicotinoid + Broad-Spectrum Fungicide,95.0,56.72,56.72,0.0
+LOT-2024-171,Teraxxa F4 Cereal Treatment,72.0,49.5,49.5,0.0
+LOT-2024-172,Teraxxa F4 Cereal Treatment,95.0,52.68,52.68,0.0
+LOT-2024-177,Teraxxa F4 Cereal Treatment,95.0,59.98,59.98,0.0
+LOT-2024-186,Teraxxa F4 Cereal Treatment,48.0,42.1,42.1,0.0
+LOT-2024-198,Trilex AL + Liquid Rhizobium Inoculant,72.0,74.97,74.97,0.0
+LOT-2024-202,Neonicotinoid + Broad-Spectrum Fungicide,48.0,59.62,59.62,0.0
+LOT-2024-207,Trilex AL + Liquid Rhizobium Inoculant,95.0,85.98,85.98,0.0
+LOT-2024-208,Teraxxa F4 Cereal Treatment,95.0,49.52,49.52,0.0
+LOT-2024-220,Teraxxa F4 Cereal Treatment,95.0,42.22,42.22,0.0
+LOT-2024-229,Trilex AL + Liquid Rhizobium Inoculant,72.0,79.02,79.02,0.0
+LOT-2024-232,Neonicotinoid + Broad-Spectrum Fungicide,25.0,69.28,69.28,0.0
+LOT-2024-238,Neonicotinoid + Broad-Spectrum Fungicide,95.0,50.08,50.08,0.0
+LOT-2024-245,Trilex AL + Liquid Rhizobium Inoculant,95.0,85.77,85.77,0.0
+LOT-2024-250,Teraxxa F4 Cereal Treatment,95.0,48.09,43.72,4.37
+LOT-2024-251,Teraxxa F4 Cereal Treatment,95.0,51.04,51.04,0.0
+LOT-2024-253,Trilex AL + Liquid Rhizobium Inoculant,72.0,72.48,72.48,0.0
+LOT-2024-258,Teraxxa F4 Cereal Treatment,25.0,59.84,54.4,5.44
+LOT-2024-259,Teraxxa F4 Cereal Treatment,25.0,47.42,47.42,0.0
+LOT-2024-265,Neonicotinoid + Broad-Spectrum Fungicide,25.0,71.75,71.75,0.0
+LOT-2024-272,Neonicotinoid + Broad-Spectrum Fungicide,95.0,68.25,68.25,0.0
+LOT-2024-275,Neonicotinoid + Broad-Spectrum Fungicide,95.0,66.2,66.2,0.0
+LOT-2024-276,Neonicotinoid + Broad-Spectrum Fungicide,25.0,69.9,69.9,0.0
+LOT-2024-281,Neonicotinoid + Broad-Spectrum Fungicide,25.0,68.85,68.85,0.0
+LOT-2024-290,Neonicotinoid + Broad-Spectrum Fungicide,95.0,50.9,50.9,0.0
+LOT-2024-293,Neonicotinoid + Broad-Spectrum Fungicide,95.0,59.88,59.88,0.0
+LOT-2024-296,Neonicotinoid + Broad-Spectrum Fungicide,48.0,73.27,73.27,0.0
+LOT-2024-298,Teraxxa F4 Cereal Treatment,48.0,42.52,42.52,0.0
+LOT-2024-314,Neonicotinoid + Broad-Spectrum Fungicide,48.0,68.42,68.42,0.0
+LOT-2024-316,Trilex AL + Liquid Rhizobium Inoculant,25.0,89.25,89.25,0.0
+LOT-2024-320,Trilex AL + Liquid Rhizobium Inoculant,72.0,61.56,61.56,0.0
+LOT-2024-324,Teraxxa F4 Cereal Treatment,95.0,53.64,53.64,0.0
+LOT-2024-342,Neonicotinoid + Broad-Spectrum Fungicide,48.0,61.7,61.7,0.0
+LOT-2024-345,Trilex AL + Liquid Rhizobium Inoculant,72.0,77.37,77.37,0.0
+LOT-2024-348,Teraxxa F4 Cereal Treatment,95.0,41.7,41.7,0.0
+LOT-2024-352,Teraxxa F4 Cereal Treatment,72.0,40.86,40.86,0.0
+LOT-2024-353,Teraxxa F4 Cereal Treatment,25.0,58.67,53.34,5.33
+LOT-2024-360,Neonicotinoid + Broad-Spectrum Fungicide,25.0,70.58,70.58,0.0
+LOT-2024-368,Neonicotinoid + Broad-Spectrum Fungicide,25.0,69.55,69.55,0.0
+LOT-2024-370,Teraxxa F4 Cereal Treatment,48.0,50.88,50.88,0.0
+LOT-2024-401,Teraxxa F4 Cereal Treatment,95.0,42.0,42.0,0.0
+LOT-2024-404,Teraxxa F4 Cereal Treatment,25.0,53.76,53.76,0.0
+LOT-2024-406,Teraxxa F4 Cereal Treatment,48.0,44.84,44.84,0.0
+LOT-2024-410,Neonicotinoid + Broad-Spectrum Fungicide,48.0,72.78,72.78,0.0
+LOT-2024-412,Teraxxa F4 Cereal Treatment,48.0,56.76,56.76,0.0
+LOT-2024-426,Neonicotinoid + Broad-Spectrum Fungicide,48.0,67.72,67.72,0.0
+LOT-2024-431,Trilex AL + Liquid Rhizobium Inoculant,25.0,88.47,88.47,0.0
+LOT-2024-435,Trilex AL + Liquid Rhizobium Inoculant,48.0,60.93,60.93,0.0
+LOT-2024-436,Trilex AL + Liquid Rhizobium Inoculant,25.0,82.08,82.08,0.0
+LOT-2024-437,Neonicotinoid + Broad-Spectrum Fungicide,25.0,58.25,58.25,0.0
+LOT-2024-439,Neonicotinoid + Broad-Spectrum Fungicide,48.0,72.65,72.65,0.0
+LOT-2024-442,Teraxxa F4 Cereal Treatment,25.0,45.34,45.34,0.0
+LOT-2024-445,Neonicotinoid + Broad-Spectrum Fungicide,95.0,68.12,68.12,0.0
+LOT-2024-448,Teraxxa F4 Cereal Treatment,95.0,57.56,57.56,0.0
+LOT-2024-454,Neonicotinoid + Broad-Spectrum Fungicide,72.0,51.05,51.05,0.0
+LOT-2024-462,Trilex AL + Liquid Rhizobium Inoculant,95.0,71.94,71.94,0.0
+LOT-2024-480,Trilex AL + Liquid Rhizobium Inoculant,25.0,91.15,82.86,8.29
+LOT-2024-488,Neonicotinoid + Broad-Spectrum Fungicide,25.0,61.38,61.38,0.0
+LOT-2024-494,Trilex AL + Liquid Rhizobium Inoculant,95.0,68.01,68.01,0.0
+LOT-2024-496,Neonicotinoid + Broad-Spectrum Fungicide,48.0,55.5,55.5,0.0
+LOT-2024-500,Neonicotinoid + Broad-Spectrum Fungicide,48.0,53.3,53.3,0.0
+LOT-2024-509,Teraxxa F4 Cereal Treatment,25.0,57.14,57.14,0.0
+LOT-2024-511,Trilex AL + Liquid Rhizobium Inoculant,48.0,77.25,77.25,0.0
+LOT-2024-519,Teraxxa F4 Cereal Treatment,72.0,41.52,41.52,0.0
+LOT-2025-002,Neonicotinoid + Broad-Spectrum Fungicide,72.0,181.62,181.62,0.0
+LOT-2025-004,Teraxxa F4 Cereal Treatment,95.0,144.7,144.7,0.0
+LOT-2025-005,Teraxxa F4 Cereal Treatment,95.0,137.26,137.26,0.0
+LOT-2025-010,Teraxxa F4 Cereal Treatment,48.0,147.42,147.42,0.0
+LOT-2025-014,Trilex AL + Liquid Rhizobium Inoculant,25.0,214.92,214.92,0.0
+LOT-2025-021,Trilex AL + Liquid Rhizobium Inoculant,95.0,215.52,215.52,0.0
+LOT-2025-026,Trilex AL + Liquid Rhizobium Inoculant,72.0,263.27,239.34,23.93
+LOT-2025-043,Teraxxa F4 Cereal Treatment,95.0,138.94,138.94,0.0
+LOT-2025-045,Teraxxa F4 Cereal Treatment,95.0,171.25,155.68,15.57
+LOT-2025-056,Teraxxa F4 Cereal Treatment,72.0,152.82,152.82,0.0
+LOT-2025-062,Neonicotinoid + Broad-Spectrum Fungicide,25.0,190.9,190.9,0.0
+LOT-2025-076,Teraxxa F4 Cereal Treatment,95.0,156.52,156.52,0.0
+LOT-2025-089,Teraxxa F4 Cereal Treatment,95.0,151.94,151.94,0.0
+LOT-2025-090,Neonicotinoid + Broad-Spectrum Fungicide,95.0,206.48,206.48,0.0
+LOT-2025-092,Neonicotinoid + Broad-Spectrum Fungicide,48.0,196.28,196.28,0.0
+LOT-2025-098,Teraxxa F4 Cereal Treatment,95.0,151.88,151.88,0.0
+LOT-2025-100,Teraxxa F4 Cereal Treatment,72.0,163.2,163.2,0.0
+LOT-2025-101,Teraxxa F4 Cereal Treatment,25.0,154.24,154.24,0.0
+LOT-2025-114,Neonicotinoid + Broad-Spectrum Fungicide,25.0,177.05,177.05,0.0
+LOT-2025-124,Teraxxa F4 Cereal Treatment,72.0,138.28,138.28,0.0
+LOT-2025-132,Neonicotinoid + Broad-Spectrum Fungicide,48.0,170.12,170.12,0.0
+LOT-2025-136,Neonicotinoid + Broad-Spectrum Fungicide,72.0,207.48,207.48,0.0
+LOT-2025-144,Neonicotinoid + Broad-Spectrum Fungicide,25.0,217.8,198.0,19.8
+LOT-2025-148,Teraxxa F4 Cereal Treatment,72.0,167.5,167.5,0.0
+LOT-2025-151,Teraxxa F4 Cereal Treatment,48.0,154.14,154.14,0.0
+LOT-2025-152,Trilex AL + Liquid Rhizobium Inoculant,25.0,223.41,223.41,0.0
+LOT-2025-154,Trilex AL + Liquid Rhizobium Inoculant,48.0,198.57,198.57,0.0
+LOT-2025-156,Teraxxa F4 Cereal Treatment,72.0,156.86,156.86,0.0
+LOT-2025-163,Trilex AL + Liquid Rhizobium Inoculant,95.0,229.92,229.92,0.0
+LOT-2025-166,Teraxxa F4 Cereal Treatment,72.0,169.6,169.6,0.0
+LOT-2025-187,Trilex AL + Liquid Rhizobium Inoculant,48.0,230.27,209.34,20.93
+LOT-2025-194,Trilex AL + Liquid Rhizobium Inoculant,72.0,226.83,226.83,0.0
+LOT-2025-213,Trilex AL + Liquid Rhizobium Inoculant,95.0,234.06,234.06,0.0
+LOT-2025-222,Trilex AL + Liquid Rhizobium Inoculant,48.0,233.67,233.67,0.0
+LOT-2025-228,Teraxxa F4 Cereal Treatment,72.0,152.46,152.46,0.0
+LOT-2025-237,Trilex AL + Liquid Rhizobium Inoculant,48.0,241.62,241.62,0.0
+LOT-2025-248,Neonicotinoid + Broad-Spectrum Fungicide,48.0,172.75,172.75,0.0
+LOT-2025-282,Teraxxa F4 Cereal Treatment,25.0,159.02,159.02,0.0
+LOT-2025-283,Trilex AL + Liquid Rhizobium Inoculant,25.0,232.17,232.17,0.0
+LOT-2025-305,Trilex AL + Liquid Rhizobium Inoculant,48.0,273.64,248.76,24.88
+LOT-2025-312,Teraxxa F4 Cereal Treatment,72.0,163.88,163.88,0.0
+LOT-2025-319,Teraxxa F4 Cereal Treatment,72.0,142.6,142.6,0.0
+LOT-2025-333,Neonicotinoid + Broad-Spectrum Fungicide,72.0,176.3,176.3,0.0
+LOT-2025-339,Teraxxa F4 Cereal Treatment,95.0,169.26,169.26,0.0
+LOT-2025-344,Teraxxa F4 Cereal Treatment,48.0,151.1,151.1,0.0
+LOT-2025-346,Trilex AL + Liquid Rhizobium Inoculant,48.0,249.39,249.39,0.0
+LOT-2025-355,Neonicotinoid + Broad-Spectrum Fungicide,95.0,170.7,170.7,0.0
+LOT-2025-357,Teraxxa F4 Cereal Treatment,48.0,155.72,155.72,0.0
+LOT-2025-362,Teraxxa F4 Cereal Treatment,48.0,162.4,162.4,0.0
+LOT-2025-363,Trilex AL + Liquid Rhizobium Inoculant,95.0,251.85,251.85,0.0
+LOT-2025-366,Teraxxa F4 Cereal Treatment,25.0,143.5,143.5,0.0
+LOT-2025-371,Teraxxa F4 Cereal Treatment,48.0,159.0,159.0,0.0
+LOT-2025-372,Neonicotinoid + Broad-Spectrum Fungicide,95.0,189.45,189.45,0.0
+LOT-2025-394,Trilex AL + Liquid Rhizobium Inoculant,72.0,218.49,198.63,19.86
+LOT-2025-400,Neonicotinoid + Broad-Spectrum Fungicide,25.0,197.0,197.0,0.0
+LOT-2025-405,Teraxxa F4 Cereal Treatment,72.0,157.6,157.6,0.0
+LOT-2025-420,Neonicotinoid + Broad-Spectrum Fungicide,48.0,209.02,209.02,0.0
+LOT-2025-432,Teraxxa F4 Cereal Treatment,25.0,149.9,149.9,0.0
+LOT-2025-434,Teraxxa F4 Cereal Treatment,95.0,139.22,139.22,0.0
+LOT-2025-438,Teraxxa F4 Cereal Treatment,48.0,131.78,131.78,0.0
+LOT-2025-441,Trilex AL + Liquid Rhizobium Inoculant,95.0,219.93,219.93,0.0
+LOT-2025-446,Teraxxa F4 Cereal Treatment,25.0,156.29,142.08,14.21
+LOT-2025-457,Neonicotinoid + Broad-Spectrum Fungicide,72.0,200.55,200.55,0.0
+LOT-2025-459,Teraxxa F4 Cereal Treatment,48.0,144.18,144.18,0.0
+LOT-2025-463,Neonicotinoid + Broad-Spectrum Fungicide,48.0,209.95,209.95,0.0
+LOT-2025-472,Trilex AL + Liquid Rhizobium Inoculant,95.0,252.75,252.75,0.0
+LOT-2025-473,Teraxxa F4 Cereal Treatment,25.0,154.84,154.84,0.0
+LOT-2025-475,Neonicotinoid + Broad-Spectrum Fungicide,95.0,208.92,208.92,0.0
+LOT-2025-476,Neonicotinoid + Broad-Spectrum Fungicide,25.0,220.6,200.55,20.05
+LOT-2025-478,Teraxxa F4 Cereal Treatment,48.0,151.88,151.88,0.0
+LOT-2025-483,Teraxxa F4 Cereal Treatment,25.0,137.22,137.22,0.0
+LOT-2025-486,Teraxxa F4 Cereal Treatment,48.0,148.34,148.34,0.0
+LOT-2025-489,Teraxxa F4 Cereal Treatment,25.0,152.44,152.44,0.0
+LOT-2025-495,Trilex AL + Liquid Rhizobium Inoculant,72.0,246.84,246.84,0.0
+LOT-2025-499,Neonicotinoid + Broad-Spectrum Fungicide,25.0,205.24,186.58,18.66
+LOT-2025-504,Trilex AL + Liquid Rhizobium Inoculant,72.0,248.85,248.85,0.0
+LOT-2025-508,Neonicotinoid + Broad-Spectrum Fungicide,25.0,196.22,196.22,0.0
+LOT-2025-517,Teraxxa F4 Cereal Treatment,25.0,135.48,135.48,0.0
+LOT-2025-518,Teraxxa F4 Cereal Treatment,95.0,186.78,169.8,16.98
+LOT-2026-013,Trilex AL + Liquid Rhizobium Inoculant,95.0,196.62,196.62,0.0
+LOT-2026-017,Trilex AL + Liquid Rhizobium Inoculant,48.0,188.52,188.52,0.0
+LOT-2026-018,Teraxxa F4 Cereal Treatment,95.0,136.36,136.36,0.0
+LOT-2026-025,Neonicotinoid + Broad-Spectrum Fungicide,25.0,142.95,142.95,0.0
+LOT-2026-035,Teraxxa F4 Cereal Treatment,95.0,135.46,135.46,0.0
+LOT-2026-036,Trilex AL + Liquid Rhizobium Inoculant,25.0,194.88,194.88,0.0
+LOT-2026-037,Teraxxa F4 Cereal Treatment,72.0,126.26,126.26,0.0
+LOT-2026-051,Neonicotinoid + Broad-Spectrum Fungicide,25.0,185.15,185.15,0.0
+LOT-2026-064,Teraxxa F4 Cereal Treatment,48.0,130.9,130.9,0.0
+LOT-2026-070,Teraxxa F4 Cereal Treatment,72.0,118.76,118.76,0.0
+LOT-2026-071,Teraxxa F4 Cereal Treatment,48.0,128.36,128.36,0.0
+LOT-2026-072,Teraxxa F4 Cereal Treatment,48.0,146.78,146.78,0.0
+LOT-2026-075,Teraxxa F4 Cereal Treatment,48.0,117.04,117.04,0.0
+LOT-2026-082,Teraxxa F4 Cereal Treatment,95.0,118.56,118.56,0.0
+LOT-2026-084,Neonicotinoid + Broad-Spectrum Fungicide,48.0,138.15,138.15,0.0
+LOT-2026-085,Teraxxa F4 Cereal Treatment,72.0,110.56,110.56,0.0
+LOT-2026-088,Teraxxa F4 Cereal Treatment,25.0,143.18,143.18,0.0
+LOT-2026-123,Trilex AL + Liquid Rhizobium Inoculant,48.0,229.81,208.92,20.89
+LOT-2026-127,Teraxxa F4 Cereal Treatment,72.0,136.62,124.2,12.42
+LOT-2026-133,Teraxxa F4 Cereal Treatment,48.0,137.94,137.94,0.0
+LOT-2026-138,Teraxxa F4 Cereal Treatment,25.0,125.8,125.8,0.0
+LOT-2026-150,Trilex AL + Liquid Rhizobium Inoculant,72.0,222.18,222.18,0.0
+LOT-2026-159,Neonicotinoid + Broad-Spectrum Fungicide,72.0,185.85,185.85,0.0
+LOT-2026-164,Teraxxa F4 Cereal Treatment,25.0,125.72,125.72,0.0
+LOT-2026-167,Teraxxa F4 Cereal Treatment,72.0,144.16,144.16,0.0
+LOT-2026-173,Neonicotinoid + Broad-Spectrum Fungicide,25.0,176.15,176.15,0.0
+LOT-2026-174,Teraxxa F4 Cereal Treatment,72.0,122.4,122.4,0.0
+LOT-2026-179,Teraxxa F4 Cereal Treatment,72.0,119.28,119.28,0.0
+LOT-2026-184,Trilex AL + Liquid Rhizobium Inoculant,25.0,192.48,192.48,0.0
+LOT-2026-190,Teraxxa F4 Cereal Treatment,25.0,141.26,141.26,0.0
+LOT-2026-193,Trilex AL + Liquid Rhizobium Inoculant,72.0,222.6,222.6,0.0
+LOT-2026-200,Neonicotinoid + Broad-Spectrum Fungicide,72.0,193.25,175.68,17.57
+LOT-2026-204,Trilex AL + Liquid Rhizobium Inoculant,25.0,216.3,216.3,0.0
+LOT-2026-209,Teraxxa F4 Cereal Treatment,95.0,134.12,134.12,0.0
+LOT-2026-221,Neonicotinoid + Broad-Spectrum Fungicide,25.0,179.27,179.27,0.0
+LOT-2026-226,Trilex AL + Liquid Rhizobium Inoculant,72.0,212.07,212.07,0.0
+LOT-2026-231,Trilex AL + Liquid Rhizobium Inoculant,72.0,187.62,187.62,0.0
+LOT-2026-236,Trilex AL + Liquid Rhizobium Inoculant,72.0,198.12,198.12,0.0
+LOT-2026-240,Teraxxa F4 Cereal Treatment,25.0,142.2,142.2,0.0
+LOT-2026-241,Trilex AL + Liquid Rhizobium Inoculant,72.0,167.76,167.76,0.0
+LOT-2026-247,Trilex AL + Liquid Rhizobium Inoculant,95.0,234.83,213.48,21.35
+LOT-2026-269,Teraxxa F4 Cereal Treatment,48.0,117.12,117.12,0.0
+LOT-2026-280,Trilex AL + Liquid Rhizobium Inoculant,95.0,195.87,195.87,0.0
+LOT-2026-291,Neonicotinoid + Broad-Spectrum Fungicide,25.0,195.71,177.92,17.79
+LOT-2026-297,Trilex AL + Liquid Rhizobium Inoculant,72.0,180.24,180.24,0.0
+LOT-2026-299,Neonicotinoid + Broad-Spectrum Fungicide,25.0,149.8,149.8,0.0
+LOT-2026-301,Neonicotinoid + Broad-Spectrum Fungicide,48.0,157.65,157.65,0.0
+LOT-2026-307,Trilex AL + Liquid Rhizobium Inoculant,25.0,240.54,218.67,21.87
+LOT-2026-310,Trilex AL + Liquid Rhizobium Inoculant,72.0,181.53,165.03,16.5
+LOT-2026-318,Teraxxa F4 Cereal Treatment,48.0,146.06,146.06,0.0
+LOT-2026-327,Trilex AL + Liquid Rhizobium Inoculant,48.0,174.24,174.24,0.0
+LOT-2026-328,Teraxxa F4 Cereal Treatment,72.0,149.6,149.6,0.0
+LOT-2026-329,Teraxxa F4 Cereal Treatment,72.0,148.2,148.2,0.0
+LOT-2026-330,Neonicotinoid + Broad-Spectrum Fungicide,72.0,162.22,162.22,0.0
+LOT-2026-331,Teraxxa F4 Cereal Treatment,25.0,130.5,130.5,0.0
+LOT-2026-332,Neonicotinoid + Broad-Spectrum Fungicide,95.0,161.57,161.57,0.0
+LOT-2026-335,Teraxxa F4 Cereal Treatment,25.0,135.42,135.42,0.0
+LOT-2026-340,Neonicotinoid + Broad-Spectrum Fungicide,25.0,142.02,142.02,0.0
+LOT-2026-354,Trilex AL + Liquid Rhizobium Inoculant,95.0,166.95,166.95,0.0
+LOT-2026-356,Neonicotinoid + Broad-Spectrum Fungicide,72.0,140.38,140.38,0.0
+LOT-2026-358,Teraxxa F4 Cereal Treatment,72.0,127.78,127.78,0.0
+LOT-2026-365,Trilex AL + Liquid Rhizobium Inoculant,95.0,181.53,181.53,0.0
+LOT-2026-378,Teraxxa F4 Cereal Treatment,95.0,134.88,134.88,0.0
+LOT-2026-381,Neonicotinoid + Broad-Spectrum Fungicide,25.0,187.12,187.12,0.0
+LOT-2026-383,Teraxxa F4 Cereal Treatment,48.0,125.46,125.46,0.0
+LOT-2026-393,Neonicotinoid + Broad-Spectrum Fungicide,95.0,166.2,166.2,0.0
+LOT-2026-408,Teraxxa F4 Cereal Treatment,25.0,126.62,126.62,0.0
+LOT-2026-409,Neonicotinoid + Broad-Spectrum Fungicide,48.0,179.88,179.88,0.0
+LOT-2026-415,Neonicotinoid + Broad-Spectrum Fungicide,72.0,182.6,182.6,0.0
+LOT-2026-419,Neonicotinoid + Broad-Spectrum Fungicide,72.0,181.38,181.38,0.0
+LOT-2026-421,Trilex AL + Liquid Rhizobium Inoculant,25.0,223.47,223.47,0.0
+LOT-2026-424,Teraxxa F4 Cereal Treatment,25.0,111.1,111.1,0.0
+LOT-2026-428,Neonicotinoid + Broad-Spectrum Fungicide,95.0,179.5,179.5,0.0
+LOT-2026-429,Teraxxa F4 Cereal Treatment,72.0,140.08,140.08,0.0
+LOT-2026-440,Trilex AL + Liquid Rhizobium Inoculant,25.0,178.71,178.71,0.0
+LOT-2026-443,Trilex AL + Liquid Rhizobium Inoculant,72.0,222.39,222.39,0.0
+LOT-2026-450,Trilex AL + Liquid Rhizobium Inoculant,72.0,191.27,173.88,17.39
+LOT-2026-460,Trilex AL + Liquid Rhizobium Inoculant,95.0,205.77,205.77,0.0
+LOT-2026-469,Teraxxa F4 Cereal Treatment,48.0,119.0,119.0,0.0
+LOT-2026-470,Neonicotinoid + Broad-Spectrum Fungicide,95.0,174.99,159.08,15.91
+LOT-2026-477,Neonicotinoid + Broad-Spectrum Fungicide,25.0,173.45,173.45,0.0
+LOT-2026-484,Teraxxa F4 Cereal Treatment,95.0,132.54,132.54,0.0
+LOT-2026-487,Teraxxa F4 Cereal Treatment,95.0,127.1,127.1,0.0
+LOT-2026-491,Trilex AL + Liquid Rhizobium Inoculant,72.0,184.59,184.59,0.0
+LOT-2026-492,Neonicotinoid + Broad-Spectrum Fungicide,95.0,179.48,179.48,0.0
+LOT-2026-493,Teraxxa F4 Cereal Treatment,25.0,115.76,115.76,0.0
+LOT-2026-502,Trilex AL + Liquid Rhizobium Inoculant,48.0,190.8,190.8,0.0
+LOT-2026-503,Neonicotinoid + Broad-Spectrum Fungicide,95.0,182.7,182.7,0.0
+LOT-2026-507,Neonicotinoid + Broad-Spectrum Fungicide,95.0,179.8,179.8,0.0

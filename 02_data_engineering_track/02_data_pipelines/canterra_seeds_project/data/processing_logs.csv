@@ -1,51 +1,521 @@
-batch_id,processing_facility,quantity_metric_tons,physical_audit_quantity_mt,stock_status
-LOT-2026-001,Saskatchewan Retail Networks,143,141,In-Warehouse
-LOT-2026-002,Manitoba Contract Growers,293,291,In-Warehouse
-LOT-2026-003,Saskatchewan Retail Networks,266,264,In-Warehouse
-LOT-2026-004,Saskatchewan Retail Networks,151,149,In-Warehouse
-LOT-2026-005,Winnipeg Corporate HQ,138,136,Allocated
-LOT-2026-006,Manitoba Contract Growers,192,153,In-Transit
-LOT-2026-007,Manitoba Contract Growers,233,190,In-Warehouse
-LOT-2026-008,Alberta Co-op Distribution,202,166,In-Warehouse
-LOT-2026-009,Manitoba Contract Growers,247,194,In-Warehouse
-LOT-2026-010,Alberta Co-op Distribution,208,143,In-Warehouse
-LOT-2026-011,Manitoba Contract Growers,200,285,In-Warehouse
-LOT-2026-012,Alberta Co-op Distribution,107,215,In-Warehouse
-LOT-2026-013,Saskatchewan Retail Networks,174,78,In-Transit
-LOT-2026-014,Manitoba Contract Growers,234,209,In-Warehouse
-LOT-2026-015,Saskatchewan Retail Networks,167,286,In-Warehouse
-LOT-2026-016,Saskatchewan Retail Networks,72,65,Allocated
-LOT-2026-017,Alberta Co-op Distribution,215,52,In-Transit
-LOT-2026-018,Manitoba Contract Growers,61,75,In-Warehouse
-LOT-2026-019,Manitoba Contract Growers,277,212,In-Warehouse
-LOT-2026-020,Saskatchewan Retail Networks,197,59,In-Warehouse
-LOT-2026-021,Alberta Co-op Distribution,77,181,In-Warehouse
-LOT-2026-022,Manitoba Contract Growers,269,182,In-Warehouse
-LOT-2026-023,Winnipeg Corporate HQ,90,131,In-Transit
-LOT-2026-024,Alberta Co-op Distribution,66,254,In-Warehouse
-LOT-2026-025,Manitoba Contract Growers,265,90,In-Warehouse
-LOT-2026-026,Saskatchewan Retail Networks,136,192,In-Warehouse
-LOT-2026-027,Alberta Co-op Distribution,186,225,In-Warehouse
-LOT-2026-028,Saskatchewan Retail Networks,43,102,In-Transit
-LOT-2026-029,Saskatchewan Retail Networks,74,229,In-Transit
-LOT-2026-030,Manitoba Contract Growers,231,164,In-Warehouse
-LOT-2026-031,Saskatchewan Retail Networks,88,189,In-Warehouse
-LOT-2026-032,Saskatchewan Retail Networks,56,97,In-Warehouse
-LOT-2026-033,Manitoba Contract Growers,211,219,In-Warehouse
-LOT-2026-034,Manitoba Contract Growers,259,209,In-Warehouse
-LOT-2026-035,Alberta Co-op Distribution,197,93,In-Warehouse
-LOT-2026-036,Saskatchewan Retail Networks,85,140,In-Warehouse
-LOT-2026-037,Manitoba Contract Growers,45,92,In-Warehouse
-LOT-2026-038,Alberta Co-op Distribution,138,99,In-Warehouse
-LOT-2026-039,Alberta Co-op Distribution,272,147,In-Warehouse
-LOT-2026-040,Saskatchewan Retail Networks,76,44,In-Warehouse
-LOT-2026-041,Alberta Co-op Distribution,220,142,In-Warehouse
-LOT-2026-042,Manitoba Contract Growers,134,235,In-Warehouse
-LOT-2026-043,Manitoba Contract Growers,138,86,In-Transit
-LOT-2026-044,Saskatchewan Retail Networks,227,183,In-Warehouse
-LOT-2026-045,Alberta Co-op Distribution,155,163,In-Warehouse
-LOT-2026-046,Alberta Co-op Distribution,230,145,In-Warehouse
-LOT-2026-047,Manitoba Contract Growers,292,197,In-Warehouse
-LOT-2026-048,Alberta Co-op Distribution,200,186,In-Warehouse
-LOT-2026-049,Alberta Co-op Distribution,295,184,In-Warehouse
-LOT-2026-050,Alberta Co-op Distribution,167,159,Allocated
+batch_id,processing_facility,air_screen_separation_status,gravity_table_efficiency_pct,optical_color_sorter_passed,detected_foreign_material,quantity_metric_tons,physical_audit_quantity_mt,stock_status
+LOT-2021-022,Alberta Co-op Distribution,Pass,96.69,Yes,Metal Parts,21.54,20.04,In-Warehouse
+LOT-2021-028,Alberta Co-op Distribution,Pass,94.97,Yes,None,21.72,20.22,In-Warehouse
+LOT-2021-029,Saskatchewan Retail Networks,Pass,94.86,Yes,None,26.38,24.88,In-Warehouse
+LOT-2021-041,Winnipeg Corporate HQ,Pass,99.31,Yes,Weeds,27.41,25.91,In-Warehouse
+LOT-2021-046,Saskatchewan Retail Networks,Pass,97.0,Yes,Stones,25.3,23.8,In-Warehouse
+LOT-2021-049,Alberta Co-op Distribution,Pass,96.23,Yes,None,28.29,26.79,In-Warehouse
+LOT-2021-054,Winnipeg Corporate HQ,Pass,97.07,Yes,None,29.91,28.41,In-Warehouse
+LOT-2021-065,Manitoba Contract Growers,Pass,96.22,Yes,Stones,28.2,26.7,In-Warehouse
+LOT-2021-087,Manitoba Contract Growers,Pass,97.14,Yes,None,26.95,25.45,In-Warehouse
+LOT-2021-094,Manitoba Contract Growers,Pass,99.14,Yes,None,25.32,23.82,In-Warehouse
+LOT-2021-099,Alberta Co-op Distribution,Pass,97.7,Yes,None,24.49,22.99,In-Warehouse
+LOT-2021-102,Saskatchewan Retail Networks,Pass,98.25,Yes,Chaff,20.84,19.34,In-Warehouse
+LOT-2021-103,Winnipeg Corporate HQ,Pass,96.47,Yes,None,23.99,22.49,In-Warehouse
+LOT-2021-104,Manitoba Contract Growers,Re-clean Required,98.49,Yes,None,29.1,27.6,In-Warehouse
+LOT-2021-105,Winnipeg Corporate HQ,Re-clean Required,98.1,Yes,None,28.08,26.58,In-Warehouse
+LOT-2021-109,Alberta Co-op Distribution,Pass,95.15,Yes,None,22.16,20.66,In-Warehouse
+LOT-2021-112,Manitoba Contract Growers,Pass,97.59,Yes,Chaff,24.67,24.67,In-Warehouse
+LOT-2021-117,Alberta Co-op Distribution,Pass,95.89,Yes,None,28.17,28.17,In-Warehouse
+LOT-2021-119,Saskatchewan Retail Networks,Pass,98.84,Yes,None,20.67,20.67,In-Transit
+LOT-2021-122,Alberta Co-op Distribution,Pass,96.8,Yes,Chaff,23.87,23.87,In-Warehouse
+LOT-2021-130,Alberta Co-op Distribution,Pass,99.87,Yes,None,28.52,28.52,In-Warehouse
+LOT-2021-135,Saskatchewan Retail Networks,Pass,95.0,Yes,None,24.04,24.04,In-Transit
+LOT-2021-140,Winnipeg Corporate HQ,Pass,98.71,Yes,Brittles and Plastics,20.78,20.78,In-Transit
+LOT-2021-146,Saskatchewan Retail Networks,Re-clean Required,98.14,Yes,None,25.43,25.43,In-Warehouse
+LOT-2021-165,Saskatchewan Retail Networks,Pass,98.64,Yes,Weeds,28.62,28.62,In-Warehouse
+LOT-2021-178,Alberta Co-op Distribution,Pass,96.16,Yes,None,25.9,25.9,In-Warehouse
+LOT-2021-180,Winnipeg Corporate HQ,Pass,97.16,Yes,None,22.26,22.26,In-Warehouse
+LOT-2021-181,Manitoba Contract Growers,Pass,98.8,Yes,None,23.84,23.84,In-Warehouse
+LOT-2021-182,Saskatchewan Retail Networks,Pass,95.76,Yes,None,24.5,24.5,In-Warehouse
+LOT-2021-185,Winnipeg Corporate HQ,Pass,95.72,Yes,None,25.79,25.79,In-Warehouse
+LOT-2021-188,Saskatchewan Retail Networks,Pass,97.48,Yes,None,27.59,27.59,Allocated
+LOT-2021-192,Saskatchewan Retail Networks,Pass,97.33,Yes,None,20.99,20.99,Allocated
+LOT-2021-195,Saskatchewan Retail Networks,Pass,96.02,Yes,None,28.9,28.9,In-Warehouse
+LOT-2021-201,Saskatchewan Retail Networks,Pass,96.11,Yes,None,20.12,20.12,In-Warehouse
+LOT-2021-203,Alberta Co-op Distribution,Re-clean Required,96.0,Yes,None,23.7,23.7,In-Warehouse
+LOT-2021-205,Winnipeg Corporate HQ,Pass,98.67,Yes,None,20.27,20.27,In-Transit
+LOT-2021-212,Winnipeg Corporate HQ,Pass,98.02,Yes,None,23.93,23.93,In-Warehouse
+LOT-2021-214,Winnipeg Corporate HQ,Pass,99.0,Yes,None,25.26,25.26,In-Warehouse
+LOT-2021-215,Saskatchewan Retail Networks,Pass,99.77,Yes,None,25.12,25.12,In-Warehouse
+LOT-2021-217,Alberta Co-op Distribution,Pass,97.06,Yes,None,21.66,21.66,In-Warehouse
+LOT-2021-223,Saskatchewan Retail Networks,Pass,94.86,Yes,None,26.46,26.46,In-Warehouse
+LOT-2021-224,Saskatchewan Retail Networks,Pass,94.76,Yes,None,20.45,20.45,In-Transit
+LOT-2021-235,Winnipeg Corporate HQ,Pass,96.1,Yes,None,27.62,27.62,In-Warehouse
+LOT-2021-243,Saskatchewan Retail Networks,Pass,99.54,Yes,None,29.47,29.47,In-Warehouse
+LOT-2021-244,Manitoba Contract Growers,Pass,97.33,Yes,Chaff,23.4,23.4,In-Warehouse
+LOT-2021-260,Saskatchewan Retail Networks,Pass,95.97,Yes,Chaff,25.17,25.17,In-Warehouse
+LOT-2021-261,Manitoba Contract Growers,Pass,96.66,Yes,None,23.79,23.79,In-Transit
+LOT-2021-263,Saskatchewan Retail Networks,Pass,97.73,Yes,None,20.07,20.07,Allocated
+LOT-2021-266,Alberta Co-op Distribution,Pass,98.03,Yes,Stones,23.86,23.86,Allocated
+LOT-2021-267,Alberta Co-op Distribution,Pass,95.33,Yes,Weeds,27.92,27.92,In-Transit
+LOT-2021-274,Winnipeg Corporate HQ,Pass,99.78,Yes,Chaff,25.96,25.96,In-Warehouse
+LOT-2021-277,Saskatchewan Retail Networks,Pass,97.44,Yes,None,21.01,21.01,In-Warehouse
+LOT-2021-279,Manitoba Contract Growers,Pass,95.23,Yes,None,28.47,28.47,In-Warehouse
+LOT-2021-285,Manitoba Contract Growers,Pass,99.33,Yes,None,25.31,25.31,Allocated
+LOT-2021-286,Saskatchewan Retail Networks,Pass,94.9,Yes,None,28.42,28.42,In-Warehouse
+LOT-2021-292,Manitoba Contract Growers,Pass,99.4,Yes,None,25.8,25.8,In-Warehouse
+LOT-2021-295,Alberta Co-op Distribution,Pass,99.88,Yes,None,25.6,25.6,In-Transit
+LOT-2021-302,Manitoba Contract Growers,Pass,98.28,Yes,None,21.05,21.05,In-Warehouse
+LOT-2021-304,Winnipeg Corporate HQ,Pass,98.66,Yes,Undersized Seeds,21.67,21.67,In-Warehouse
+LOT-2021-313,Alberta Co-op Distribution,Pass,96.32,Yes,None,29.72,29.72,In-Warehouse
+LOT-2021-315,Alberta Co-op Distribution,Pass,99.58,Yes,None,22.28,22.28,In-Warehouse
+LOT-2021-317,Alberta Co-op Distribution,Pass,97.36,Yes,None,29.77,29.77,In-Warehouse
+LOT-2021-322,Saskatchewan Retail Networks,Pass,98.45,Yes,Undersized Seeds,25.32,25.32,In-Transit
+LOT-2021-323,Saskatchewan Retail Networks,Pass,99.49,Yes,Chaff,21.36,21.36,In-Warehouse
+LOT-2021-341,Alberta Co-op Distribution,Pass,99.77,Yes,Chaff,20.99,20.99,Allocated
+LOT-2021-343,Saskatchewan Retail Networks,Pass,99.0,Yes,None,22.09,22.09,In-Warehouse
+LOT-2021-350,Manitoba Contract Growers,Pass,96.14,Yes,None,29.26,29.26,In-Warehouse
+LOT-2021-351,Saskatchewan Retail Networks,Pass,99.72,Yes,Chaff,24.14,24.14,In-Transit
+LOT-2021-361,Saskatchewan Retail Networks,Re-clean Required,97.89,Yes,None,23.95,23.95,In-Warehouse
+LOT-2021-364,Alberta Co-op Distribution,Pass,99.53,Yes,None,23.13,23.13,In-Warehouse
+LOT-2021-369,Winnipeg Corporate HQ,Re-clean Required,98.15,Yes,Chaff,21.47,21.47,In-Transit
+LOT-2021-373,Winnipeg Corporate HQ,Re-clean Required,96.16,Yes,None,24.88,24.88,In-Warehouse
+LOT-2021-376,Winnipeg Corporate HQ,Pass,96.5,Yes,Brittles and Plastics,21.3,21.3,In-Warehouse
+LOT-2021-389,Manitoba Contract Growers,Pass,97.47,Yes,None,28.35,28.35,In-Warehouse
+LOT-2021-390,Saskatchewan Retail Networks,Pass,98.77,Yes,None,23.7,23.7,In-Warehouse
+LOT-2021-391,Winnipeg Corporate HQ,Pass,96.22,Yes,None,23.75,23.75,In-Warehouse
+LOT-2021-399,Alberta Co-op Distribution,Pass,97.63,Yes,Weeds,24.74,24.74,In-Warehouse
+LOT-2021-403,Winnipeg Corporate HQ,Pass,96.37,Yes,None,24.44,24.44,In-Transit
+LOT-2021-407,Winnipeg Corporate HQ,Pass,98.91,Yes,None,29.95,29.95,Allocated
+LOT-2021-417,Saskatchewan Retail Networks,Pass,97.02,No,None,25.45,25.45,In-Warehouse
+LOT-2021-425,Saskatchewan Retail Networks,Pass,94.91,Yes,Chaff,20.88,20.88,In-Warehouse
+LOT-2021-433,Saskatchewan Retail Networks,Pass,95.4,Yes,Chaff,26.07,26.07,In-Warehouse
+LOT-2021-452,Manitoba Contract Growers,Pass,94.83,Yes,Chaff,21.52,21.52,In-Warehouse
+LOT-2021-461,Manitoba Contract Growers,Pass,97.2,Yes,Undersized Seeds,20.31,20.31,In-Warehouse
+LOT-2021-464,Winnipeg Corporate HQ,Pass,95.07,No,None,29.71,29.71,In-Transit
+LOT-2021-467,Saskatchewan Retail Networks,Pass,95.12,No,None,27.74,27.74,In-Transit
+LOT-2021-471,Winnipeg Corporate HQ,Pass,99.58,Yes,None,29.8,29.8,In-Warehouse
+LOT-2021-474,Alberta Co-op Distribution,Pass,99.21,Yes,None,24.78,24.78,In-Warehouse
+LOT-2021-485,Alberta Co-op Distribution,Pass,96.94,Yes,None,25.32,25.32,In-Warehouse
+LOT-2021-490,Saskatchewan Retail Networks,Pass,99.82,Yes,Chaff,21.68,21.68,In-Warehouse
+LOT-2021-501,Saskatchewan Retail Networks,Re-clean Required,94.5,Yes,None,22.47,22.47,In-Warehouse
+LOT-2021-516,Alberta Co-op Distribution,Pass,97.82,Yes,None,28.39,28.39,Allocated
+LOT-2022-006,Saskatchewan Retail Networks,Pass,97.83,Yes,None,23.56,23.56,In-Warehouse
+LOT-2022-015,Manitoba Contract Growers,Pass,96.97,Yes,None,28.27,28.27,In-Transit
+LOT-2022-019,Manitoba Contract Growers,Pass,96.64,No,Brittles and Plastics,27.09,27.09,In-Warehouse
+LOT-2022-024,Saskatchewan Retail Networks,Pass,96.96,Yes,None,21.77,21.77,In-Warehouse
+LOT-2022-032,Alberta Co-op Distribution,Pass,96.74,Yes,None,25.07,25.07,In-Warehouse
+LOT-2022-047,Winnipeg Corporate HQ,Pass,98.44,Yes,None,26.77,26.77,In-Warehouse
+LOT-2022-052,Saskatchewan Retail Networks,Pass,95.23,Yes,None,22.35,22.35,In-Warehouse
+LOT-2022-053,Saskatchewan Retail Networks,Pass,95.57,Yes,None,28.31,28.31,In-Warehouse
+LOT-2022-055,Winnipeg Corporate HQ,Pass,95.47,Yes,Chaff,25.45,25.45,In-Transit
+LOT-2022-057,Saskatchewan Retail Networks,Pass,95.92,No,None,21.65,21.65,In-Warehouse
+LOT-2022-067,Winnipeg Corporate HQ,Pass,97.34,Yes,Chaff,25.83,25.83,In-Warehouse
+LOT-2022-069,Alberta Co-op Distribution,Pass,95.1,Yes,None,30.0,30.0,In-Transit
+LOT-2022-073,Manitoba Contract Growers,Re-clean Required,99.19,Yes,None,21.51,21.51,In-Transit
+LOT-2022-077,Alberta Co-op Distribution,Pass,96.11,Yes,Brittles and Plastics,28.17,28.17,In-Transit
+LOT-2022-078,Manitoba Contract Growers,Pass,95.38,Yes,None,22.07,22.07,In-Warehouse
+LOT-2022-080,Winnipeg Corporate HQ,Pass,98.15,Yes,None,27.82,27.82,Allocated
+LOT-2022-081,Manitoba Contract Growers,Pass,94.71,Yes,None,27.35,27.35,In-Warehouse
+LOT-2022-091,Alberta Co-op Distribution,Pass,97.85,Yes,None,23.0,23.0,In-Warehouse
+LOT-2022-093,Manitoba Contract Growers,Pass,98.27,Yes,None,23.26,23.26,In-Warehouse
+LOT-2022-115,Winnipeg Corporate HQ,Pass,95.66,Yes,None,27.93,27.93,In-Warehouse
+LOT-2022-116,Manitoba Contract Growers,Re-clean Required,94.73,Yes,None,24.61,24.61,In-Warehouse
+LOT-2022-121,Saskatchewan Retail Networks,Pass,96.46,Yes,None,27.31,27.31,In-Warehouse
+LOT-2022-137,Alberta Co-op Distribution,Pass,95.03,Yes,None,21.48,21.48,In-Warehouse
+LOT-2022-141,Saskatchewan Retail Networks,Pass,95.13,Yes,None,28.53,28.53,In-Warehouse
+LOT-2022-142,Winnipeg Corporate HQ,Pass,95.87,Yes,None,27.11,27.11,In-Warehouse
+LOT-2022-161,Manitoba Contract Growers,Pass,96.1,Yes,Chaff,29.07,29.07,In-Transit
+LOT-2022-162,Saskatchewan Retail Networks,Pass,97.36,Yes,Chaff,21.32,21.32,Allocated
+LOT-2022-176,Saskatchewan Retail Networks,Pass,98.16,Yes,Chaff,25.93,25.93,In-Warehouse
+LOT-2022-197,Manitoba Contract Growers,Pass,97.7,Yes,None,25.99,25.99,In-Transit
+LOT-2022-206,Manitoba Contract Growers,Pass,95.3,Yes,None,23.53,23.53,In-Warehouse
+LOT-2022-210,Alberta Co-op Distribution,Pass,95.43,Yes,None,24.58,24.58,In-Warehouse
+LOT-2022-218,Saskatchewan Retail Networks,Pass,99.25,Yes,None,20.38,20.38,In-Warehouse
+LOT-2022-219,Saskatchewan Retail Networks,Pass,97.52,Yes,Brittles and Plastics,27.46,27.46,In-Warehouse
+LOT-2022-227,Winnipeg Corporate HQ,Pass,99.2,Yes,None,25.49,25.49,Allocated
+LOT-2022-230,Alberta Co-op Distribution,Pass,96.51,No,None,20.58,20.58,In-Warehouse
+LOT-2022-239,Winnipeg Corporate HQ,Pass,97.82,Yes,None,26.81,26.81,In-Warehouse
+LOT-2022-255,Saskatchewan Retail Networks,Pass,97.33,Yes,None,24.67,24.67,In-Warehouse
+LOT-2022-262,Winnipeg Corporate HQ,Re-clean Required,96.22,Yes,None,20.34,20.34,In-Warehouse
+LOT-2022-268,Saskatchewan Retail Networks,Pass,97.04,No,None,29.7,29.7,In-Transit
+LOT-2022-270,Saskatchewan Retail Networks,Pass,97.21,Yes,None,29.49,29.49,In-Transit
+LOT-2022-273,Winnipeg Corporate HQ,Pass,95.58,Yes,None,25.13,25.13,In-Warehouse
+LOT-2022-278,Winnipeg Corporate HQ,Pass,96.2,Yes,None,20.94,20.94,In-Transit
+LOT-2022-306,Manitoba Contract Growers,Pass,98.77,Yes,Chaff,27.55,27.55,In-Warehouse
+LOT-2022-308,Manitoba Contract Growers,Pass,99.45,Yes,None,24.92,24.92,Allocated
+LOT-2022-309,Manitoba Contract Growers,Pass,96.44,Yes,None,23.02,23.02,In-Warehouse
+LOT-2022-338,Saskatchewan Retail Networks,Pass,96.16,Yes,None,24.91,24.91,In-Warehouse
+LOT-2022-375,Winnipeg Corporate HQ,Pass,95.55,Yes,Undersized Seeds,25.22,25.22,In-Warehouse
+LOT-2022-377,Alberta Co-op Distribution,Pass,98.16,Yes,None,25.63,25.63,In-Warehouse
+LOT-2022-379,Saskatchewan Retail Networks,Pass,96.24,Yes,None,24.41,24.41,In-Warehouse
+LOT-2022-382,Alberta Co-op Distribution,Pass,99.83,Yes,Stones,26.06,26.06,In-Warehouse
+LOT-2022-384,Winnipeg Corporate HQ,Pass,96.26,Yes,None,29.19,29.19,In-Warehouse
+LOT-2022-386,Saskatchewan Retail Networks,Pass,96.63,Yes,Chaff,23.62,23.62,In-Transit
+LOT-2022-387,Alberta Co-op Distribution,Pass,97.76,Yes,Chaff,27.26,27.26,In-Warehouse
+LOT-2022-388,Alberta Co-op Distribution,Pass,98.83,Yes,Weeds,28.94,28.94,In-Warehouse
+LOT-2022-395,Manitoba Contract Growers,Pass,97.04,No,Chaff,24.56,24.56,In-Warehouse
+LOT-2022-396,Manitoba Contract Growers,Pass,96.78,Yes,None,24.43,24.43,In-Transit
+LOT-2022-398,Manitoba Contract Growers,Pass,99.88,Yes,Chaff,26.02,26.02,In-Warehouse
+LOT-2022-402,Saskatchewan Retail Networks,Pass,94.56,No,Metal Parts,25.91,25.91,Allocated
+LOT-2022-413,Winnipeg Corporate HQ,Pass,99.33,Yes,Chaff,28.07,28.07,In-Transit
+LOT-2022-414,Winnipeg Corporate HQ,Pass,95.31,Yes,None,24.76,24.76,In-Warehouse
+LOT-2022-418,Manitoba Contract Growers,Pass,98.74,Yes,Chaff,29.96,29.96,In-Warehouse
+LOT-2022-422,Manitoba Contract Growers,Pass,97.84,Yes,None,20.59,20.59,In-Warehouse
+LOT-2022-423,Manitoba Contract Growers,Pass,96.35,Yes,Weeds,20.03,20.03,In-Warehouse
+LOT-2022-427,Alberta Co-op Distribution,Pass,99.22,Yes,None,26.4,26.4,In-Transit
+LOT-2022-447,Manitoba Contract Growers,Pass,94.57,Yes,None,22.98,22.98,Allocated
+LOT-2022-449,Alberta Co-op Distribution,Pass,95.72,Yes,Chaff,22.4,22.4,In-Warehouse
+LOT-2022-455,Winnipeg Corporate HQ,Pass,97.56,Yes,None,23.12,23.12,In-Warehouse
+LOT-2022-456,Saskatchewan Retail Networks,Pass,96.4,Yes,Chaff,22.56,22.56,In-Transit
+LOT-2022-458,Saskatchewan Retail Networks,Re-clean Required,97.8,Yes,Stones,20.31,20.31,In-Warehouse
+LOT-2022-465,Saskatchewan Retail Networks,Pass,94.63,Yes,Chaff,29.72,29.72,In-Warehouse
+LOT-2022-466,Saskatchewan Retail Networks,Pass,95.13,Yes,None,22.21,22.21,In-Warehouse
+LOT-2022-468,Alberta Co-op Distribution,Pass,95.19,Yes,None,27.34,27.34,In-Warehouse
+LOT-2022-481,Alberta Co-op Distribution,Pass,95.52,Yes,None,27.63,27.63,In-Transit
+LOT-2022-497,Manitoba Contract Growers,Pass,96.98,Yes,None,29.29,29.29,In-Warehouse
+LOT-2022-498,Alberta Co-op Distribution,Pass,98.56,Yes,None,20.31,20.31,In-Warehouse
+LOT-2022-505,Manitoba Contract Growers,Pass,99.39,Yes,Undersized Seeds,28.72,28.72,Allocated
+LOT-2022-506,Manitoba Contract Growers,Pass,99.01,Yes,None,25.27,25.27,In-Warehouse
+LOT-2022-510,Saskatchewan Retail Networks,Pass,95.56,Yes,Stones,26.33,26.33,In-Transit
+LOT-2022-512,Alberta Co-op Distribution,Pass,96.88,Yes,Weeds,26.44,26.44,In-Warehouse
+LOT-2022-513,Alberta Co-op Distribution,Pass,95.58,Yes,Undersized Seeds,28.2,28.2,In-Warehouse
+LOT-2022-515,Manitoba Contract Growers,Pass,95.93,Yes,Undersized Seeds,23.33,23.33,Allocated
+LOT-2022-520,Manitoba Contract Growers,Pass,97.22,Yes,None,27.33,27.33,In-Warehouse
+LOT-2023-003,Winnipeg Corporate HQ,Pass,94.87,Yes,None,25.29,25.29,In-Warehouse
+LOT-2023-007,Winnipeg Corporate HQ,Pass,95.68,Yes,Chaff,27.93,27.93,In-Warehouse
+LOT-2023-008,Manitoba Contract Growers,Pass,99.55,Yes,None,29.91,29.91,In-Warehouse
+LOT-2023-009,Winnipeg Corporate HQ,Pass,97.02,Yes,None,22.01,22.01,In-Warehouse
+LOT-2023-012,Winnipeg Corporate HQ,Pass,96.91,Yes,None,29.95,29.95,In-Transit
+LOT-2023-030,Manitoba Contract Growers,Pass,94.58,Yes,Stones,20.9,20.9,Allocated
+LOT-2023-031,Manitoba Contract Growers,Pass,95.84,No,None,20.02,20.02,Allocated
+LOT-2023-038,Alberta Co-op Distribution,Pass,99.18,Yes,None,20.44,20.44,In-Warehouse
+LOT-2023-042,Manitoba Contract Growers,Pass,95.39,Yes,None,23.42,23.42,In-Warehouse
+LOT-2023-044,Manitoba Contract Growers,Pass,96.74,Yes,None,26.33,26.33,In-Warehouse
+LOT-2023-063,Saskatchewan Retail Networks,Pass,94.58,Yes,Weeds,20.69,20.69,In-Transit
+LOT-2023-107,Alberta Co-op Distribution,Pass,97.08,Yes,Brittles and Plastics,20.06,20.06,In-Warehouse
+LOT-2023-108,Alberta Co-op Distribution,Pass,94.61,Yes,None,29.37,29.37,In-Warehouse
+LOT-2023-110,Alberta Co-op Distribution,Pass,98.93,Yes,None,28.22,28.22,In-Transit
+LOT-2023-111,Saskatchewan Retail Networks,Pass,98.95,Yes,Weeds,28.09,28.09,In-Warehouse
+LOT-2023-113,Manitoba Contract Growers,Re-clean Required,98.75,Yes,None,28.84,28.84,In-Warehouse
+LOT-2023-125,Alberta Co-op Distribution,Pass,96.03,Yes,None,27.0,27.0,Allocated
+LOT-2023-128,Alberta Co-op Distribution,Pass,99.02,Yes,None,21.04,21.04,Allocated
+LOT-2023-129,Winnipeg Corporate HQ,Pass,97.43,Yes,None,23.99,23.99,In-Warehouse
+LOT-2023-131,Alberta Co-op Distribution,Pass,96.52,Yes,None,27.23,27.23,In-Warehouse
+LOT-2023-134,Manitoba Contract Growers,Pass,97.88,Yes,None,22.8,22.8,Allocated
+LOT-2023-139,Manitoba Contract Growers,Re-clean Required,94.57,Yes,None,26.87,26.87,In-Warehouse
+LOT-2023-145,Winnipeg Corporate HQ,Pass,95.27,Yes,Weeds,20.24,20.24,In-Warehouse
+LOT-2023-153,Alberta Co-op Distribution,Pass,98.51,Yes,Undersized Seeds,23.06,23.06,In-Warehouse
+LOT-2023-157,Alberta Co-op Distribution,Pass,95.82,Yes,Brittles and Plastics,25.49,25.49,In-Warehouse
+LOT-2023-158,Alberta Co-op Distribution,Pass,97.73,Yes,Chaff,26.32,26.32,In-Warehouse
+LOT-2023-175,Saskatchewan Retail Networks,Pass,96.58,Yes,Stones,25.77,25.77,In-Warehouse
+LOT-2023-183,Alberta Co-op Distribution,Pass,99.12,Yes,Chaff,26.98,26.98,In-Warehouse
+LOT-2023-189,Manitoba Contract Growers,Pass,99.64,Yes,None,20.06,20.06,In-Warehouse
+LOT-2023-191,Manitoba Contract Growers,Pass,99.27,Yes,Weeds,21.01,21.01,Allocated
+LOT-2023-196,Saskatchewan Retail Networks,Pass,95.96,Yes,None,28.69,28.69,In-Transit
+LOT-2023-199,Saskatchewan Retail Networks,Pass,95.55,Yes,Chaff,26.82,26.82,In-Transit
+LOT-2023-211,Alberta Co-op Distribution,Re-clean Required,97.06,Yes,None,21.13,21.13,In-Warehouse
+LOT-2023-216,Winnipeg Corporate HQ,Pass,94.54,Yes,None,28.42,28.42,In-Warehouse
+LOT-2023-225,Saskatchewan Retail Networks,Pass,94.64,Yes,Chaff,22.42,22.42,In-Warehouse
+LOT-2023-233,Saskatchewan Retail Networks,Pass,97.49,Yes,None,24.78,24.78,Allocated
+LOT-2023-234,Alberta Co-op Distribution,Pass,97.31,Yes,None,21.45,21.45,In-Warehouse
+LOT-2023-242,Alberta Co-op Distribution,Re-clean Required,99.87,Yes,None,27.1,27.1,In-Warehouse
+LOT-2023-246,Saskatchewan Retail Networks,Pass,95.59,Yes,None,26.67,26.67,In-Transit
+LOT-2023-249,Winnipeg Corporate HQ,Pass,95.89,Yes,None,22.11,22.11,In-Warehouse
+LOT-2023-252,Saskatchewan Retail Networks,Pass,95.11,Yes,None,28.63,28.63,In-Warehouse
+LOT-2023-254,Alberta Co-op Distribution,Pass,99.45,Yes,None,24.01,24.01,Allocated
+LOT-2023-256,Alberta Co-op Distribution,Pass,98.7,Yes,Chaff,22.93,22.93,In-Transit
+LOT-2023-257,Saskatchewan Retail Networks,Pass,98.94,Yes,None,21.52,21.52,In-Warehouse
+LOT-2023-264,Winnipeg Corporate HQ,Pass,99.37,Yes,None,22.66,22.66,Allocated
+LOT-2023-271,Saskatchewan Retail Networks,Pass,97.33,Yes,None,20.22,20.22,In-Warehouse
+LOT-2023-284,Saskatchewan Retail Networks,Pass,96.94,Yes,Chaff,25.83,25.83,In-Transit
+LOT-2023-287,Alberta Co-op Distribution,Pass,96.28,Yes,None,28.42,28.42,In-Warehouse
+LOT-2023-288,Winnipeg Corporate HQ,Pass,97.68,Yes,None,25.49,25.49,In-Warehouse
+LOT-2023-289,Manitoba Contract Growers,Pass,96.95,Yes,Metal Parts,22.19,22.19,In-Warehouse
+LOT-2023-294,Winnipeg Corporate HQ,Pass,96.94,Yes,None,20.34,20.34,In-Transit
+LOT-2023-300,Saskatchewan Retail Networks,Pass,99.56,Yes,None,22.15,22.15,In-Warehouse
+LOT-2023-303,Saskatchewan Retail Networks,Pass,99.81,Yes,None,24.16,24.16,In-Warehouse
+LOT-2023-311,Saskatchewan Retail Networks,Pass,98.8,Yes,None,27.6,27.6,In-Warehouse
+LOT-2023-321,Winnipeg Corporate HQ,Re-clean Required,98.59,Yes,None,21.88,21.88,In-Transit
+LOT-2023-325,Alberta Co-op Distribution,Pass,98.18,Yes,None,27.2,27.2,In-Warehouse
+LOT-2023-326,Saskatchewan Retail Networks,Pass,95.4,Yes,None,28.67,28.67,In-Warehouse
+LOT-2023-334,Saskatchewan Retail Networks,Pass,94.82,Yes,Chaff,24.54,24.54,In-Warehouse
+LOT-2023-336,Winnipeg Corporate HQ,Pass,98.23,Yes,Chaff,28.21,28.21,In-Warehouse
+LOT-2023-337,Manitoba Contract Growers,Pass,98.44,Yes,None,25.55,25.55,In-Warehouse
+LOT-2023-347,Manitoba Contract Growers,Pass,94.75,Yes,Stones,26.37,26.37,In-Warehouse
+LOT-2023-349,Alberta Co-op Distribution,Pass,99.51,Yes,Brittles and Plastics,25.26,25.26,In-Warehouse
+LOT-2023-359,Alberta Co-op Distribution,Pass,94.99,Yes,None,24.63,24.63,In-Warehouse
+LOT-2023-367,Saskatchewan Retail Networks,Pass,96.04,Yes,Chaff,22.35,22.35,In-Transit
+LOT-2023-374,Winnipeg Corporate HQ,Pass,98.13,Yes,None,23.03,23.03,In-Warehouse
+LOT-2023-380,Saskatchewan Retail Networks,Pass,95.42,Yes,Metal Parts,22.9,22.9,In-Warehouse
+LOT-2023-385,Alberta Co-op Distribution,Pass,94.8,Yes,None,25.63,25.63,Allocated
+LOT-2023-392,Winnipeg Corporate HQ,Pass,96.29,Yes,None,21.2,21.2,In-Warehouse
+LOT-2023-397,Winnipeg Corporate HQ,Pass,98.64,Yes,Chaff,29.17,29.17,Allocated
+LOT-2023-411,Alberta Co-op Distribution,Pass,96.73,Yes,None,27.21,27.21,In-Warehouse
+LOT-2023-416,Manitoba Contract Growers,Pass,98.03,Yes,Weeds,24.01,24.01,In-Warehouse
+LOT-2023-430,Manitoba Contract Growers,Pass,97.63,Yes,None,21.59,21.59,In-Warehouse
+LOT-2023-444,Winnipeg Corporate HQ,Re-clean Required,94.62,Yes,None,28.82,28.82,Allocated
+LOT-2023-451,Saskatchewan Retail Networks,Pass,99.84,Yes,None,28.24,28.24,In-Warehouse
+LOT-2023-453,Manitoba Contract Growers,Pass,94.72,Yes,None,27.22,27.22,In-Warehouse
+LOT-2023-479,Saskatchewan Retail Networks,Pass,99.73,Yes,None,22.72,22.72,Allocated
+LOT-2023-482,Manitoba Contract Growers,Pass,97.47,Yes,None,24.02,24.02,In-Warehouse
+LOT-2023-514,Manitoba Contract Growers,Pass,99.7,No,None,21.03,21.03,In-Warehouse
+LOT-2024-001,Saskatchewan Retail Networks,Pass,95.12,Yes,Brittles and Plastics,21.89,21.89,In-Warehouse
+LOT-2024-011,Alberta Co-op Distribution,Pass,97.15,Yes,None,27.83,27.83,In-Transit
+LOT-2024-016,Manitoba Contract Growers,Pass,95.42,Yes,Chaff,27.15,27.15,In-Warehouse
+LOT-2024-020,Manitoba Contract Growers,Pass,94.78,Yes,None,25.93,25.93,In-Warehouse
+LOT-2024-023,Saskatchewan Retail Networks,Pass,97.83,Yes,Chaff,28.96,28.96,In-Warehouse
+LOT-2024-027,Alberta Co-op Distribution,Pass,95.62,Yes,None,25.83,25.83,In-Warehouse
+LOT-2024-033,Manitoba Contract Growers,Pass,97.67,Yes,Undersized Seeds,24.67,24.67,Allocated
+LOT-2024-034,Manitoba Contract Growers,Pass,95.11,Yes,Stones,23.4,23.4,Allocated
+LOT-2024-039,Alberta Co-op Distribution,Pass,96.29,Yes,None,29.4,29.4,In-Transit
+LOT-2024-040,Manitoba Contract Growers,Pass,98.72,Yes,None,20.83,20.83,In-Transit
+LOT-2024-048,Alberta Co-op Distribution,Pass,96.86,Yes,None,29.31,29.31,In-Warehouse
+LOT-2024-050,Alberta Co-op Distribution,Pass,97.89,Yes,Stones,28.27,28.27,In-Warehouse
+LOT-2024-058,Saskatchewan Retail Networks,Pass,98.0,Yes,Undersized Seeds,21.3,21.3,In-Transit
+LOT-2024-059,Winnipeg Corporate HQ,Pass,99.06,Yes,None,25.65,25.65,In-Warehouse
+LOT-2024-060,Alberta Co-op Distribution,Pass,96.25,Yes,None,28.67,28.67,In-Warehouse
+LOT-2024-061,Saskatchewan Retail Networks,Pass,98.21,Yes,Weeds,25.72,25.72,In-Transit
+LOT-2024-066,Winnipeg Corporate HQ,Pass,99.69,Yes,None,29.07,29.07,In-Warehouse
+LOT-2024-068,Manitoba Contract Growers,Pass,98.44,Yes,None,29.43,29.43,In-Transit
+LOT-2024-074,Winnipeg Corporate HQ,Pass,97.15,Yes,None,24.22,24.22,In-Warehouse
+LOT-2024-079,Alberta Co-op Distribution,Pass,97.91,Yes,None,23.77,23.77,In-Warehouse
+LOT-2024-083,Alberta Co-op Distribution,Pass,98.49,Yes,None,29.36,29.36,In-Warehouse
+LOT-2024-086,Alberta Co-op Distribution,Re-clean Required,97.81,Yes,Chaff,26.75,26.75,In-Warehouse
+LOT-2024-095,Alberta Co-op Distribution,Pass,94.59,Yes,Chaff,21.16,21.16,In-Transit
+LOT-2024-096,Alberta Co-op Distribution,Pass,95.55,Yes,None,20.42,20.42,In-Warehouse
+LOT-2024-097,Saskatchewan Retail Networks,Pass,98.88,Yes,None,25.65,25.65,In-Warehouse
+LOT-2024-106,Alberta Co-op Distribution,Pass,95.97,Yes,None,29.3,29.3,In-Warehouse
+LOT-2024-118,Saskatchewan Retail Networks,Pass,98.45,Yes,None,28.44,28.44,In-Warehouse
+LOT-2024-120,Manitoba Contract Growers,Pass,96.51,No,None,26.76,26.76,In-Warehouse
+LOT-2024-126,Alberta Co-op Distribution,Pass,97.32,Yes,None,21.39,21.39,Allocated
+LOT-2024-143,Alberta Co-op Distribution,Pass,94.87,Yes,Chaff,22.54,22.54,In-Warehouse
+LOT-2024-147,Winnipeg Corporate HQ,Pass,95.48,Yes,Brittles and Plastics,28.76,28.76,In-Transit
+LOT-2024-149,Manitoba Contract Growers,Pass,99.67,Yes,None,21.83,21.83,In-Transit
+LOT-2024-155,Alberta Co-op Distribution,Pass,99.31,Yes,None,22.78,22.78,In-Warehouse
+LOT-2024-160,Alberta Co-op Distribution,Pass,98.02,Yes,Undersized Seeds,21.3,21.3,In-Warehouse
+LOT-2024-168,Manitoba Contract Growers,Pass,96.98,Yes,None,26.76,26.76,In-Transit
+LOT-2024-169,Saskatchewan Retail Networks,Pass,98.15,Yes,None,29.44,29.44,In-Warehouse
+LOT-2024-170,Alberta Co-op Distribution,Pass,97.84,Yes,None,22.69,22.69,In-Warehouse
+LOT-2024-171,Winnipeg Corporate HQ,Pass,97.57,Yes,Chaff,24.75,24.75,In-Warehouse
+LOT-2024-172,Alberta Co-op Distribution,Pass,94.82,Yes,None,26.34,26.34,Allocated
+LOT-2024-177,Winnipeg Corporate HQ,Pass,97.92,Yes,None,29.99,29.99,Allocated
+LOT-2024-186,Winnipeg Corporate HQ,Pass,98.65,Yes,None,21.05,21.05,In-Transit
+LOT-2024-198,Alberta Co-op Distribution,Pass,99.87,Yes,Weeds,24.99,24.99,In-Warehouse
+LOT-2024-202,Alberta Co-op Distribution,Pass,94.56,Yes,None,23.85,23.85,In-Warehouse
+LOT-2024-207,Winnipeg Corporate HQ,Pass,98.44,Yes,Chaff,28.66,28.66,In-Warehouse
+LOT-2024-208,Manitoba Contract Growers,Pass,97.59,Yes,None,24.76,24.76,In-Warehouse
+LOT-2024-220,Manitoba Contract Growers,Pass,96.84,Yes,None,21.11,21.11,In-Warehouse
+LOT-2024-229,Alberta Co-op Distribution,Pass,95.19,Yes,None,26.34,26.34,Allocated
+LOT-2024-232,Saskatchewan Retail Networks,Re-clean Required,96.71,Yes,None,27.71,27.71,Allocated
+LOT-2024-238,Manitoba Contract Growers,Pass,96.41,Yes,Weeds,20.03,20.03,In-Warehouse
+LOT-2024-245,Alberta Co-op Distribution,Pass,96.14,Yes,None,28.59,28.59,In-Warehouse
+LOT-2024-250,Manitoba Contract Growers,Pass,98.45,Yes,None,21.86,21.86,In-Warehouse
+LOT-2024-251,Saskatchewan Retail Networks,Pass,98.28,Yes,None,25.52,25.52,In-Warehouse
+LOT-2024-253,Alberta Co-op Distribution,Pass,97.68,Yes,None,24.16,24.16,In-Transit
+LOT-2024-258,Saskatchewan Retail Networks,Re-clean Required,99.57,Yes,None,27.2,27.2,In-Transit
+LOT-2024-259,Alberta Co-op Distribution,Pass,96.39,Yes,None,23.71,23.71,In-Warehouse
+LOT-2024-265,Saskatchewan Retail Networks,Pass,95.82,Yes,Chaff,28.7,28.7,In-Warehouse
+LOT-2024-272,Manitoba Contract Growers,Pass,98.04,Yes,None,27.3,27.3,In-Warehouse
+LOT-2024-275,Manitoba Contract Growers,Pass,95.57,Yes,None,26.48,26.48,In-Warehouse
+LOT-2024-276,Saskatchewan Retail Networks,Pass,96.2,Yes,Brittles and Plastics,27.96,27.96,In-Warehouse
+LOT-2024-281,Saskatchewan Retail Networks,Re-clean Required,95.71,Yes,None,27.54,27.54,In-Warehouse
+LOT-2024-290,Saskatchewan Retail Networks,Pass,94.87,Yes,Brittles and Plastics,20.36,20.36,In-Warehouse
+LOT-2024-293,Alberta Co-op Distribution,Pass,98.97,Yes,None,23.95,23.95,In-Transit
+LOT-2024-296,Manitoba Contract Growers,Pass,95.87,Yes,Chaff,29.31,29.31,In-Warehouse
+LOT-2024-298,Alberta Co-op Distribution,Pass,97.05,Yes,None,21.26,21.26,In-Warehouse
+LOT-2024-314,Manitoba Contract Growers,Pass,94.73,Yes,None,27.37,27.37,In-Warehouse
+LOT-2024-316,Winnipeg Corporate HQ,Pass,98.28,Yes,None,29.75,29.75,In-Warehouse
+LOT-2024-320,Alberta Co-op Distribution,Pass,96.29,Yes,Brittles and Plastics,20.52,20.52,In-Warehouse
+LOT-2024-324,Manitoba Contract Growers,Pass,98.52,Yes,None,26.82,26.82,In-Warehouse
+LOT-2024-342,Manitoba Contract Growers,Pass,96.73,Yes,None,24.68,24.68,In-Warehouse
+LOT-2024-345,Alberta Co-op Distribution,Pass,95.56,Yes,Stones,25.79,25.79,In-Warehouse
+LOT-2024-348,Alberta Co-op Distribution,Pass,97.27,Yes,Chaff,20.85,20.85,In-Transit
+LOT-2024-352,Manitoba Contract Growers,Pass,95.2,Yes,None,20.43,20.43,In-Warehouse
+LOT-2024-353,Alberta Co-op Distribution,Pass,96.88,Yes,None,26.67,26.67,In-Transit
+LOT-2024-360,Saskatchewan Retail Networks,Pass,96.21,Yes,None,28.23,28.23,In-Warehouse
+LOT-2024-368,Alberta Co-op Distribution,Pass,99.42,Yes,None,27.82,27.82,In-Warehouse
+LOT-2024-370,Alberta Co-op Distribution,Pass,94.83,Yes,Brittles and Plastics,25.44,25.44,In-Warehouse
+LOT-2024-401,Alberta Co-op Distribution,Pass,98.25,Yes,None,21.0,21.0,In-Warehouse
+LOT-2024-404,Manitoba Contract Growers,Pass,95.49,Yes,None,26.88,26.88,Allocated
+LOT-2024-406,Saskatchewan Retail Networks,Pass,96.22,Yes,Weeds,22.42,22.42,In-Transit
+LOT-2024-410,Winnipeg Corporate HQ,Pass,96.74,Yes,None,29.11,29.11,Allocated
+LOT-2024-412,Winnipeg Corporate HQ,Pass,99.4,Yes,None,28.38,28.38,Allocated
+LOT-2024-426,Saskatchewan Retail Networks,Pass,95.81,Yes,None,27.09,27.09,In-Warehouse
+LOT-2024-431,Saskatchewan Retail Networks,Pass,94.99,Yes,None,29.49,29.49,In-Warehouse
+LOT-2024-435,Saskatchewan Retail Networks,Pass,96.22,Yes,Undersized Seeds,20.31,20.31,In-Warehouse
+LOT-2024-436,Manitoba Contract Growers,Pass,95.07,Yes,None,27.36,27.36,Allocated
+LOT-2024-437,Winnipeg Corporate HQ,Pass,95.19,Yes,None,23.3,23.3,In-Transit
+LOT-2024-439,Saskatchewan Retail Networks,Pass,97.6,Yes,Weeds,29.06,29.06,In-Warehouse
+LOT-2024-442,Manitoba Contract Growers,Pass,94.83,Yes,None,22.67,22.67,In-Transit
+LOT-2024-445,Winnipeg Corporate HQ,Pass,94.67,Yes,None,27.25,27.25,In-Warehouse
+LOT-2024-448,Alberta Co-op Distribution,Pass,98.36,Yes,None,28.78,28.78,In-Warehouse
+LOT-2024-454,Manitoba Contract Growers,Pass,96.45,Yes,None,20.42,20.42,In-Warehouse
+LOT-2024-462,Winnipeg Corporate HQ,Pass,95.18,Yes,None,23.98,23.98,In-Warehouse
+LOT-2024-480,Manitoba Contract Growers,Pass,95.87,Yes,None,27.62,27.62,In-Transit
+LOT-2024-488,Winnipeg Corporate HQ,Pass,97.97,Yes,None,24.55,24.55,In-Warehouse
+LOT-2024-494,Winnipeg Corporate HQ,Pass,95.99,Yes,None,22.67,22.67,In-Warehouse
+LOT-2024-496,Alberta Co-op Distribution,Pass,97.17,Yes,Undersized Seeds,22.2,22.2,In-Warehouse
+LOT-2024-500,Manitoba Contract Growers,Pass,95.16,Yes,None,21.32,21.32,In-Warehouse
+LOT-2024-509,Saskatchewan Retail Networks,Pass,97.68,Yes,None,28.57,28.57,In-Warehouse
+LOT-2024-511,Alberta Co-op Distribution,Pass,96.21,Yes,None,25.75,25.75,In-Warehouse
+LOT-2024-519,Alberta Co-op Distribution,Pass,97.89,Yes,None,20.76,20.76,In-Warehouse
+LOT-2025-002,Winnipeg Corporate HQ,Pass,98.87,Yes,None,72.65,72.65,In-Warehouse
+LOT-2025-004,Saskatchewan Retail Networks,Pass,97.8,Yes,None,72.35,72.35,In-Warehouse
+LOT-2025-005,Manitoba Contract Growers,Pass,96.1,Yes,Chaff,68.63,68.63,In-Transit
+LOT-2025-010,Saskatchewan Retail Networks,Pass,95.88,Yes,Stones,73.71,73.71,In-Warehouse
+LOT-2025-014,Saskatchewan Retail Networks,Pass,96.27,Yes,None,71.64,71.64,In-Warehouse
+LOT-2025-021,Saskatchewan Retail Networks,Pass,95.39,Yes,None,71.84,71.84,In-Warehouse
+LOT-2025-026,Saskatchewan Retail Networks,Pass,95.48,Yes,Chaff,79.78,79.78,In-Warehouse
+LOT-2025-043,Saskatchewan Retail Networks,Pass,98.77,Yes,Chaff,69.47,69.47,In-Warehouse
+LOT-2025-045,Winnipeg Corporate HQ,Pass,96.58,Yes,None,77.84,77.84,In-Transit
+LOT-2025-056,Winnipeg Corporate HQ,Pass,96.85,Yes,None,76.41,76.41,Allocated
+LOT-2025-062,Alberta Co-op Distribution,Re-clean Required,97.71,Yes,None,76.36,76.36,Allocated
+LOT-2025-076,Winnipeg Corporate HQ,Pass,97.68,Yes,None,78.26,78.26,In-Warehouse
+LOT-2025-089,Alberta Co-op Distribution,Pass,94.86,Yes,Brittles and Plastics,75.97,75.97,In-Warehouse
+LOT-2025-090,Alberta Co-op Distribution,Pass,98.99,Yes,None,82.59,82.59,In-Transit
+LOT-2025-092,Manitoba Contract Growers,Pass,95.46,Yes,None,78.51,78.51,In-Warehouse
+LOT-2025-098,Saskatchewan Retail Networks,Pass,98.4,Yes,None,75.94,75.94,In-Warehouse
+LOT-2025-100,Winnipeg Corporate HQ,Pass,98.67,Yes,Undersized Seeds,81.6,81.6,In-Transit
+LOT-2025-101,Manitoba Contract Growers,Pass,98.36,Yes,Chaff,77.12,77.12,In-Warehouse
+LOT-2025-114,Winnipeg Corporate HQ,Pass,97.63,Yes,Chaff,70.82,70.82,In-Warehouse
+LOT-2025-124,Alberta Co-op Distribution,Pass,94.58,Yes,None,69.14,69.14,In-Warehouse
+LOT-2025-132,Winnipeg Corporate HQ,Pass,96.45,Yes,None,68.05,68.05,In-Warehouse
+LOT-2025-136,Saskatchewan Retail Networks,Pass,97.77,Yes,None,82.99,82.99,In-Warehouse
+LOT-2025-144,Alberta Co-op Distribution,Pass,96.59,Yes,None,79.2,79.2,In-Warehouse
+LOT-2025-148,Alberta Co-op Distribution,Pass,99.16,Yes,None,83.75,83.75,In-Warehouse
+LOT-2025-151,Manitoba Contract Growers,Pass,96.17,Yes,None,77.07,77.07,In-Warehouse
+LOT-2025-152,Saskatchewan Retail Networks,Pass,96.09,Yes,Metal Parts,74.47,74.47,In-Warehouse
+LOT-2025-154,Alberta Co-op Distribution,Pass,95.94,Yes,None,66.19,66.19,In-Transit
+LOT-2025-156,Saskatchewan Retail Networks,Re-clean Required,96.3,Yes,None,78.43,78.43,In-Warehouse
+LOT-2025-163,Winnipeg Corporate HQ,Pass,97.51,Yes,None,76.64,76.64,In-Warehouse
+LOT-2025-166,Saskatchewan Retail Networks,Pass,98.32,Yes,None,84.8,84.8,In-Warehouse
+LOT-2025-187,Alberta Co-op Distribution,Pass,98.08,Yes,None,69.78,69.78,Allocated
+LOT-2025-194,Manitoba Contract Growers,Pass,98.86,Yes,None,75.61,75.61,In-Warehouse
+LOT-2025-213,Alberta Co-op Distribution,Pass,99.28,Yes,None,78.02,78.02,In-Warehouse
+LOT-2025-222,Saskatchewan Retail Networks,Pass,98.91,Yes,None,77.89,77.89,In-Warehouse
+LOT-2025-228,Saskatchewan Retail Networks,Pass,94.6,Yes,None,76.23,76.23,In-Transit
+LOT-2025-237,Alberta Co-op Distribution,Pass,98.47,Yes,None,80.54,80.54,In-Warehouse
+LOT-2025-248,Saskatchewan Retail Networks,Pass,95.63,Yes,Chaff,69.1,69.1,In-Warehouse
+LOT-2025-282,Winnipeg Corporate HQ,Re-clean Required,95.22,Yes,None,79.51,79.51,In-Warehouse
+LOT-2025-283,Alberta Co-op Distribution,Pass,97.95,Yes,None,77.39,77.39,In-Warehouse
+LOT-2025-305,Manitoba Contract Growers,Pass,96.23,Yes,Chaff,82.92,82.92,In-Transit
+LOT-2025-312,Alberta Co-op Distribution,Pass,94.81,Yes,Chaff,81.94,81.94,In-Transit
+LOT-2025-319,Winnipeg Corporate HQ,Pass,95.24,Yes,Weeds,71.3,71.3,In-Warehouse
+LOT-2025-333,Winnipeg Corporate HQ,Pass,94.51,Yes,None,70.52,70.52,In-Transit
+LOT-2025-339,Winnipeg Corporate HQ,Pass,99.38,No,None,84.63,84.63,In-Warehouse
+LOT-2025-344,Winnipeg Corporate HQ,Pass,94.63,Yes,None,75.55,75.55,In-Warehouse
+LOT-2025-346,Winnipeg Corporate HQ,Pass,95.63,Yes,None,83.13,83.13,In-Warehouse
+LOT-2025-355,Manitoba Contract Growers,Pass,96.75,Yes,None,68.28,68.28,In-Warehouse
+LOT-2025-357,Saskatchewan Retail Networks,Pass,96.43,Yes,None,77.86,77.86,In-Transit
+LOT-2025-362,Winnipeg Corporate HQ,Pass,99.42,Yes,None,81.2,81.2,In-Warehouse
+LOT-2025-363,Winnipeg Corporate HQ,Pass,94.72,Yes,None,83.95,83.95,In-Warehouse
+LOT-2025-366,Alberta Co-op Distribution,Pass,97.27,Yes,Weeds,71.75,71.75,In-Warehouse
+LOT-2025-371,Manitoba Contract Growers,Pass,98.17,Yes,None,79.5,79.5,In-Warehouse
+LOT-2025-372,Manitoba Contract Growers,Pass,99.53,Yes,None,75.78,75.78,In-Warehouse
+LOT-2025-394,Saskatchewan Retail Networks,Pass,97.85,Yes,None,66.21,66.21,In-Warehouse
+LOT-2025-400,Manitoba Contract Growers,Pass,98.84,Yes,None,78.8,78.8,In-Transit
+LOT-2025-405,Alberta Co-op Distribution,Pass,94.95,Yes,None,78.8,78.8,In-Warehouse
+LOT-2025-420,Alberta Co-op Distribution,Pass,96.58,Yes,Brittles and Plastics,83.61,83.61,In-Warehouse
+LOT-2025-432,Saskatchewan Retail Networks,Pass,96.52,Yes,None,74.95,74.95,Allocated
+LOT-2025-434,Alberta Co-op Distribution,Pass,99.29,Yes,Chaff,69.61,69.61,In-Transit
+LOT-2025-438,Winnipeg Corporate HQ,Pass,95.32,Yes,None,65.89,65.89,In-Warehouse
+LOT-2025-441,Winnipeg Corporate HQ,Pass,95.32,Yes,None,73.31,73.31,In-Transit
+LOT-2025-446,Alberta Co-op Distribution,Pass,96.27,Yes,None,71.04,71.04,In-Warehouse
+LOT-2025-457,Saskatchewan Retail Networks,Pass,94.79,Yes,None,80.22,80.22,In-Warehouse
+LOT-2025-459,Manitoba Contract Growers,Pass,95.49,Yes,None,72.09,72.09,In-Warehouse
+LOT-2025-463,Saskatchewan Retail Networks,Re-clean Required,99.71,No,None,83.98,83.98,Allocated
+LOT-2025-472,Manitoba Contract Growers,Pass,96.81,Yes,None,84.25,84.25,In-Warehouse
+LOT-2025-473,Alberta Co-op Distribution,Pass,97.91,Yes,None,77.42,77.42,In-Warehouse
+LOT-2025-475,Alberta Co-op Distribution,Pass,98.42,Yes,None,83.57,83.57,In-Warehouse
+LOT-2025-476,Winnipeg Corporate HQ,Re-clean Required,96.48,Yes,None,80.22,80.22,In-Transit
+LOT-2025-478,Manitoba Contract Growers,Pass,95.3,Yes,Undersized Seeds,75.94,75.94,In-Warehouse
+LOT-2025-483,Saskatchewan Retail Networks,Pass,95.62,Yes,None,68.61,68.61,In-Warehouse
+LOT-2025-486,Alberta Co-op Distribution,Pass,96.19,Yes,None,74.17,74.17,In-Warehouse
+LOT-2025-489,Saskatchewan Retail Networks,Pass,97.93,Yes,None,76.22,76.22,In-Transit
+LOT-2025-495,Winnipeg Corporate HQ,Pass,96.65,Yes,Weeds,82.28,82.28,Allocated
+LOT-2025-499,Manitoba Contract Growers,Pass,94.54,Yes,None,74.63,74.63,In-Warehouse
+LOT-2025-504,Manitoba Contract Growers,Pass,97.33,Yes,Chaff,82.95,82.95,In-Warehouse
+LOT-2025-508,Alberta Co-op Distribution,Re-clean Required,99.48,Yes,Undersized Seeds,78.49,78.49,Allocated
+LOT-2025-517,Manitoba Contract Growers,Pass,98.89,Yes,None,67.74,67.74,In-Warehouse
+LOT-2025-518,Alberta Co-op Distribution,Pass,98.96,Yes,None,84.9,84.9,In-Transit
+LOT-2026-013,Winnipeg Corporate HQ,Pass,98.79,Yes,None,65.54,65.54,In-Transit
+LOT-2026-017,Manitoba Contract Growers,Pass,96.25,Yes,None,62.84,62.84,In-Warehouse
+LOT-2026-018,Alberta Co-op Distribution,Pass,98.63,Yes,None,68.18,68.18,In-Warehouse
+LOT-2026-025,Saskatchewan Retail Networks,Pass,95.27,Yes,None,57.18,57.18,In-Warehouse
+LOT-2026-035,Alberta Co-op Distribution,Pass,98.05,Yes,Brittles and Plastics,67.73,67.73,In-Warehouse
+LOT-2026-036,Manitoba Contract Growers,Pass,97.96,Yes,None,64.96,64.96,In-Warehouse
+LOT-2026-037,Winnipeg Corporate HQ,Pass,94.64,Yes,None,63.13,63.13,In-Warehouse
+LOT-2026-051,Manitoba Contract Growers,Re-clean Required,98.76,Yes,None,74.06,74.06,In-Warehouse
+LOT-2026-064,Manitoba Contract Growers,Pass,99.38,Yes,None,65.45,65.45,In-Warehouse
+LOT-2026-070,Alberta Co-op Distribution,Pass,95.94,Yes,None,59.38,59.38,In-Warehouse
+LOT-2026-071,Saskatchewan Retail Networks,Pass,98.89,Yes,None,64.18,64.18,In-Warehouse
+LOT-2026-072,Manitoba Contract Growers,Pass,94.94,Yes,None,73.39,73.39,In-Transit
+LOT-2026-075,Saskatchewan Retail Networks,Pass,97.74,Yes,None,58.52,58.52,In-Warehouse
+LOT-2026-082,Alberta Co-op Distribution,Pass,97.12,Yes,None,59.28,59.28,In-Transit
+LOT-2026-084,Saskatchewan Retail Networks,Pass,97.45,Yes,None,55.26,55.26,In-Warehouse
+LOT-2026-085,Alberta Co-op Distribution,Pass,99.5,Yes,Chaff,55.28,55.28,In-Warehouse
+LOT-2026-088,Winnipeg Corporate HQ,Pass,99.21,Yes,None,71.59,71.59,In-Transit
+LOT-2026-123,Saskatchewan Retail Networks,Pass,98.74,Yes,None,69.64,69.64,In-Warehouse
+LOT-2026-127,Saskatchewan Retail Networks,Pass,95.98,Yes,None,62.1,62.1,In-Warehouse
+LOT-2026-133,Winnipeg Corporate HQ,Pass,99.42,Yes,None,68.97,68.97,In-Warehouse
+LOT-2026-138,Saskatchewan Retail Networks,Pass,95.03,Yes,None,62.9,62.9,In-Warehouse
+LOT-2026-150,Winnipeg Corporate HQ,Pass,99.11,Yes,None,74.06,74.06,In-Warehouse
+LOT-2026-159,Manitoba Contract Growers,Pass,96.27,Yes,Chaff,74.34,74.34,In-Warehouse
+LOT-2026-164,Alberta Co-op Distribution,Pass,94.79,Yes,None,62.86,62.86,In-Warehouse
+LOT-2026-167,Winnipeg Corporate HQ,Pass,98.11,Yes,None,72.08,72.08,In-Warehouse
+LOT-2026-173,Saskatchewan Retail Networks,Pass,95.75,Yes,None,70.46,70.46,In-Warehouse
+LOT-2026-174,Winnipeg Corporate HQ,Pass,95.82,Yes,None,61.2,61.2,In-Warehouse
+LOT-2026-179,Saskatchewan Retail Networks,Pass,96.15,Yes,None,59.64,59.64,In-Warehouse
+LOT-2026-184,Manitoba Contract Growers,Pass,94.84,Yes,None,64.16,64.16,In-Warehouse
+LOT-2026-190,Winnipeg Corporate HQ,Pass,95.46,Yes,Chaff,70.63,70.63,Allocated
+LOT-2026-193,Manitoba Contract Growers,Pass,94.53,Yes,None,74.2,74.2,In-Warehouse
+LOT-2026-200,Alberta Co-op Distribution,Pass,96.91,Yes,Chaff,70.27,70.27,In-Warehouse
+LOT-2026-204,Saskatchewan Retail Networks,Pass,94.95,Yes,None,72.1,72.1,In-Warehouse
+LOT-2026-209,Saskatchewan Retail Networks,Pass,98.19,Yes,Undersized Seeds,67.06,67.06,Allocated
+LOT-2026-221,Manitoba Contract Growers,Pass,95.77,Yes,None,71.71,71.71,In-Warehouse
+LOT-2026-226,Alberta Co-op Distribution,Pass,99.6,Yes,None,70.69,70.69,Allocated
+LOT-2026-231,Winnipeg Corporate HQ,Re-clean Required,99.2,Yes,Undersized Seeds,62.54,62.54,In-Warehouse
+LOT-2026-236,Winnipeg Corporate HQ,Pass,96.06,Yes,None,66.04,66.04,In-Warehouse
+LOT-2026-240,Saskatchewan Retail Networks,Pass,98.73,No,Chaff,71.1,71.1,In-Transit
+LOT-2026-241,Manitoba Contract Growers,Re-clean Required,98.84,Yes,None,55.92,55.92,In-Warehouse
+LOT-2026-247,Manitoba Contract Growers,Pass,99.83,Yes,Chaff,71.16,71.16,In-Warehouse
+LOT-2026-269,Winnipeg Corporate HQ,Pass,97.73,Yes,None,58.56,58.56,In-Transit
+LOT-2026-280,Alberta Co-op Distribution,Pass,94.94,Yes,None,65.29,65.29,Allocated
+LOT-2026-291,Alberta Co-op Distribution,Pass,97.99,Yes,Stones,71.17,71.17,In-Warehouse
+LOT-2026-297,Winnipeg Corporate HQ,Pass,97.87,No,Undersized Seeds,60.08,60.08,In-Warehouse
+LOT-2026-299,Winnipeg Corporate HQ,Pass,97.95,Yes,None,59.92,59.92,In-Transit
+LOT-2026-301,Manitoba Contract Growers,Pass,96.16,No,Brittles and Plastics,63.06,63.06,In-Warehouse
+LOT-2026-307,Alberta Co-op Distribution,Pass,99.14,Yes,None,72.89,72.89,In-Transit
+LOT-2026-310,Winnipeg Corporate HQ,Re-clean Required,99.68,Yes,None,55.01,55.01,In-Warehouse
+LOT-2026-318,Winnipeg Corporate HQ,Pass,95.68,Yes,None,73.03,73.03,In-Warehouse
+LOT-2026-327,Saskatchewan Retail Networks,Pass,94.98,Yes,None,58.08,58.08,Allocated
+LOT-2026-328,Winnipeg Corporate HQ,Pass,95.55,Yes,None,74.8,74.8,In-Warehouse
+LOT-2026-329,Winnipeg Corporate HQ,Pass,98.93,Yes,None,74.1,74.1,In-Warehouse
+LOT-2026-330,Alberta Co-op Distribution,Pass,98.15,Yes,None,64.89,64.89,In-Warehouse
+LOT-2026-331,Manitoba Contract Growers,Pass,97.93,Yes,Weeds,65.25,65.25,In-Warehouse
+LOT-2026-332,Alberta Co-op Distribution,Pass,96.67,Yes,Chaff,64.63,64.63,In-Warehouse
+LOT-2026-335,Manitoba Contract Growers,Pass,97.62,Yes,None,67.71,67.71,In-Transit
+LOT-2026-340,Saskatchewan Retail Networks,Pass,96.16,Yes,None,56.81,56.81,In-Warehouse
+LOT-2026-354,Winnipeg Corporate HQ,Pass,97.08,Yes,Chaff,55.65,55.65,In-Warehouse
+LOT-2026-356,Saskatchewan Retail Networks,Re-clean Required,98.78,No,None,56.15,56.15,In-Transit
+LOT-2026-358,Manitoba Contract Growers,Pass,99.8,Yes,None,63.89,63.89,In-Warehouse
+LOT-2026-365,Alberta Co-op Distribution,Pass,99.54,Yes,Brittles and Plastics,60.51,60.51,In-Warehouse
+LOT-2026-378,Alberta Co-op Distribution,Pass,99.54,Yes,None,67.44,67.44,In-Warehouse
+LOT-2026-381,Saskatchewan Retail Networks,Pass,96.67,Yes,Undersized Seeds,74.85,74.85,Allocated
+LOT-2026-383,Manitoba Contract Growers,Pass,97.03,Yes,None,62.73,62.73,In-Warehouse
+LOT-2026-393,Saskatchewan Retail Networks,Pass,98.31,Yes,Undersized Seeds,66.48,66.48,In-Warehouse
+LOT-2026-408,Saskatchewan Retail Networks,Pass,99.48,Yes,None,63.31,63.31,In-Warehouse
+LOT-2026-409,Winnipeg Corporate HQ,Pass,95.27,Yes,Stones,71.95,71.95,In-Warehouse
+LOT-2026-415,Saskatchewan Retail Networks,Pass,96.14,Yes,None,73.04,73.04,In-Warehouse
+LOT-2026-419,Winnipeg Corporate HQ,Pass,95.25,Yes,None,72.55,72.55,In-Warehouse
+LOT-2026-421,Winnipeg Corporate HQ,Pass,97.8,No,Undersized Seeds,74.49,74.49,In-Warehouse
+LOT-2026-424,Alberta Co-op Distribution,Pass,96.15,Yes,None,55.55,55.55,Allocated
+LOT-2026-428,Winnipeg Corporate HQ,Pass,96.26,Yes,None,71.8,71.8,In-Warehouse
+LOT-2026-429,Winnipeg Corporate HQ,Pass,94.88,Yes,Chaff,70.04,70.04,In-Warehouse
+LOT-2026-440,Alberta Co-op Distribution,Pass,96.39,Yes,None,59.57,59.57,In-Warehouse
+LOT-2026-443,Saskatchewan Retail Networks,Pass,99.16,Yes,None,74.13,74.13,In-Warehouse
+LOT-2026-450,Manitoba Contract Growers,Pass,95.76,Yes,None,57.96,57.96,In-Warehouse
+LOT-2026-460,Manitoba Contract Growers,Pass,98.25,No,None,68.59,68.59,In-Warehouse
+LOT-2026-469,Manitoba Contract Growers,Pass,97.9,Yes,None,59.5,59.5,In-Warehouse
+LOT-2026-470,Saskatchewan Retail Networks,Pass,99.16,Yes,Chaff,63.63,63.63,In-Transit
+LOT-2026-477,Winnipeg Corporate HQ,Pass,95.21,Yes,None,69.38,69.38,In-Warehouse
+LOT-2026-484,Manitoba Contract Growers,Re-clean Required,99.78,Yes,None,66.27,66.27,In-Warehouse
+LOT-2026-487,Saskatchewan Retail Networks,Pass,97.65,Yes,None,63.55,63.55,In-Warehouse
+LOT-2026-491,Winnipeg Corporate HQ,Pass,99.88,Yes,None,61.53,61.53,In-Warehouse
+LOT-2026-492,Alberta Co-op Distribution,Pass,99.42,Yes,None,71.79,71.79,In-Warehouse
+LOT-2026-493,Manitoba Contract Growers,Pass,95.7,Yes,Chaff,57.88,57.88,In-Warehouse
+LOT-2026-502,Winnipeg Corporate HQ,Pass,94.8,Yes,Stones,63.6,63.6,In-Warehouse
+LOT-2026-503,Manitoba Contract Growers,Pass,95.88,Yes,Weeds,73.08,73.08,In-Transit
+LOT-2026-507,Manitoba Contract Growers,Re-clean Required,97.35,Yes,Weeds,71.92,71.92,In-Warehouse

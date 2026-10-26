@@ -1,51 +1,521 @@
-batch_id,cost_per_metric_ton,certified_seed_tag_id,auditor_verified
-LOT-2026-001,860.38,TAG-CA-70D-001,Yes
-LOT-2026-002,710.54,TAG-CA-70D-002,Yes
-LOT-2026-003,914.63,TAG-CA-70D-003,No
-LOT-2026-004,766.6,TAG-CA-70D-004,No
-LOT-2026-005,836.49,TAG-CA-70D-005,Yes
-LOT-2026-006,1153.17,TAG-CA-70D-006,Yes
-LOT-2026-007,708.88,TAG-CA-70D-007,Yes
-LOT-2026-008,1168.95,TAG-CA-70D-008,Yes
-LOT-2026-009,1124.28,TAG-CA-70D-009,Yes
-LOT-2026-010,556.63,TAG-CA-70D-010,Yes
-LOT-2026-011,455.49,TAG-CA-70D-011,Yes
-LOT-2026-012,480.62,TAG-CA-70D-012,Yes
-LOT-2026-013,414.58,TAG-CA-70D-013,Yes
-LOT-2026-014,475.55,TAG-CA-70D-014,Yes
-LOT-2026-015,946.41,TAG-CA-70D-015,Yes
-LOT-2026-016,456.95,TAG-CA-70D-016,Yes
-LOT-2026-017,655.18,TAG-CA-70D-017,Yes
-LOT-2026-018,1075.9,TAG-CA-70D-018,Yes
-LOT-2026-019,418.62,TAG-CA-70D-019,Yes
-LOT-2026-020,1051.57,TAG-CA-70D-020,Yes
-LOT-2026-021,625.48,TAG-CA-70D-021,Yes
-LOT-2026-022,494.53,TAG-CA-70D-022,Yes
-LOT-2026-023,957.39,TAG-CA-70D-023,Yes
-LOT-2026-024,903.15,TAG-CA-70D-024,Yes
-LOT-2026-025,1101.98,TAG-CA-70D-025,Yes
-LOT-2026-026,988.06,TAG-CA-70D-026,Yes
-LOT-2026-027,1042.78,TAG-CA-70D-027,Yes
-LOT-2026-028,625.63,TAG-CA-70D-028,Yes
-LOT-2026-029,541.95,TAG-CA-70D-029,Yes
-LOT-2026-030,1000.49,TAG-CA-70D-030,Yes
-LOT-2026-031,1045.47,TAG-CA-70D-031,Yes
-LOT-2026-032,1192.4,TAG-CA-70D-032,Yes
-LOT-2026-033,730.09,TAG-CA-70D-033,No
-LOT-2026-034,697.61,TAG-CA-70D-034,Yes
-LOT-2026-035,1021.13,TAG-CA-70D-035,Yes
-LOT-2026-036,672.64,TAG-CA-70D-036,Yes
-LOT-2026-037,1144.61,TAG-CA-70D-037,Yes
-LOT-2026-038,1086.73,TAG-CA-70D-038,No
-LOT-2026-039,743.2,TAG-CA-70D-039,Yes
-LOT-2026-040,1000.7,TAG-CA-70D-040,Yes
-LOT-2026-041,1003.63,TAG-CA-70D-041,Yes
-LOT-2026-042,482.5,TAG-CA-70D-042,Yes
-LOT-2026-043,1122.04,TAG-CA-70D-043,Yes
-LOT-2026-044,804.2,TAG-CA-70D-044,Yes
-LOT-2026-045,1061.17,TAG-CA-70D-045,Yes
-LOT-2026-046,656.04,TAG-CA-70D-046,Yes
-LOT-2026-047,1116.42,TAG-CA-70D-047,Yes
-LOT-2026-048,711.36,TAG-CA-70D-048,Yes
-LOT-2026-049,408.67,TAG-CA-70D-049,Yes
-LOT-2026-050,1124.31,TAG-CA-70D-050,Yes
+batch_id,cost_per_metric_ton,certified_seed_tag_id,inventory_carry_forward_flag,warehouse_carry_forward_valuation_cad
+LOT-2021-022,1022.52,TAG-CA-001,Yes - Carry Forward to Next Fiscal Year,22025.08
+LOT-2021-028,858.79,TAG-CA-002,Yes - Carry Forward to Next Fiscal Year,18652.92
+LOT-2021-029,1227.09,TAG-CA-003,Yes - Carry Forward to Next Fiscal Year,32370.63
+LOT-2021-041,1275.27,TAG-CA-004,Yes - Carry Forward to Next Fiscal Year,34955.15
+LOT-2021-046,1347.13,TAG-CA-005,Yes - Carry Forward to Next Fiscal Year,34082.39
+LOT-2021-049,588.32,TAG-CA-006,Yes - Carry Forward to Next Fiscal Year,16643.57
+LOT-2021-054,1226.67,TAG-CA-007,Yes - Carry Forward to Next Fiscal Year,36689.7
+LOT-2021-065,689.42,TAG-CA-008,Yes - Carry Forward to Next Fiscal Year,19441.64
+LOT-2021-087,981.73,TAG-CA-009,Yes - Carry Forward to Next Fiscal Year,26457.62
+LOT-2021-094,905.2,TAG-CA-010,Yes - Carry Forward to Next Fiscal Year,22919.66
+LOT-2021-099,466.19,TAG-CA-011,Yes - Carry Forward to Next Fiscal Year,11416.99
+LOT-2021-102,1289.49,TAG-CA-012,Yes - Carry Forward to Next Fiscal Year,26872.97
+LOT-2021-103,520.49,TAG-CA-013,Yes - Carry Forward to Next Fiscal Year,12486.56
+LOT-2021-104,1069.4,TAG-CA-014,Yes - Carry Forward to Next Fiscal Year,31119.54
+LOT-2021-105,1156.51,TAG-CA-015,Yes - Carry Forward to Next Fiscal Year,32474.8
+LOT-2021-109,1165.76,TAG-CA-016,Yes - Carry Forward to Next Fiscal Year,25833.24
+LOT-2021-112,571.95,TAG-CA-017,Yes - Carry Forward to Next Fiscal Year,14110.01
+LOT-2021-117,852.81,TAG-CA-018,Yes - Carry Forward to Next Fiscal Year,24023.66
+LOT-2021-119,1196.49,TAG-CA-019,No - Shipped/In-Transit,0.0
+LOT-2021-122,722.41,TAG-CA-020,Yes - Carry Forward to Next Fiscal Year,17243.93
+LOT-2021-130,870.97,TAG-CA-021,Yes - Carry Forward to Next Fiscal Year,24840.06
+LOT-2021-135,695.51,TAG-CA-022,No - Shipped/In-Transit,0.0
+LOT-2021-140,867.2,TAG-CA-023,No - Shipped/In-Transit,0.0
+LOT-2021-146,1249.05,TAG-CA-024,Yes - Carry Forward to Next Fiscal Year,31763.34
+LOT-2021-165,859.61,TAG-CA-025,Yes - Carry Forward to Next Fiscal Year,24602.04
+LOT-2021-178,950.32,TAG-CA-026,Yes - Carry Forward to Next Fiscal Year,24613.29
+LOT-2021-180,813.58,TAG-CA-027,Yes - Carry Forward to Next Fiscal Year,18110.29
+LOT-2021-181,864.11,TAG-CA-028,Yes - Carry Forward to Next Fiscal Year,20600.38
+LOT-2021-182,463.66,TAG-CA-029,Yes - Carry Forward to Next Fiscal Year,11359.67
+LOT-2021-185,705.37,TAG-CA-030,Yes - Carry Forward to Next Fiscal Year,18191.49
+LOT-2021-188,842.92,TAG-CA-031,No - Shipped/In-Transit,0.0
+LOT-2021-192,1020.42,TAG-CA-032,No - Shipped/In-Transit,0.0
+LOT-2021-195,855.05,TAG-CA-033,Yes - Carry Forward to Next Fiscal Year,24710.94
+LOT-2021-201,754.04,TAG-CA-034,Yes - Carry Forward to Next Fiscal Year,15171.28
+LOT-2021-203,799.29,TAG-CA-035,Yes - Carry Forward to Next Fiscal Year,18943.17
+LOT-2021-205,668.06,TAG-CA-036,No - Shipped/In-Transit,0.0
+LOT-2021-212,1282.04,TAG-CA-037,Yes - Carry Forward to Next Fiscal Year,30679.22
+LOT-2021-214,919.57,TAG-CA-038,Yes - Carry Forward to Next Fiscal Year,23228.34
+LOT-2021-215,462.07,TAG-CA-039,Yes - Carry Forward to Next Fiscal Year,11607.2
+LOT-2021-217,467.5,TAG-CA-040,Yes - Carry Forward to Next Fiscal Year,10126.05
+LOT-2021-223,1325.67,TAG-CA-041,Yes - Carry Forward to Next Fiscal Year,35077.23
+LOT-2021-224,649.31,TAG-CA-042,No - Shipped/In-Transit,0.0
+LOT-2021-235,1175.05,TAG-CA-043,Yes - Carry Forward to Next Fiscal Year,32454.88
+LOT-2021-243,502.45,TAG-CA-044,Yes - Carry Forward to Next Fiscal Year,14807.2
+LOT-2021-244,1279.05,TAG-CA-045,Yes - Carry Forward to Next Fiscal Year,29929.77
+LOT-2021-260,1236.98,TAG-CA-046,Yes - Carry Forward to Next Fiscal Year,31134.79
+LOT-2021-261,963.98,TAG-CA-047,No - Shipped/In-Transit,0.0
+LOT-2021-263,458.1,TAG-CA-048,No - Shipped/In-Transit,0.0
+LOT-2021-266,682.03,TAG-CA-049,No - Shipped/In-Transit,0.0
+LOT-2021-267,816.14,TAG-CA-050,No - Shipped/In-Transit,0.0
+LOT-2021-274,864.06,TAG-CA-051,Yes - Carry Forward to Next Fiscal Year,22431.0
+LOT-2021-277,717.91,TAG-CA-052,Yes - Carry Forward to Next Fiscal Year,15083.29
+LOT-2021-279,479.65,TAG-CA-053,Yes - Carry Forward to Next Fiscal Year,13655.64
+LOT-2021-285,981.11,TAG-CA-054,No - Shipped/In-Transit,0.0
+LOT-2021-286,921.74,TAG-CA-055,Yes - Carry Forward to Next Fiscal Year,26195.85
+LOT-2021-292,704.7,TAG-CA-056,Yes - Carry Forward to Next Fiscal Year,18181.26
+LOT-2021-295,484.18,TAG-CA-057,No - Shipped/In-Transit,0.0
+LOT-2021-302,1345.13,TAG-CA-058,Yes - Carry Forward to Next Fiscal Year,28314.99
+LOT-2021-304,883.79,TAG-CA-059,Yes - Carry Forward to Next Fiscal Year,19151.73
+LOT-2021-313,1130.4,TAG-CA-060,Yes - Carry Forward to Next Fiscal Year,33595.49
+LOT-2021-315,857.08,TAG-CA-061,Yes - Carry Forward to Next Fiscal Year,19095.74
+LOT-2021-317,488.85,TAG-CA-062,Yes - Carry Forward to Next Fiscal Year,14553.06
+LOT-2021-322,728.64,TAG-CA-063,No - Shipped/In-Transit,0.0
+LOT-2021-323,738.1,TAG-CA-064,Yes - Carry Forward to Next Fiscal Year,15765.82
+LOT-2021-341,1204.52,TAG-CA-065,No - Shipped/In-Transit,0.0
+LOT-2021-343,1038.81,TAG-CA-066,Yes - Carry Forward to Next Fiscal Year,22947.31
+LOT-2021-350,697.89,TAG-CA-067,Yes - Carry Forward to Next Fiscal Year,20420.26
+LOT-2021-351,1320.97,TAG-CA-068,No - Shipped/In-Transit,0.0
+LOT-2021-361,739.39,TAG-CA-069,Yes - Carry Forward to Next Fiscal Year,17708.39
+LOT-2021-364,1348.41,TAG-CA-070,Yes - Carry Forward to Next Fiscal Year,31188.72
+LOT-2021-369,1346.55,TAG-CA-071,No - Shipped/In-Transit,0.0
+LOT-2021-373,622.09,TAG-CA-072,Yes - Carry Forward to Next Fiscal Year,15477.6
+LOT-2021-376,731.47,TAG-CA-073,Yes - Carry Forward to Next Fiscal Year,15580.31
+LOT-2021-389,887.44,TAG-CA-074,Yes - Carry Forward to Next Fiscal Year,25158.92
+LOT-2021-390,1047.69,TAG-CA-075,Yes - Carry Forward to Next Fiscal Year,24830.25
+LOT-2021-391,925.24,TAG-CA-076,Yes - Carry Forward to Next Fiscal Year,21974.45
+LOT-2021-399,1322.5,TAG-CA-077,Yes - Carry Forward to Next Fiscal Year,32718.65
+LOT-2021-403,1101.59,TAG-CA-078,No - Shipped/In-Transit,0.0
+LOT-2021-407,640.84,TAG-CA-079,No - Shipped/In-Transit,0.0
+LOT-2021-417,544.59,TAG-CA-080,Yes - Carry Forward to Next Fiscal Year,13859.82
+LOT-2021-425,1069.56,TAG-CA-081,Yes - Carry Forward to Next Fiscal Year,22332.41
+LOT-2021-433,592.61,TAG-CA-082,Yes - Carry Forward to Next Fiscal Year,15449.34
+LOT-2021-452,1158.91,TAG-CA-083,Yes - Carry Forward to Next Fiscal Year,24939.74
+LOT-2021-461,729.93,TAG-CA-084,Yes - Carry Forward to Next Fiscal Year,14824.88
+LOT-2021-464,744.2,TAG-CA-085,No - Shipped/In-Transit,0.0
+LOT-2021-467,459.72,TAG-CA-086,No - Shipped/In-Transit,0.0
+LOT-2021-471,1080.91,TAG-CA-087,Yes - Carry Forward to Next Fiscal Year,32211.12
+LOT-2021-474,551.94,TAG-CA-088,Yes - Carry Forward to Next Fiscal Year,13677.07
+LOT-2021-485,1145.59,TAG-CA-089,Yes - Carry Forward to Next Fiscal Year,29006.34
+LOT-2021-490,892.68,TAG-CA-090,Yes - Carry Forward to Next Fiscal Year,19353.3
+LOT-2021-501,1155.85,TAG-CA-091,Yes - Carry Forward to Next Fiscal Year,25971.95
+LOT-2021-516,975.53,TAG-CA-092,No - Shipped/In-Transit,0.0
+LOT-2022-006,524.19,TAG-CA-093,Yes - Carry Forward to Next Fiscal Year,12349.92
+LOT-2022-015,1139.09,TAG-CA-094,No - Shipped/In-Transit,0.0
+LOT-2022-019,512.82,TAG-CA-095,Yes - Carry Forward to Next Fiscal Year,13892.29
+LOT-2022-024,880.83,TAG-CA-096,Yes - Carry Forward to Next Fiscal Year,19175.67
+LOT-2022-032,605.11,TAG-CA-097,Yes - Carry Forward to Next Fiscal Year,15170.11
+LOT-2022-047,1127.1,TAG-CA-098,Yes - Carry Forward to Next Fiscal Year,30172.47
+LOT-2022-052,1270.43,TAG-CA-099,Yes - Carry Forward to Next Fiscal Year,28394.11
+LOT-2022-053,948.71,TAG-CA-100,Yes - Carry Forward to Next Fiscal Year,26857.98
+LOT-2022-055,924.43,TAG-CA-101,No - Shipped/In-Transit,0.0
+LOT-2022-057,1137.57,TAG-CA-102,Yes - Carry Forward to Next Fiscal Year,24628.39
+LOT-2022-067,454.57,TAG-CA-103,Yes - Carry Forward to Next Fiscal Year,11741.54
+LOT-2022-069,1275.98,TAG-CA-104,No - Shipped/In-Transit,0.0
+LOT-2022-073,627.7,TAG-CA-105,No - Shipped/In-Transit,0.0
+LOT-2022-077,1335.71,TAG-CA-106,No - Shipped/In-Transit,0.0
+LOT-2022-078,1112.63,TAG-CA-107,Yes - Carry Forward to Next Fiscal Year,24555.74
+LOT-2022-080,1146.83,TAG-CA-108,No - Shipped/In-Transit,0.0
+LOT-2022-081,1040.58,TAG-CA-109,Yes - Carry Forward to Next Fiscal Year,28459.86
+LOT-2022-091,874.5,TAG-CA-110,Yes - Carry Forward to Next Fiscal Year,20113.5
+LOT-2022-093,964.46,TAG-CA-111,Yes - Carry Forward to Next Fiscal Year,22433.34
+LOT-2022-115,491.76,TAG-CA-112,Yes - Carry Forward to Next Fiscal Year,13734.86
+LOT-2022-116,1011.56,TAG-CA-113,Yes - Carry Forward to Next Fiscal Year,24894.49
+LOT-2022-121,1013.49,TAG-CA-114,Yes - Carry Forward to Next Fiscal Year,27678.41
+LOT-2022-137,1252.08,TAG-CA-115,Yes - Carry Forward to Next Fiscal Year,26894.68
+LOT-2022-141,905.09,TAG-CA-116,Yes - Carry Forward to Next Fiscal Year,25822.22
+LOT-2022-142,519.43,TAG-CA-117,Yes - Carry Forward to Next Fiscal Year,14081.75
+LOT-2022-161,725.58,TAG-CA-118,No - Shipped/In-Transit,0.0
+LOT-2022-162,1040.07,TAG-CA-119,No - Shipped/In-Transit,0.0
+LOT-2022-176,665.33,TAG-CA-120,Yes - Carry Forward to Next Fiscal Year,17252.01
+LOT-2022-197,702.48,TAG-CA-121,No - Shipped/In-Transit,0.0
+LOT-2022-206,1188.42,TAG-CA-122,Yes - Carry Forward to Next Fiscal Year,27963.52
+LOT-2022-210,975.89,TAG-CA-123,Yes - Carry Forward to Next Fiscal Year,23987.38
+LOT-2022-218,907.67,TAG-CA-124,Yes - Carry Forward to Next Fiscal Year,18498.31
+LOT-2022-219,736.61,TAG-CA-125,Yes - Carry Forward to Next Fiscal Year,20227.31
+LOT-2022-227,1107.84,TAG-CA-126,No - Shipped/In-Transit,0.0
+LOT-2022-230,708.95,TAG-CA-127,Yes - Carry Forward to Next Fiscal Year,14590.19
+LOT-2022-239,1113.36,TAG-CA-128,Yes - Carry Forward to Next Fiscal Year,29849.18
+LOT-2022-255,513.09,TAG-CA-129,Yes - Carry Forward to Next Fiscal Year,12657.93
+LOT-2022-262,1228.09,TAG-CA-130,Yes - Carry Forward to Next Fiscal Year,24979.35
+LOT-2022-268,899.61,TAG-CA-131,No - Shipped/In-Transit,0.0
+LOT-2022-270,844.66,TAG-CA-132,No - Shipped/In-Transit,0.0
+LOT-2022-273,999.92,TAG-CA-133,Yes - Carry Forward to Next Fiscal Year,25127.99
+LOT-2022-278,1011.77,TAG-CA-134,No - Shipped/In-Transit,0.0
+LOT-2022-306,568.83,TAG-CA-135,Yes - Carry Forward to Next Fiscal Year,15671.27
+LOT-2022-308,1130.61,TAG-CA-136,No - Shipped/In-Transit,0.0
+LOT-2022-309,698.34,TAG-CA-137,Yes - Carry Forward to Next Fiscal Year,16075.79
+LOT-2022-338,1264.47,TAG-CA-138,Yes - Carry Forward to Next Fiscal Year,31497.95
+LOT-2022-375,1186.07,TAG-CA-139,Yes - Carry Forward to Next Fiscal Year,29912.69
+LOT-2022-377,761.64,TAG-CA-140,Yes - Carry Forward to Next Fiscal Year,19520.83
+LOT-2022-379,1176.97,TAG-CA-141,Yes - Carry Forward to Next Fiscal Year,28729.84
+LOT-2022-382,770.75,TAG-CA-142,Yes - Carry Forward to Next Fiscal Year,20085.74
+LOT-2022-384,540.85,TAG-CA-143,Yes - Carry Forward to Next Fiscal Year,15787.41
+LOT-2022-386,1315.7,TAG-CA-144,No - Shipped/In-Transit,0.0
+LOT-2022-387,1037.34,TAG-CA-145,Yes - Carry Forward to Next Fiscal Year,28277.89
+LOT-2022-388,860.49,TAG-CA-146,Yes - Carry Forward to Next Fiscal Year,24902.58
+LOT-2022-395,808.0,TAG-CA-147,Yes - Carry Forward to Next Fiscal Year,19844.48
+LOT-2022-396,742.23,TAG-CA-148,No - Shipped/In-Transit,0.0
+LOT-2022-398,1333.3,TAG-CA-149,Yes - Carry Forward to Next Fiscal Year,34692.47
+LOT-2022-402,571.27,TAG-CA-150,No - Shipped/In-Transit,0.0
+LOT-2022-413,733.32,TAG-CA-151,No - Shipped/In-Transit,0.0
+LOT-2022-414,886.95,TAG-CA-152,Yes - Carry Forward to Next Fiscal Year,21960.88
+LOT-2022-418,880.2,TAG-CA-153,Yes - Carry Forward to Next Fiscal Year,26370.79
+LOT-2022-422,874.23,TAG-CA-154,Yes - Carry Forward to Next Fiscal Year,18000.4
+LOT-2022-423,608.21,TAG-CA-155,Yes - Carry Forward to Next Fiscal Year,12182.45
+LOT-2022-427,580.44,TAG-CA-156,No - Shipped/In-Transit,0.0
+LOT-2022-447,679.29,TAG-CA-157,No - Shipped/In-Transit,0.0
+LOT-2022-449,1273.07,TAG-CA-158,Yes - Carry Forward to Next Fiscal Year,28516.77
+LOT-2022-455,551.75,TAG-CA-159,Yes - Carry Forward to Next Fiscal Year,12756.46
+LOT-2022-456,1131.68,TAG-CA-160,No - Shipped/In-Transit,0.0
+LOT-2022-458,1131.79,TAG-CA-161,Yes - Carry Forward to Next Fiscal Year,22986.65
+LOT-2022-465,1178.79,TAG-CA-162,Yes - Carry Forward to Next Fiscal Year,35033.64
+LOT-2022-466,1247.95,TAG-CA-163,Yes - Carry Forward to Next Fiscal Year,27716.97
+LOT-2022-468,686.73,TAG-CA-164,Yes - Carry Forward to Next Fiscal Year,18775.2
+LOT-2022-481,652.1,TAG-CA-165,No - Shipped/In-Transit,0.0
+LOT-2022-497,868.96,TAG-CA-166,Yes - Carry Forward to Next Fiscal Year,25451.84
+LOT-2022-498,688.58,TAG-CA-167,Yes - Carry Forward to Next Fiscal Year,13985.06
+LOT-2022-505,1110.88,TAG-CA-168,No - Shipped/In-Transit,0.0
+LOT-2022-506,1022.35,TAG-CA-169,Yes - Carry Forward to Next Fiscal Year,25834.78
+LOT-2022-510,1237.49,TAG-CA-170,No - Shipped/In-Transit,0.0
+LOT-2022-512,524.46,TAG-CA-171,Yes - Carry Forward to Next Fiscal Year,13866.72
+LOT-2022-513,1273.58,TAG-CA-172,Yes - Carry Forward to Next Fiscal Year,35914.96
+LOT-2022-515,714.01,TAG-CA-173,No - Shipped/In-Transit,0.0
+LOT-2022-520,891.62,TAG-CA-174,Yes - Carry Forward to Next Fiscal Year,24367.97
+LOT-2023-003,844.75,TAG-CA-175,Yes - Carry Forward to Next Fiscal Year,21363.73
+LOT-2023-007,1134.28,TAG-CA-176,Yes - Carry Forward to Next Fiscal Year,31680.44
+LOT-2023-008,828.3,TAG-CA-177,Yes - Carry Forward to Next Fiscal Year,24774.45
+LOT-2023-009,1299.2,TAG-CA-178,Yes - Carry Forward to Next Fiscal Year,28595.39
+LOT-2023-012,1262.28,TAG-CA-179,No - Shipped/In-Transit,0.0
+LOT-2023-030,1234.95,TAG-CA-180,No - Shipped/In-Transit,0.0
+LOT-2023-031,514.13,TAG-CA-181,No - Shipped/In-Transit,0.0
+LOT-2023-038,1218.83,TAG-CA-182,Yes - Carry Forward to Next Fiscal Year,24912.89
+LOT-2023-042,1153.47,TAG-CA-183,Yes - Carry Forward to Next Fiscal Year,27014.27
+LOT-2023-044,543.16,TAG-CA-184,Yes - Carry Forward to Next Fiscal Year,14301.4
+LOT-2023-063,546.67,TAG-CA-185,No - Shipped/In-Transit,0.0
+LOT-2023-107,541.05,TAG-CA-186,Yes - Carry Forward to Next Fiscal Year,10853.46
+LOT-2023-108,460.2,TAG-CA-187,Yes - Carry Forward to Next Fiscal Year,13516.07
+LOT-2023-110,943.77,TAG-CA-188,No - Shipped/In-Transit,0.0
+LOT-2023-111,1326.05,TAG-CA-189,Yes - Carry Forward to Next Fiscal Year,37248.74
+LOT-2023-113,844.82,TAG-CA-190,Yes - Carry Forward to Next Fiscal Year,24364.61
+LOT-2023-125,936.68,TAG-CA-191,No - Shipped/In-Transit,0.0
+LOT-2023-128,1321.17,TAG-CA-192,No - Shipped/In-Transit,0.0
+LOT-2023-129,679.66,TAG-CA-193,Yes - Carry Forward to Next Fiscal Year,16305.04
+LOT-2023-131,1222.62,TAG-CA-194,Yes - Carry Forward to Next Fiscal Year,33291.94
+LOT-2023-134,941.75,TAG-CA-195,No - Shipped/In-Transit,0.0
+LOT-2023-139,962.53,TAG-CA-196,Yes - Carry Forward to Next Fiscal Year,25863.18
+LOT-2023-145,758.86,TAG-CA-197,Yes - Carry Forward to Next Fiscal Year,15359.33
+LOT-2023-153,955.43,TAG-CA-198,Yes - Carry Forward to Next Fiscal Year,22032.22
+LOT-2023-157,515.83,TAG-CA-199,Yes - Carry Forward to Next Fiscal Year,13148.51
+LOT-2023-158,1138.18,TAG-CA-200,Yes - Carry Forward to Next Fiscal Year,29956.9
+LOT-2023-175,706.22,TAG-CA-201,Yes - Carry Forward to Next Fiscal Year,18199.29
+LOT-2023-183,1248.85,TAG-CA-202,Yes - Carry Forward to Next Fiscal Year,33693.97
+LOT-2023-189,781.07,TAG-CA-203,Yes - Carry Forward to Next Fiscal Year,15668.26
+LOT-2023-191,578.54,TAG-CA-204,No - Shipped/In-Transit,0.0
+LOT-2023-196,1076.29,TAG-CA-205,No - Shipped/In-Transit,0.0
+LOT-2023-199,598.12,TAG-CA-206,No - Shipped/In-Transit,0.0
+LOT-2023-211,1128.31,TAG-CA-207,Yes - Carry Forward to Next Fiscal Year,23841.19
+LOT-2023-216,1321.3,TAG-CA-208,Yes - Carry Forward to Next Fiscal Year,37551.35
+LOT-2023-225,1151.6,TAG-CA-209,Yes - Carry Forward to Next Fiscal Year,25818.87
+LOT-2023-233,470.2,TAG-CA-210,No - Shipped/In-Transit,0.0
+LOT-2023-234,989.9,TAG-CA-211,Yes - Carry Forward to Next Fiscal Year,21233.36
+LOT-2023-242,1075.87,TAG-CA-212,Yes - Carry Forward to Next Fiscal Year,29156.08
+LOT-2023-246,1192.91,TAG-CA-213,No - Shipped/In-Transit,0.0
+LOT-2023-249,500.4,TAG-CA-214,Yes - Carry Forward to Next Fiscal Year,11063.84
+LOT-2023-252,882.1,TAG-CA-215,Yes - Carry Forward to Next Fiscal Year,25254.52
+LOT-2023-254,931.83,TAG-CA-216,No - Shipped/In-Transit,0.0
+LOT-2023-256,602.21,TAG-CA-217,No - Shipped/In-Transit,0.0
+LOT-2023-257,740.2,TAG-CA-218,Yes - Carry Forward to Next Fiscal Year,15929.1
+LOT-2023-264,846.2,TAG-CA-219,No - Shipped/In-Transit,0.0
+LOT-2023-271,1199.89,TAG-CA-220,Yes - Carry Forward to Next Fiscal Year,24261.78
+LOT-2023-284,1286.47,TAG-CA-221,No - Shipped/In-Transit,0.0
+LOT-2023-287,1015.58,TAG-CA-222,Yes - Carry Forward to Next Fiscal Year,28862.78
+LOT-2023-288,805.45,TAG-CA-223,Yes - Carry Forward to Next Fiscal Year,20530.92
+LOT-2023-289,678.63,TAG-CA-224,Yes - Carry Forward to Next Fiscal Year,15058.8
+LOT-2023-294,1333.92,TAG-CA-225,No - Shipped/In-Transit,0.0
+LOT-2023-300,1334.72,TAG-CA-226,Yes - Carry Forward to Next Fiscal Year,29564.05
+LOT-2023-303,1282.48,TAG-CA-227,Yes - Carry Forward to Next Fiscal Year,30984.72
+LOT-2023-311,1157.1,TAG-CA-228,Yes - Carry Forward to Next Fiscal Year,31935.96
+LOT-2023-321,743.2,TAG-CA-229,No - Shipped/In-Transit,0.0
+LOT-2023-325,1185.3,TAG-CA-230,Yes - Carry Forward to Next Fiscal Year,32240.16
+LOT-2023-326,817.91,TAG-CA-231,Yes - Carry Forward to Next Fiscal Year,23449.48
+LOT-2023-334,744.1,TAG-CA-232,Yes - Carry Forward to Next Fiscal Year,18260.21
+LOT-2023-336,1120.38,TAG-CA-233,Yes - Carry Forward to Next Fiscal Year,31605.92
+LOT-2023-337,521.69,TAG-CA-234,Yes - Carry Forward to Next Fiscal Year,13329.18
+LOT-2023-347,493.71,TAG-CA-235,Yes - Carry Forward to Next Fiscal Year,13019.13
+LOT-2023-349,853.16,TAG-CA-236,Yes - Carry Forward to Next Fiscal Year,21550.82
+LOT-2023-359,851.07,TAG-CA-237,Yes - Carry Forward to Next Fiscal Year,20961.85
+LOT-2023-367,1256.08,TAG-CA-238,No - Shipped/In-Transit,0.0
+LOT-2023-374,563.54,TAG-CA-239,Yes - Carry Forward to Next Fiscal Year,12978.33
+LOT-2023-380,560.96,TAG-CA-240,Yes - Carry Forward to Next Fiscal Year,12845.98
+LOT-2023-385,582.71,TAG-CA-241,No - Shipped/In-Transit,0.0
+LOT-2023-392,476.76,TAG-CA-242,Yes - Carry Forward to Next Fiscal Year,10107.31
+LOT-2023-397,514.56,TAG-CA-243,No - Shipped/In-Transit,0.0
+LOT-2023-411,1043.88,TAG-CA-244,Yes - Carry Forward to Next Fiscal Year,28403.97
+LOT-2023-416,838.43,TAG-CA-245,Yes - Carry Forward to Next Fiscal Year,20130.7
+LOT-2023-430,1137.24,TAG-CA-246,Yes - Carry Forward to Next Fiscal Year,24553.01
+LOT-2023-444,1343.34,TAG-CA-247,No - Shipped/In-Transit,0.0
+LOT-2023-451,1043.13,TAG-CA-248,Yes - Carry Forward to Next Fiscal Year,29457.99
+LOT-2023-453,495.41,TAG-CA-249,Yes - Carry Forward to Next Fiscal Year,13485.06
+LOT-2023-479,544.11,TAG-CA-250,No - Shipped/In-Transit,0.0
+LOT-2023-482,1242.9,TAG-CA-251,Yes - Carry Forward to Next Fiscal Year,29854.46
+LOT-2023-514,924.75,TAG-CA-252,Yes - Carry Forward to Next Fiscal Year,19447.49
+LOT-2024-001,1192.35,TAG-CA-253,Yes - Carry Forward to Next Fiscal Year,26100.54
+LOT-2024-011,1220.95,TAG-CA-254,No - Shipped/In-Transit,0.0
+LOT-2024-016,1284.91,TAG-CA-255,Yes - Carry Forward to Next Fiscal Year,34885.31
+LOT-2024-020,1304.85,TAG-CA-256,Yes - Carry Forward to Next Fiscal Year,33834.76
+LOT-2024-023,949.34,TAG-CA-257,Yes - Carry Forward to Next Fiscal Year,27492.89
+LOT-2024-027,756.92,TAG-CA-258,Yes - Carry Forward to Next Fiscal Year,19551.24
+LOT-2024-033,1315.68,TAG-CA-259,No - Shipped/In-Transit,0.0
+LOT-2024-034,942.67,TAG-CA-260,No - Shipped/In-Transit,0.0
+LOT-2024-039,507.83,TAG-CA-261,No - Shipped/In-Transit,0.0
+LOT-2024-040,1028.5,TAG-CA-262,No - Shipped/In-Transit,0.0
+LOT-2024-048,978.92,TAG-CA-263,Yes - Carry Forward to Next Fiscal Year,28692.15
+LOT-2024-050,1256.21,TAG-CA-264,Yes - Carry Forward to Next Fiscal Year,35513.06
+LOT-2024-058,1037.87,TAG-CA-265,No - Shipped/In-Transit,0.0
+LOT-2024-059,764.15,TAG-CA-266,Yes - Carry Forward to Next Fiscal Year,19600.45
+LOT-2024-060,1319.6,TAG-CA-267,Yes - Carry Forward to Next Fiscal Year,37832.93
+LOT-2024-061,1171.46,TAG-CA-268,No - Shipped/In-Transit,0.0
+LOT-2024-066,1017.38,TAG-CA-269,Yes - Carry Forward to Next Fiscal Year,29575.24
+LOT-2024-068,713.63,TAG-CA-270,No - Shipped/In-Transit,0.0
+LOT-2024-074,786.19,TAG-CA-271,Yes - Carry Forward to Next Fiscal Year,19041.52
+LOT-2024-079,1052.97,TAG-CA-272,Yes - Carry Forward to Next Fiscal Year,25029.1
+LOT-2024-083,514.78,TAG-CA-273,Yes - Carry Forward to Next Fiscal Year,15113.94
+LOT-2024-086,681.01,TAG-CA-274,Yes - Carry Forward to Next Fiscal Year,18217.02
+LOT-2024-095,1092.51,TAG-CA-275,No - Shipped/In-Transit,0.0
+LOT-2024-096,882.02,TAG-CA-276,Yes - Carry Forward to Next Fiscal Year,18010.85
+LOT-2024-097,812.15,TAG-CA-277,Yes - Carry Forward to Next Fiscal Year,20831.65
+LOT-2024-106,586.31,TAG-CA-278,Yes - Carry Forward to Next Fiscal Year,17178.88
+LOT-2024-118,847.66,TAG-CA-279,Yes - Carry Forward to Next Fiscal Year,24107.45
+LOT-2024-120,1143.62,TAG-CA-280,Yes - Carry Forward to Next Fiscal Year,30603.27
+LOT-2024-126,687.61,TAG-CA-281,No - Shipped/In-Transit,0.0
+LOT-2024-143,454.86,TAG-CA-282,Yes - Carry Forward to Next Fiscal Year,10252.54
+LOT-2024-147,1051.65,TAG-CA-283,No - Shipped/In-Transit,0.0
+LOT-2024-149,1325.36,TAG-CA-284,No - Shipped/In-Transit,0.0
+LOT-2024-155,996.14,TAG-CA-285,Yes - Carry Forward to Next Fiscal Year,22692.07
+LOT-2024-160,557.93,TAG-CA-286,Yes - Carry Forward to Next Fiscal Year,11883.91
+LOT-2024-168,738.66,TAG-CA-287,No - Shipped/In-Transit,0.0
+LOT-2024-169,1230.88,TAG-CA-288,Yes - Carry Forward to Next Fiscal Year,36237.11
+LOT-2024-170,659.31,TAG-CA-289,Yes - Carry Forward to Next Fiscal Year,14959.74
+LOT-2024-171,996.93,TAG-CA-290,Yes - Carry Forward to Next Fiscal Year,24674.02
+LOT-2024-172,812.4,TAG-CA-291,No - Shipped/In-Transit,0.0
+LOT-2024-177,637.06,TAG-CA-292,No - Shipped/In-Transit,0.0
+LOT-2024-186,1182.07,TAG-CA-293,No - Shipped/In-Transit,0.0
+LOT-2024-198,1118.55,TAG-CA-294,Yes - Carry Forward to Next Fiscal Year,27952.56
+LOT-2024-202,1045.43,TAG-CA-295,Yes - Carry Forward to Next Fiscal Year,24933.51
+LOT-2024-207,662.7,TAG-CA-296,Yes - Carry Forward to Next Fiscal Year,18992.98
+LOT-2024-208,538.07,TAG-CA-297,Yes - Carry Forward to Next Fiscal Year,13322.61
+LOT-2024-220,968.54,TAG-CA-298,Yes - Carry Forward to Next Fiscal Year,20445.88
+LOT-2024-229,948.31,TAG-CA-299,No - Shipped/In-Transit,0.0
+LOT-2024-232,619.55,TAG-CA-300,No - Shipped/In-Transit,0.0
+LOT-2024-238,500.62,TAG-CA-301,Yes - Carry Forward to Next Fiscal Year,10027.42
+LOT-2024-245,522.64,TAG-CA-302,Yes - Carry Forward to Next Fiscal Year,14942.28
+LOT-2024-250,1343.49,TAG-CA-303,Yes - Carry Forward to Next Fiscal Year,29368.69
+LOT-2024-251,1155.23,TAG-CA-304,Yes - Carry Forward to Next Fiscal Year,29481.47
+LOT-2024-253,1279.79,TAG-CA-305,No - Shipped/In-Transit,0.0
+LOT-2024-258,625.55,TAG-CA-306,No - Shipped/In-Transit,0.0
+LOT-2024-259,1314.51,TAG-CA-307,Yes - Carry Forward to Next Fiscal Year,31167.03
+LOT-2024-265,578.39,TAG-CA-308,Yes - Carry Forward to Next Fiscal Year,16599.79
+LOT-2024-272,908.17,TAG-CA-309,Yes - Carry Forward to Next Fiscal Year,24793.04
+LOT-2024-275,1196.73,TAG-CA-310,Yes - Carry Forward to Next Fiscal Year,31689.41
+LOT-2024-276,764.82,TAG-CA-311,Yes - Carry Forward to Next Fiscal Year,21384.37
+LOT-2024-281,832.35,TAG-CA-312,Yes - Carry Forward to Next Fiscal Year,22922.92
+LOT-2024-290,565.37,TAG-CA-313,Yes - Carry Forward to Next Fiscal Year,11510.93
+LOT-2024-293,560.63,TAG-CA-314,No - Shipped/In-Transit,0.0
+LOT-2024-296,1007.61,TAG-CA-315,Yes - Carry Forward to Next Fiscal Year,29533.05
+LOT-2024-298,1057.98,TAG-CA-316,Yes - Carry Forward to Next Fiscal Year,22492.65
+LOT-2024-314,1149.6,TAG-CA-317,Yes - Carry Forward to Next Fiscal Year,31464.55
+LOT-2024-316,951.01,TAG-CA-318,Yes - Carry Forward to Next Fiscal Year,28292.55
+LOT-2024-320,1031.18,TAG-CA-319,Yes - Carry Forward to Next Fiscal Year,21159.81
+LOT-2024-324,462.17,TAG-CA-320,Yes - Carry Forward to Next Fiscal Year,12395.4
+LOT-2024-342,595.95,TAG-CA-321,Yes - Carry Forward to Next Fiscal Year,14708.05
+LOT-2024-345,1336.42,TAG-CA-322,Yes - Carry Forward to Next Fiscal Year,34466.27
+LOT-2024-348,518.39,TAG-CA-323,No - Shipped/In-Transit,0.0
+LOT-2024-352,1060.91,TAG-CA-324,Yes - Carry Forward to Next Fiscal Year,21674.39
+LOT-2024-353,608.47,TAG-CA-325,No - Shipped/In-Transit,0.0
+LOT-2024-360,1095.05,TAG-CA-326,Yes - Carry Forward to Next Fiscal Year,30913.26
+LOT-2024-368,1085.39,TAG-CA-327,Yes - Carry Forward to Next Fiscal Year,30195.55
+LOT-2024-370,660.78,TAG-CA-328,Yes - Carry Forward to Next Fiscal Year,16810.24
+LOT-2024-401,692.67,TAG-CA-329,Yes - Carry Forward to Next Fiscal Year,14546.07
+LOT-2024-404,1039.29,TAG-CA-330,No - Shipped/In-Transit,0.0
+LOT-2024-406,801.08,TAG-CA-331,No - Shipped/In-Transit,0.0
+LOT-2024-410,625.09,TAG-CA-332,No - Shipped/In-Transit,0.0
+LOT-2024-412,1108.51,TAG-CA-333,No - Shipped/In-Transit,0.0
+LOT-2024-426,588.73,TAG-CA-334,Yes - Carry Forward to Next Fiscal Year,15948.7
+LOT-2024-431,1220.08,TAG-CA-335,Yes - Carry Forward to Next Fiscal Year,35980.16
+LOT-2024-435,913.2,TAG-CA-336,Yes - Carry Forward to Next Fiscal Year,18547.09
+LOT-2024-436,545.13,TAG-CA-337,No - Shipped/In-Transit,0.0
+LOT-2024-437,1074.67,TAG-CA-338,No - Shipped/In-Transit,0.0
+LOT-2024-439,917.25,TAG-CA-339,Yes - Carry Forward to Next Fiscal Year,26655.28
+LOT-2024-442,718.25,TAG-CA-340,No - Shipped/In-Transit,0.0
+LOT-2024-445,830.29,TAG-CA-341,Yes - Carry Forward to Next Fiscal Year,22625.4
+LOT-2024-448,718.5,TAG-CA-342,Yes - Carry Forward to Next Fiscal Year,20678.43
+LOT-2024-454,686.72,TAG-CA-343,Yes - Carry Forward to Next Fiscal Year,14022.82
+LOT-2024-462,597.25,TAG-CA-344,Yes - Carry Forward to Next Fiscal Year,14322.06
+LOT-2024-480,776.49,TAG-CA-345,No - Shipped/In-Transit,0.0
+LOT-2024-488,675.89,TAG-CA-346,Yes - Carry Forward to Next Fiscal Year,16593.1
+LOT-2024-494,1065.09,TAG-CA-347,Yes - Carry Forward to Next Fiscal Year,24145.59
+LOT-2024-496,1065.49,TAG-CA-348,Yes - Carry Forward to Next Fiscal Year,23653.88
+LOT-2024-500,901.66,TAG-CA-349,Yes - Carry Forward to Next Fiscal Year,19223.39
+LOT-2024-509,1150.15,TAG-CA-350,Yes - Carry Forward to Next Fiscal Year,32859.79
+LOT-2024-511,1207.21,TAG-CA-351,Yes - Carry Forward to Next Fiscal Year,31085.66
+LOT-2024-519,971.79,TAG-CA-352,Yes - Carry Forward to Next Fiscal Year,20174.36
+LOT-2025-002,1007.04,TAG-CA-353,Yes - Carry Forward to Next Fiscal Year,73161.46
+LOT-2025-004,704.6,TAG-CA-354,Yes - Carry Forward to Next Fiscal Year,50977.81
+LOT-2025-005,1255.38,TAG-CA-355,No - Shipped/In-Transit,0.0
+LOT-2025-010,471.79,TAG-CA-356,Yes - Carry Forward to Next Fiscal Year,34775.64
+LOT-2025-014,763.74,TAG-CA-357,Yes - Carry Forward to Next Fiscal Year,54714.33
+LOT-2025-021,1099.62,TAG-CA-358,Yes - Carry Forward to Next Fiscal Year,78996.7
+LOT-2025-026,522.08,TAG-CA-359,Yes - Carry Forward to Next Fiscal Year,41651.54
+LOT-2025-043,614.85,TAG-CA-360,Yes - Carry Forward to Next Fiscal Year,42713.63
+LOT-2025-045,980.36,TAG-CA-361,No - Shipped/In-Transit,0.0
+LOT-2025-056,953.99,TAG-CA-362,No - Shipped/In-Transit,0.0
+LOT-2025-062,1115.04,TAG-CA-363,No - Shipped/In-Transit,0.0
+LOT-2025-076,1181.35,TAG-CA-364,Yes - Carry Forward to Next Fiscal Year,92452.45
+LOT-2025-089,565.72,TAG-CA-365,Yes - Carry Forward to Next Fiscal Year,42977.75
+LOT-2025-090,466.54,TAG-CA-366,No - Shipped/In-Transit,0.0
+LOT-2025-092,1070.67,TAG-CA-367,Yes - Carry Forward to Next Fiscal Year,84058.3
+LOT-2025-098,721.25,TAG-CA-368,Yes - Carry Forward to Next Fiscal Year,54771.72
+LOT-2025-100,1013.39,TAG-CA-369,No - Shipped/In-Transit,0.0
+LOT-2025-101,585.49,TAG-CA-370,Yes - Carry Forward to Next Fiscal Year,45152.99
+LOT-2025-114,872.14,TAG-CA-371,Yes - Carry Forward to Next Fiscal Year,61764.95
+LOT-2025-124,903.98,TAG-CA-372,Yes - Carry Forward to Next Fiscal Year,62501.18
+LOT-2025-132,976.57,TAG-CA-373,Yes - Carry Forward to Next Fiscal Year,66455.59
+LOT-2025-136,911.85,TAG-CA-374,Yes - Carry Forward to Next Fiscal Year,75674.43
+LOT-2025-144,896.12,TAG-CA-375,Yes - Carry Forward to Next Fiscal Year,70972.7
+LOT-2025-148,749.46,TAG-CA-376,Yes - Carry Forward to Next Fiscal Year,62767.28
+LOT-2025-151,514.06,TAG-CA-377,Yes - Carry Forward to Next Fiscal Year,39618.6
+LOT-2025-152,530.57,TAG-CA-378,Yes - Carry Forward to Next Fiscal Year,39511.55
+LOT-2025-154,840.4,TAG-CA-379,No - Shipped/In-Transit,0.0
+LOT-2025-156,770.21,TAG-CA-380,Yes - Carry Forward to Next Fiscal Year,60407.57
+LOT-2025-163,914.52,TAG-CA-381,Yes - Carry Forward to Next Fiscal Year,70088.81
+LOT-2025-166,724.35,TAG-CA-382,Yes - Carry Forward to Next Fiscal Year,61424.88
+LOT-2025-187,1069.12,TAG-CA-383,No - Shipped/In-Transit,0.0
+LOT-2025-194,1227.56,TAG-CA-384,Yes - Carry Forward to Next Fiscal Year,92815.81
+LOT-2025-213,718.98,TAG-CA-385,Yes - Carry Forward to Next Fiscal Year,56094.82
+LOT-2025-222,623.69,TAG-CA-386,Yes - Carry Forward to Next Fiscal Year,48579.21
+LOT-2025-228,554.56,TAG-CA-387,No - Shipped/In-Transit,0.0
+LOT-2025-237,1004.63,TAG-CA-388,Yes - Carry Forward to Next Fiscal Year,80912.9
+LOT-2025-248,849.47,TAG-CA-389,Yes - Carry Forward to Next Fiscal Year,58698.38
+LOT-2025-282,619.21,TAG-CA-390,Yes - Carry Forward to Next Fiscal Year,49233.39
+LOT-2025-283,1037.82,TAG-CA-391,Yes - Carry Forward to Next Fiscal Year,80316.89
+LOT-2025-305,583.63,TAG-CA-392,No - Shipped/In-Transit,0.0
+LOT-2025-312,948.87,TAG-CA-393,No - Shipped/In-Transit,0.0
+LOT-2025-319,924.43,TAG-CA-394,Yes - Carry Forward to Next Fiscal Year,65911.86
+LOT-2025-333,1110.81,TAG-CA-395,No - Shipped/In-Transit,0.0
+LOT-2025-339,499.6,TAG-CA-396,Yes - Carry Forward to Next Fiscal Year,42281.15
+LOT-2025-344,1249.09,TAG-CA-397,Yes - Carry Forward to Next Fiscal Year,94368.75
+LOT-2025-346,1082.69,TAG-CA-398,Yes - Carry Forward to Next Fiscal Year,90004.02
+LOT-2025-355,644.51,TAG-CA-399,Yes - Carry Forward to Next Fiscal Year,44007.14
+LOT-2025-357,615.06,TAG-CA-400,No - Shipped/In-Transit,0.0
+LOT-2025-362,838.49,TAG-CA-401,Yes - Carry Forward to Next Fiscal Year,68085.39
+LOT-2025-363,1185.81,TAG-CA-402,Yes - Carry Forward to Next Fiscal Year,99548.75
+LOT-2025-366,1208.65,TAG-CA-403,Yes - Carry Forward to Next Fiscal Year,86720.64
+LOT-2025-371,918.41,TAG-CA-404,Yes - Carry Forward to Next Fiscal Year,73013.6
+LOT-2025-372,1224.73,TAG-CA-405,Yes - Carry Forward to Next Fiscal Year,92810.04
+LOT-2025-394,454.9,TAG-CA-406,Yes - Carry Forward to Next Fiscal Year,30118.93
+LOT-2025-400,481.66,TAG-CA-407,No - Shipped/In-Transit,0.0
+LOT-2025-405,1270.64,TAG-CA-408,Yes - Carry Forward to Next Fiscal Year,100126.43
+LOT-2025-420,1147.8,TAG-CA-409,Yes - Carry Forward to Next Fiscal Year,95967.56
+LOT-2025-432,855.64,TAG-CA-410,No - Shipped/In-Transit,0.0
+LOT-2025-434,1128.25,TAG-CA-411,No - Shipped/In-Transit,0.0
+LOT-2025-438,1310.08,TAG-CA-412,Yes - Carry Forward to Next Fiscal Year,86321.17
+LOT-2025-441,1144.88,TAG-CA-413,No - Shipped/In-Transit,0.0
+LOT-2025-446,1208.13,TAG-CA-414,Yes - Carry Forward to Next Fiscal Year,85825.56
+LOT-2025-457,1134.55,TAG-CA-415,Yes - Carry Forward to Next Fiscal Year,91013.6
+LOT-2025-459,601.39,TAG-CA-416,Yes - Carry Forward to Next Fiscal Year,43354.21
+LOT-2025-463,1200.22,TAG-CA-417,No - Shipped/In-Transit,0.0
+LOT-2025-472,625.6,TAG-CA-418,Yes - Carry Forward to Next Fiscal Year,52706.8
+LOT-2025-473,1253.35,TAG-CA-419,Yes - Carry Forward to Next Fiscal Year,97034.36
+LOT-2025-475,862.78,TAG-CA-420,Yes - Carry Forward to Next Fiscal Year,72102.52
+LOT-2025-476,1059.28,TAG-CA-421,No - Shipped/In-Transit,0.0
+LOT-2025-478,897.52,TAG-CA-422,Yes - Carry Forward to Next Fiscal Year,68157.67
+LOT-2025-483,534.59,TAG-CA-423,Yes - Carry Forward to Next Fiscal Year,36678.22
+LOT-2025-486,711.65,TAG-CA-424,Yes - Carry Forward to Next Fiscal Year,52783.08
+LOT-2025-489,1335.36,TAG-CA-425,No - Shipped/In-Transit,0.0
+LOT-2025-495,1314.64,TAG-CA-426,No - Shipped/In-Transit,0.0
+LOT-2025-499,738.44,TAG-CA-427,Yes - Carry Forward to Next Fiscal Year,55109.78
+LOT-2025-504,1346.67,TAG-CA-428,Yes - Carry Forward to Next Fiscal Year,111706.28
+LOT-2025-508,1211.0,TAG-CA-429,No - Shipped/In-Transit,0.0
+LOT-2025-517,999.86,TAG-CA-430,Yes - Carry Forward to Next Fiscal Year,67730.52
+LOT-2025-518,486.11,TAG-CA-431,No - Shipped/In-Transit,0.0
+LOT-2026-013,1261.3,TAG-CA-432,No - Shipped/In-Transit,0.0
+LOT-2026-017,951.69,TAG-CA-433,Yes - Carry Forward to Next Fiscal Year,59804.2
+LOT-2026-018,1231.63,TAG-CA-434,Yes - Carry Forward to Next Fiscal Year,83972.53
+LOT-2026-025,1200.99,TAG-CA-435,Yes - Carry Forward to Next Fiscal Year,68672.61
+LOT-2026-035,1199.71,TAG-CA-436,Yes - Carry Forward to Next Fiscal Year,81256.36
+LOT-2026-036,1078.36,TAG-CA-437,Yes - Carry Forward to Next Fiscal Year,70050.27
+LOT-2026-037,712.27,TAG-CA-438,Yes - Carry Forward to Next Fiscal Year,44965.61
+LOT-2026-051,752.54,TAG-CA-439,Yes - Carry Forward to Next Fiscal Year,55733.11
+LOT-2026-064,727.62,TAG-CA-440,Yes - Carry Forward to Next Fiscal Year,47622.73
+LOT-2026-070,468.04,TAG-CA-441,Yes - Carry Forward to Next Fiscal Year,27792.22
+LOT-2026-071,974.31,TAG-CA-442,Yes - Carry Forward to Next Fiscal Year,62531.22
+LOT-2026-072,1078.95,TAG-CA-443,No - Shipped/In-Transit,0.0
+LOT-2026-075,1218.48,TAG-CA-444,Yes - Carry Forward to Next Fiscal Year,71305.45
+LOT-2026-082,576.15,TAG-CA-445,No - Shipped/In-Transit,0.0
+LOT-2026-084,939.76,TAG-CA-446,Yes - Carry Forward to Next Fiscal Year,51931.14
+LOT-2026-085,457.21,TAG-CA-447,Yes - Carry Forward to Next Fiscal Year,25274.57
+LOT-2026-088,535.58,TAG-CA-448,No - Shipped/In-Transit,0.0
+LOT-2026-123,498.79,TAG-CA-449,Yes - Carry Forward to Next Fiscal Year,34735.74
+LOT-2026-127,1102.93,TAG-CA-450,Yes - Carry Forward to Next Fiscal Year,68491.95
+LOT-2026-133,522.95,TAG-CA-451,Yes - Carry Forward to Next Fiscal Year,36067.86
+LOT-2026-138,1094.81,TAG-CA-452,Yes - Carry Forward to Next Fiscal Year,68863.55
+LOT-2026-150,674.66,TAG-CA-453,Yes - Carry Forward to Next Fiscal Year,49965.32
+LOT-2026-159,1239.94,TAG-CA-454,Yes - Carry Forward to Next Fiscal Year,92177.14
+LOT-2026-164,1181.83,TAG-CA-455,Yes - Carry Forward to Next Fiscal Year,74289.83
+LOT-2026-167,1312.05,TAG-CA-456,Yes - Carry Forward to Next Fiscal Year,94572.56
+LOT-2026-173,1245.39,TAG-CA-457,Yes - Carry Forward to Next Fiscal Year,87750.18
+LOT-2026-174,1290.0,TAG-CA-458,Yes - Carry Forward to Next Fiscal Year,78948.0
+LOT-2026-179,1222.87,TAG-CA-459,Yes - Carry Forward to Next Fiscal Year,72931.97
+LOT-2026-184,1074.04,TAG-CA-460,Yes - Carry Forward to Next Fiscal Year,68910.41
+LOT-2026-190,603.23,TAG-CA-461,No - Shipped/In-Transit,0.0
+LOT-2026-193,694.54,TAG-CA-462,Yes - Carry Forward to Next Fiscal Year,51534.87
+LOT-2026-200,641.45,TAG-CA-463,Yes - Carry Forward to Next Fiscal Year,45074.69
+LOT-2026-204,993.23,TAG-CA-464,Yes - Carry Forward to Next Fiscal Year,71611.88
+LOT-2026-209,903.26,TAG-CA-465,No - Shipped/In-Transit,0.0
+LOT-2026-221,1230.37,TAG-CA-466,Yes - Carry Forward to Next Fiscal Year,88229.83
+LOT-2026-226,1307.41,TAG-CA-467,No - Shipped/In-Transit,0.0
+LOT-2026-231,814.37,TAG-CA-468,Yes - Carry Forward to Next Fiscal Year,50930.7
+LOT-2026-236,905.72,TAG-CA-469,Yes - Carry Forward to Next Fiscal Year,59813.75
+LOT-2026-240,1324.36,TAG-CA-470,No - Shipped/In-Transit,0.0
+LOT-2026-241,698.62,TAG-CA-471,Yes - Carry Forward to Next Fiscal Year,39066.83
+LOT-2026-247,1163.15,TAG-CA-472,Yes - Carry Forward to Next Fiscal Year,82769.75
+LOT-2026-269,652.72,TAG-CA-473,No - Shipped/In-Transit,0.0
+LOT-2026-280,1063.31,TAG-CA-474,No - Shipped/In-Transit,0.0
+LOT-2026-291,678.25,TAG-CA-475,Yes - Carry Forward to Next Fiscal Year,48271.05
+LOT-2026-297,1245.36,TAG-CA-476,Yes - Carry Forward to Next Fiscal Year,74821.23
+LOT-2026-299,955.33,TAG-CA-477,No - Shipped/In-Transit,0.0
+LOT-2026-301,617.34,TAG-CA-478,Yes - Carry Forward to Next Fiscal Year,38929.46
+LOT-2026-307,651.93,TAG-CA-479,No - Shipped/In-Transit,0.0
+LOT-2026-310,894.46,TAG-CA-480,Yes - Carry Forward to Next Fiscal Year,49204.24
+LOT-2026-318,1315.44,TAG-CA-481,Yes - Carry Forward to Next Fiscal Year,96066.58
+LOT-2026-327,1142.68,TAG-CA-482,No - Shipped/In-Transit,0.0
+LOT-2026-328,889.48,TAG-CA-483,Yes - Carry Forward to Next Fiscal Year,66533.1
+LOT-2026-329,753.95,TAG-CA-484,Yes - Carry Forward to Next Fiscal Year,55867.7
+LOT-2026-330,944.34,TAG-CA-485,Yes - Carry Forward to Next Fiscal Year,61278.22
+LOT-2026-331,1123.52,TAG-CA-486,Yes - Carry Forward to Next Fiscal Year,73309.68
+LOT-2026-332,1155.54,TAG-CA-487,Yes - Carry Forward to Next Fiscal Year,74682.55
+LOT-2026-335,742.15,TAG-CA-488,No - Shipped/In-Transit,0.0
+LOT-2026-340,1099.04,TAG-CA-489,Yes - Carry Forward to Next Fiscal Year,62436.46
+LOT-2026-354,1042.01,TAG-CA-490,Yes - Carry Forward to Next Fiscal Year,57987.86
+LOT-2026-356,1313.2,TAG-CA-491,No - Shipped/In-Transit,0.0
+LOT-2026-358,1287.98,TAG-CA-492,Yes - Carry Forward to Next Fiscal Year,82289.04
+LOT-2026-365,1160.44,TAG-CA-493,Yes - Carry Forward to Next Fiscal Year,70218.22
+LOT-2026-378,1101.06,TAG-CA-494,Yes - Carry Forward to Next Fiscal Year,74255.49
+LOT-2026-381,696.64,TAG-CA-495,No - Shipped/In-Transit,0.0
+LOT-2026-383,1211.37,TAG-CA-496,Yes - Carry Forward to Next Fiscal Year,75989.24
+LOT-2026-393,834.76,TAG-CA-497,Yes - Carry Forward to Next Fiscal Year,55494.84
+LOT-2026-408,695.02,TAG-CA-498,Yes - Carry Forward to Next Fiscal Year,44001.72
+LOT-2026-409,795.74,TAG-CA-499,Yes - Carry Forward to Next Fiscal Year,57253.49
+LOT-2026-415,1202.34,TAG-CA-500,Yes - Carry Forward to Next Fiscal Year,87818.91
+LOT-2026-419,583.77,TAG-CA-501,Yes - Carry Forward to Next Fiscal Year,42352.51
+LOT-2026-421,860.54,TAG-CA-502,Yes - Carry Forward to Next Fiscal Year,64101.62
+LOT-2026-424,893.12,TAG-CA-503,No - Shipped/In-Transit,0.0
+LOT-2026-428,482.97,TAG-CA-504,Yes - Carry Forward to Next Fiscal Year,34677.25
+LOT-2026-429,626.17,TAG-CA-505,Yes - Carry Forward to Next Fiscal Year,43856.95
+LOT-2026-440,1194.07,TAG-CA-506,Yes - Carry Forward to Next Fiscal Year,71130.75
+LOT-2026-443,1197.69,TAG-CA-507,Yes - Carry Forward to Next Fiscal Year,88784.76
+LOT-2026-450,713.17,TAG-CA-508,Yes - Carry Forward to Next Fiscal Year,41335.33
+LOT-2026-460,1237.41,TAG-CA-509,Yes - Carry Forward to Next Fiscal Year,84873.95
+LOT-2026-469,1144.6,TAG-CA-510,Yes - Carry Forward to Next Fiscal Year,68103.7
+LOT-2026-470,826.12,TAG-CA-511,No - Shipped/In-Transit,0.0
+LOT-2026-477,1123.57,TAG-CA-512,Yes - Carry Forward to Next Fiscal Year,77953.29
+LOT-2026-484,1315.2,TAG-CA-513,Yes - Carry Forward to Next Fiscal Year,87158.3
+LOT-2026-487,863.07,TAG-CA-514,Yes - Carry Forward to Next Fiscal Year,54848.1
+LOT-2026-491,664.58,TAG-CA-515,Yes - Carry Forward to Next Fiscal Year,40891.61
+LOT-2026-492,1297.63,TAG-CA-516,Yes - Carry Forward to Next Fiscal Year,93156.86
+LOT-2026-493,993.37,TAG-CA-517,Yes - Carry Forward to Next Fiscal Year,57496.26
+LOT-2026-502,544.74,TAG-CA-518,Yes - Carry Forward to Next Fiscal Year,34645.46
+LOT-2026-503,965.41,TAG-CA-519,No - Shipped/In-Transit,0.0
+LOT-2026-507,900.52,TAG-CA-520,Yes - Carry Forward to Next Fiscal Year,64765.4
