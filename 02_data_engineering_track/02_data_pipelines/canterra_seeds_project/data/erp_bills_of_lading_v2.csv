@@ -1,0 +1,313 @@
+bol_number,scale_ticket_id,retailer_id,carrier_name,freight_terms,backorder_flag
+BOL-40001,ST-20001,RET-077,CP Rail Transload,FOB Destination,0
+BOL-40002,ST-20002,RET-046,Bison Transport,FOB Origin,0
+BOL-40003,ST-20003,RET-046,Trimac,FOB Origin,0
+BOL-40004,ST-20004,RET-005,Trimac,FOB Destination,0
+BOL-40005,ST-20005,RET-006,CP Rail Transload,FOB Destination,0
+BOL-40006,ST-20006,RET-086,Bison Transport,FOB Origin,0
+BOL-40007,ST-20007,RET-068,Trimac,FOB Origin,0
+BOL-40008,ST-20008,RET-031,Bison Transport,FOB Origin,0
+BOL-40009,ST-20009,RET-062,Bison Transport,FOB Destination,1
+BOL-40010,ST-20010,RET-025,Bison Transport,FOB Destination,0
+BOL-40011,ST-20011,RET-077,CP Rail Transload,FOB Destination,0
+BOL-40012,ST-20012,RET-009,CP Rail Transload,FOB Destination,1
+BOL-40013,ST-20013,RET-015,CP Rail Transload,FOB Origin,0
+BOL-40014,ST-20014,RET-067,Bison Transport,FOB Origin,0
+BOL-40015,ST-20015,RET-071,CP Rail Transload,FOB Destination,0
+BOL-40016,ST-20016,RET-030,Trimac,FOB Destination,0
+BOL-40017,ST-20017,RET-086,CP Rail Transload,FOB Destination,0
+BOL-40018,ST-20018,RET-080,CP Rail Transload,FOB Origin,0
+BOL-40019,ST-20019,RET-052,CP Rail Transload,FOB Origin,0
+BOL-40020,ST-20020,RET-058,CP Rail Transload,FOB Origin,0
+BOL-40021,ST-20021,RET-084,CP Rail Transload,FOB Origin,0
+BOL-40022,ST-20022,RET-029,Trimac,FOB Origin,0
+BOL-40023,ST-20023,RET-061,Trimac,FOB Origin,0
+BOL-40024,ST-20024,RET-033,Bison Transport,FOB Destination,0
+BOL-40025,ST-20025,RET-056,Trimac,FOB Destination,0
+BOL-40026,ST-20026,RET-028,Trimac,FOB Destination,0
+BOL-40027,ST-20027,RET-082,CP Rail Transload,FOB Destination,0
+BOL-40028,ST-20028,RET-009,CP Rail Transload,FOB Origin,0
+BOL-40029,ST-20029,RET-077,CP Rail Transload,FOB Origin,0
+BOL-40030,ST-20030,RET-026,Bison Transport,FOB Destination,0
+BOL-40031,ST-20031,RET-034,Bison Transport,FOB Destination,0
+BOL-40032,ST-20032,RET-042,CP Rail Transload,FOB Destination,0
+BOL-40033,ST-20033,RET-025,CP Rail Transload,FOB Origin,0
+BOL-40034,ST-20034,RET-068,Trimac,FOB Origin,0
+BOL-40035,ST-20035,RET-055,Bison Transport,FOB Origin,0
+BOL-40036,ST-20036,RET-084,Trimac,FOB Origin,0
+BOL-40037,ST-20037,RET-069,CP Rail Transload,FOB Destination,0
+BOL-40038,ST-20038,RET-042,CP Rail Transload,FOB Destination,0
+BOL-40039,ST-20039,RET-063,CP Rail Transload,FOB Origin,0
+BOL-40040,ST-20040,RET-046,Trimac,FOB Origin,0
+BOL-40041,ST-20041,RET-042,CP Rail Transload,FOB Destination,0
+BOL-40042,ST-20042,RET-064,CP Rail Transload,FOB Destination,0
+BOL-40043,ST-20043,RET-071,Bison Transport,FOB Origin,0
+BOL-40044,ST-20044,RET-028,Trimac,FOB Origin,0
+BOL-40045,ST-20045,RET-075,CP Rail Transload,FOB Origin,0
+BOL-40046,ST-20046,RET-041,Bison Transport,FOB Destination,0
+BOL-40047,ST-20047,RET-063,Bison Transport,FOB Origin,1
+BOL-40048,ST-20048,RET-076,CP Rail Transload,FOB Destination,0
+BOL-40049,ST-20049,RET-062,Trimac,FOB Destination,1
+BOL-40050,ST-20050,RET-026,Trimac,FOB Origin,0
+BOL-40051,ST-20051,RET-055,Trimac,FOB Destination,0
+BOL-40052,ST-20052,RET-044,Trimac,FOB Origin,0
+BOL-40053,ST-20053,RET-026,Bison Transport,FOB Destination,0
+BOL-40054,ST-20054,RET-041,Trimac,FOB Origin,0
+BOL-40055,ST-20055,RET-025,Trimac,FOB Destination,0
+BOL-40056,ST-20056,RET-082,CP Rail Transload,FOB Origin,0
+BOL-40057,ST-20057,RET-014,CP Rail Transload,FOB Destination,0
+BOL-40058,ST-20058,RET-055,CP Rail Transload,FOB Origin,0
+BOL-40059,ST-20059,RET-057,Bison Transport,FOB Destination,0
+BOL-40060,ST-20060,RET-055,CP Rail Transload,FOB Origin,0
+BOL-40061,ST-20061,RET-035,Bison Transport,FOB Destination,0
+BOL-40062,ST-20062,RET-074,CP Rail Transload,FOB Destination,0
+BOL-40063,ST-20063,RET-013,Trimac,FOB Origin,1
+BOL-40064,ST-20064,RET-014,Trimac,FOB Destination,0
+BOL-40065,ST-20065,RET-079,CP Rail Transload,FOB Destination,0
+BOL-40066,ST-20066,RET-077,Bison Transport,FOB Origin,0
+BOL-40067,ST-20067,RET-044,Bison Transport,FOB Origin,0
+BOL-40068,ST-20068,RET-074,CP Rail Transload,FOB Origin,0
+BOL-40069,ST-20069,RET-015,Trimac,FOB Destination,0
+BOL-40070,ST-20070,RET-049,Trimac,FOB Origin,0
+BOL-40071,ST-20071,RET-010,CP Rail Transload,FOB Destination,0
+BOL-40072,ST-20072,RET-075,Bison Transport,FOB Destination,0
+BOL-40073,ST-20073,RET-056,Bison Transport,FOB Origin,0
+BOL-40074,ST-20074,RET-085,Bison Transport,FOB Origin,0
+BOL-40075,ST-20075,RET-012,Bison Transport,FOB Destination,1
+BOL-40076,ST-20076,RET-040,Trimac,FOB Origin,0
+BOL-40077,ST-20077,RET-036,CP Rail Transload,FOB Destination,0
+BOL-40078,ST-20078,RET-073,CP Rail Transload,FOB Destination,0
+BOL-40079,ST-20079,RET-004,Trimac,FOB Origin,0
+BOL-40080,ST-20080,RET-061,Trimac,FOB Origin,0
+BOL-40081,ST-20081,RET-056,Trimac,FOB Destination,0
+BOL-40082,ST-20082,RET-073,Bison Transport,FOB Destination,0
+BOL-40083,ST-20083,RET-007,Bison Transport,FOB Destination,0
+BOL-40084,ST-20084,RET-006,CP Rail Transload,FOB Origin,0
+BOL-40085,ST-20085,RET-023,CP Rail Transload,FOB Origin,0
+BOL-40086,ST-20086,RET-039,Trimac,FOB Destination,0
+BOL-40087,ST-20087,RET-086,Bison Transport,FOB Origin,0
+BOL-40088,ST-20088,RET-084,Trimac,FOB Destination,1
+BOL-40089,ST-20089,RET-056,Trimac,FOB Destination,0
+BOL-40090,ST-20090,RET-023,Bison Transport,FOB Origin,0
+BOL-40091,ST-20091,RET-081,Bison Transport,FOB Origin,0
+BOL-40092,ST-20092,RET-074,Trimac,FOB Origin,0
+BOL-40093,ST-20093,RET-036,Bison Transport,FOB Origin,0
+BOL-40094,ST-20094,RET-039,CP Rail Transload,FOB Origin,0
+BOL-40095,ST-20095,RET-004,CP Rail Transload,FOB Origin,0
+BOL-40096,ST-20096,RET-040,Bison Transport,FOB Origin,0
+BOL-40097,ST-20097,RET-079,CP Rail Transload,FOB Origin,0
+BOL-40098,ST-20098,RET-045,Bison Transport,FOB Origin,1
+BOL-40099,ST-20099,RET-059,Trimac,FOB Destination,1
+BOL-40100,ST-20100,RET-008,CP Rail Transload,FOB Origin,0
+BOL-40101,ST-20101,RET-037,Trimac,FOB Destination,0
+BOL-40102,ST-20102,RET-050,Bison Transport,FOB Destination,0
+BOL-40103,ST-20103,RET-018,Bison Transport,FOB Origin,0
+BOL-40104,ST-20104,RET-003,Trimac,FOB Destination,0
+BOL-40105,ST-20105,RET-052,Trimac,FOB Destination,0
+BOL-40106,ST-20106,RET-050,CP Rail Transload,FOB Origin,0
+BOL-40107,ST-20107,RET-018,Trimac,FOB Destination,0
+BOL-40108,ST-20108,RET-067,Trimac,FOB Origin,0
+BOL-40109,ST-20109,RET-037,Trimac,FOB Destination,0
+BOL-40110,ST-20110,RET-045,Bison Transport,FOB Origin,0
+BOL-40111,ST-20111,RET-077,Trimac,FOB Destination,0
+BOL-40112,ST-20112,RET-081,Trimac,FOB Origin,0
+BOL-40113,ST-20113,RET-076,Trimac,FOB Origin,0
+BOL-40114,ST-20114,RET-034,CP Rail Transload,FOB Origin,0
+BOL-40115,ST-20115,RET-019,Trimac,FOB Origin,0
+BOL-40116,ST-20116,RET-080,Bison Transport,FOB Origin,0
+BOL-40117,ST-20117,RET-048,Bison Transport,FOB Origin,1
+BOL-40118,ST-20118,RET-042,Trimac,FOB Origin,0
+BOL-40119,ST-20119,RET-001,CP Rail Transload,FOB Origin,0
+BOL-40120,ST-20120,RET-018,Trimac,FOB Destination,0
+BOL-40121,ST-20121,RET-040,Trimac,FOB Destination,0
+BOL-40122,ST-20122,RET-036,CP Rail Transload,FOB Origin,0
+BOL-40123,ST-20123,RET-025,CP Rail Transload,FOB Destination,0
+BOL-40124,ST-20124,RET-072,Bison Transport,FOB Destination,0
+BOL-40125,ST-20125,RET-068,CP Rail Transload,FOB Origin,0
+BOL-40126,ST-20126,RET-006,Trimac,FOB Origin,0
+BOL-40127,ST-20127,RET-086,Trimac,FOB Origin,0
+BOL-40128,ST-20128,RET-070,Bison Transport,FOB Origin,0
+BOL-40129,ST-20129,RET-073,CP Rail Transload,FOB Destination,0
+BOL-40130,ST-20130,RET-075,CP Rail Transload,FOB Origin,0
+BOL-40131,ST-20131,RET-028,CP Rail Transload,FOB Origin,0
+BOL-40132,ST-20132,RET-039,Bison Transport,FOB Origin,0
+BOL-40133,ST-20133,RET-007,Bison Transport,FOB Origin,0
+BOL-40134,ST-20134,RET-070,CP Rail Transload,FOB Origin,0
+BOL-40135,ST-20135,RET-032,Bison Transport,FOB Destination,0
+BOL-40136,ST-20136,RET-080,Bison Transport,FOB Origin,0
+BOL-40137,ST-20137,RET-084,Trimac,FOB Origin,0
+BOL-40138,ST-20138,RET-073,Trimac,FOB Origin,1
+BOL-40139,ST-20139,RET-023,Bison Transport,FOB Destination,1
+BOL-40140,ST-20140,RET-077,CP Rail Transload,FOB Destination,0
+BOL-40141,ST-20141,RET-086,CP Rail Transload,FOB Destination,0
+BOL-40142,ST-20142,RET-012,Trimac,FOB Destination,0
+BOL-40143,ST-20143,RET-004,Trimac,FOB Origin,0
+BOL-40144,ST-20144,RET-085,CP Rail Transload,FOB Origin,0
+BOL-40145,ST-20145,RET-028,CP Rail Transload,FOB Origin,0
+BOL-40146,ST-20146,RET-011,Trimac,FOB Origin,0
+BOL-40147,ST-20147,RET-051,CP Rail Transload,FOB Origin,0
+BOL-40148,ST-20148,RET-041,Bison Transport,FOB Origin,0
+BOL-40149,ST-20149,RET-039,Trimac,FOB Origin,0
+BOL-40150,ST-20150,RET-013,Trimac,FOB Origin,0
+BOL-40151,ST-20151,RET-002,Bison Transport,FOB Origin,0
+BOL-40152,ST-20152,RET-013,Trimac,FOB Origin,1
+BOL-40153,ST-20153,RET-082,Trimac,FOB Destination,0
+BOL-40154,ST-20154,RET-038,Trimac,FOB Origin,0
+BOL-40155,ST-20155,RET-067,Bison Transport,FOB Origin,1
+BOL-40156,ST-20156,RET-005,CP Rail Transload,FOB Origin,0
+BOL-40157,ST-20157,RET-041,Bison Transport,FOB Origin,0
+BOL-40158,ST-20158,RET-055,Trimac,FOB Origin,0
+BOL-40159,ST-20159,RET-080,Bison Transport,FOB Origin,0
+BOL-40160,ST-20160,RET-051,Bison Transport,FOB Destination,0
+BOL-40161,ST-20161,RET-030,Bison Transport,FOB Origin,1
+BOL-40162,ST-20162,RET-020,CP Rail Transload,FOB Destination,0
+BOL-40163,ST-20163,RET-026,Trimac,FOB Destination,0
+BOL-40164,ST-20164,RET-073,Trimac,FOB Origin,0
+BOL-40165,ST-20165,RET-038,CP Rail Transload,FOB Origin,0
+BOL-40166,ST-20166,RET-073,Bison Transport,FOB Origin,0
+BOL-40167,ST-20167,RET-071,Bison Transport,FOB Destination,0
+BOL-40168,ST-20168,RET-053,CP Rail Transload,FOB Origin,0
+BOL-40169,ST-20169,RET-082,CP Rail Transload,FOB Destination,0
+BOL-40170,ST-20170,RET-006,Bison Transport,FOB Origin,0
+BOL-40171,ST-20171,RET-013,Bison Transport,FOB Origin,0
+BOL-40172,ST-20172,RET-002,CP Rail Transload,FOB Destination,0
+BOL-40173,ST-20173,RET-085,Trimac,FOB Destination,0
+BOL-40174,ST-20174,RET-080,Trimac,FOB Origin,0
+BOL-40175,ST-20175,RET-086,Bison Transport,FOB Origin,0
+BOL-40176,ST-20176,RET-025,Bison Transport,FOB Origin,1
+BOL-40177,ST-20177,RET-043,Bison Transport,FOB Origin,0
+BOL-40178,ST-20178,RET-038,Bison Transport,FOB Origin,0
+BOL-40179,ST-20179,RET-049,Bison Transport,FOB Origin,0
+BOL-40180,ST-20180,RET-024,Bison Transport,FOB Destination,0
+BOL-40181,ST-20181,RET-083,Trimac,FOB Origin,1
+BOL-40182,ST-20182,RET-049,Bison Transport,FOB Origin,0
+BOL-40183,ST-20183,RET-029,Trimac,FOB Destination,0
+BOL-40184,ST-20184,RET-012,Bison Transport,FOB Destination,0
+BOL-40185,ST-20185,RET-009,CP Rail Transload,FOB Origin,0
+BOL-40186,ST-20186,RET-006,CP Rail Transload,FOB Origin,0
+BOL-40187,ST-20187,RET-030,CP Rail Transload,FOB Origin,0
+BOL-40188,ST-20188,RET-016,CP Rail Transload,FOB Destination,0
+BOL-40189,ST-20189,RET-027,Bison Transport,FOB Origin,0
+BOL-40190,ST-20190,RET-041,Bison Transport,FOB Origin,0
+BOL-40191,ST-20191,RET-056,Bison Transport,FOB Origin,0
+BOL-40192,ST-20192,RET-030,Trimac,FOB Destination,0
+BOL-40193,ST-20193,RET-066,Bison Transport,FOB Origin,0
+BOL-40194,ST-20194,RET-059,Trimac,FOB Destination,0
+BOL-40195,ST-20195,RET-010,Bison Transport,FOB Origin,0
+BOL-40196,ST-20196,RET-039,Bison Transport,FOB Destination,0
+BOL-40197,ST-20197,RET-079,Bison Transport,FOB Origin,0
+BOL-40198,ST-20198,RET-053,CP Rail Transload,FOB Origin,1
+BOL-40199,ST-20199,RET-081,Bison Transport,FOB Origin,0
+BOL-40200,ST-20200,RET-079,Trimac,FOB Origin,0
+BOL-40201,ST-20201,RET-010,Trimac,FOB Destination,0
+BOL-40202,ST-20202,RET-020,Trimac,FOB Origin,0
+BOL-40203,ST-20203,RET-020,CP Rail Transload,FOB Origin,0
+BOL-40204,ST-20204,RET-058,Bison Transport,FOB Destination,0
+BOL-40205,ST-20205,RET-064,CP Rail Transload,FOB Origin,0
+BOL-40206,ST-20206,RET-071,CP Rail Transload,FOB Origin,0
+BOL-40207,ST-20207,RET-012,Trimac,FOB Origin,0
+BOL-40208,ST-20208,RET-024,Trimac,FOB Destination,0
+BOL-40209,ST-20209,RET-078,Bison Transport,FOB Origin,0
+BOL-40210,ST-20210,RET-078,CP Rail Transload,FOB Destination,0
+BOL-40211,ST-20211,RET-062,Trimac,FOB Origin,0
+BOL-40212,ST-20212,RET-061,CP Rail Transload,FOB Origin,0
+BOL-40213,ST-20213,RET-015,Trimac,FOB Origin,0
+BOL-40214,ST-20214,RET-069,Trimac,FOB Destination,0
+BOL-40215,ST-20215,RET-012,CP Rail Transload,FOB Origin,0
+BOL-40216,ST-20216,RET-024,Bison Transport,FOB Origin,0
+BOL-40217,ST-20217,RET-016,CP Rail Transload,FOB Destination,0
+BOL-40218,ST-20218,RET-070,CP Rail Transload,FOB Origin,0
+BOL-40219,ST-20219,RET-016,Trimac,FOB Origin,0
+BOL-40220,ST-20220,RET-067,Bison Transport,FOB Origin,0
+BOL-40221,ST-20221,RET-025,CP Rail Transload,FOB Destination,0
+BOL-40222,ST-20222,RET-073,CP Rail Transload,FOB Destination,0
+BOL-40223,ST-20223,RET-005,Bison Transport,FOB Origin,0
+BOL-40224,ST-20224,RET-045,Trimac,FOB Origin,0
+BOL-40225,ST-20225,RET-049,CP Rail Transload,FOB Destination,0
+BOL-40226,ST-20226,RET-007,CP Rail Transload,FOB Origin,0
+BOL-40227,ST-20227,RET-065,Bison Transport,FOB Destination,0
+BOL-40228,ST-20228,RET-067,Trimac,FOB Origin,0
+BOL-40229,ST-20229,RET-057,CP Rail Transload,FOB Destination,0
+BOL-40230,ST-20230,RET-025,Bison Transport,FOB Destination,0
+BOL-40231,ST-20231,RET-009,CP Rail Transload,FOB Origin,0
+BOL-40232,ST-20232,RET-079,Trimac,FOB Origin,0
+BOL-40233,ST-20233,RET-081,CP Rail Transload,FOB Origin,0
+BOL-40234,ST-20234,RET-025,Trimac,FOB Destination,0
+BOL-40235,ST-20235,RET-045,Bison Transport,FOB Origin,0
+BOL-40236,ST-20236,RET-062,Bison Transport,FOB Destination,0
+BOL-40237,ST-20237,RET-052,CP Rail Transload,FOB Destination,0
+BOL-40238,ST-20238,RET-044,Trimac,FOB Destination,0
+BOL-40239,ST-20239,RET-018,CP Rail Transload,FOB Destination,0
+BOL-40240,ST-20240,RET-015,Bison Transport,FOB Origin,0
+BOL-40241,ST-20241,RET-082,CP Rail Transload,FOB Destination,0
+BOL-40242,ST-20242,RET-064,Bison Transport,FOB Destination,0
+BOL-40243,ST-20243,RET-082,Trimac,FOB Origin,0
+BOL-40244,ST-20244,RET-002,CP Rail Transload,FOB Destination,0
+BOL-40245,ST-20245,RET-046,Trimac,FOB Destination,1
+BOL-40246,ST-20246,RET-062,Trimac,FOB Origin,0
+BOL-40247,ST-20247,RET-076,Bison Transport,FOB Origin,0
+BOL-40248,ST-20248,RET-026,Bison Transport,FOB Origin,0
+BOL-40249,ST-20249,RET-017,Bison Transport,FOB Origin,0
+BOL-40250,ST-20250,RET-021,Bison Transport,FOB Destination,0
+BOL-40251,ST-20251,RET-004,CP Rail Transload,FOB Destination,1
+BOL-40252,ST-20252,RET-086,Trimac,FOB Origin,0
+BOL-40253,ST-20253,RET-074,Trimac,FOB Destination,0
+BOL-40254,ST-20254,RET-005,Bison Transport,FOB Destination,0
+BOL-40255,ST-20255,RET-006,Trimac,FOB Origin,0
+BOL-40256,ST-20256,RET-070,CP Rail Transload,FOB Destination,0
+BOL-40257,ST-20257,RET-078,CP Rail Transload,FOB Destination,0
+BOL-40258,ST-20258,RET-009,CP Rail Transload,FOB Origin,0
+BOL-40259,ST-20259,RET-048,Bison Transport,FOB Origin,0
+BOL-40260,ST-20260,RET-006,Trimac,FOB Origin,0
+BOL-40261,ST-20261,RET-085,CP Rail Transload,FOB Origin,0
+BOL-40262,ST-20262,RET-084,Bison Transport,FOB Origin,0
+BOL-40263,ST-20263,RET-080,CP Rail Transload,FOB Origin,0
+BOL-40264,ST-20264,RET-075,Trimac,FOB Origin,0
+BOL-40265,ST-20265,RET-044,Trimac,FOB Destination,0
+BOL-40266,ST-20266,RET-032,Trimac,FOB Destination,0
+BOL-40267,ST-20267,RET-077,CP Rail Transload,FOB Origin,0
+BOL-40268,ST-20268,RET-030,Trimac,FOB Origin,0
+BOL-40269,ST-20269,RET-032,Bison Transport,FOB Destination,0
+BOL-40270,ST-20270,RET-028,Bison Transport,FOB Destination,0
+BOL-40271,ST-20271,RET-078,Bison Transport,FOB Origin,0
+BOL-40272,ST-20272,RET-004,CP Rail Transload,FOB Origin,0
+BOL-40273,ST-20273,RET-013,Bison Transport,FOB Destination,0
+BOL-40274,ST-20274,RET-066,CP Rail Transload,FOB Origin,0
+BOL-40275,ST-20275,RET-010,Trimac,FOB Origin,1
+BOL-40276,ST-20276,RET-074,Bison Transport,FOB Origin,0
+BOL-40277,ST-20277,RET-003,Bison Transport,FOB Origin,0
+BOL-40278,ST-20278,RET-018,Bison Transport,FOB Destination,1
+BOL-40279,ST-20279,RET-026,CP Rail Transload,FOB Origin,0
+BOL-40280,ST-20280,RET-020,Bison Transport,FOB Destination,0
+BOL-40281,ST-20281,RET-078,CP Rail Transload,FOB Destination,1
+BOL-40282,ST-20282,RET-053,Trimac,FOB Origin,0
+BOL-40283,ST-20283,RET-044,Bison Transport,FOB Destination,0
+BOL-40284,ST-20284,RET-051,Trimac,FOB Destination,0
+BOL-40285,ST-20285,RET-051,Bison Transport,FOB Origin,0
+BOL-40286,ST-20286,RET-011,Bison Transport,FOB Origin,0
+BOL-40287,ST-20287,RET-012,Trimac,FOB Origin,0
+BOL-40288,ST-20288,RET-034,CP Rail Transload,FOB Origin,0
+BOL-40289,ST-20289,RET-055,CP Rail Transload,FOB Origin,0
+BOL-40290,ST-20290,RET-074,CP Rail Transload,FOB Origin,0
+BOL-40291,ST-20291,RET-055,Trimac,FOB Origin,0
+BOL-40292,ST-20292,RET-042,Trimac,FOB Origin,0
+BOL-40293,ST-20293,RET-028,CP Rail Transload,FOB Origin,0
+BOL-40294,ST-20294,RET-051,Bison Transport,FOB Origin,0
+BOL-40295,ST-20295,RET-022,Bison Transport,FOB Origin,0
+BOL-40296,ST-20296,RET-049,Bison Transport,FOB Origin,1
+BOL-40297,ST-20297,RET-086,Trimac,FOB Destination,0
+BOL-40298,ST-20298,RET-072,Bison Transport,FOB Destination,0
+BOL-40299,ST-20299,RET-041,Bison Transport,FOB Origin,1
+BOL-40300,ST-20300,RET-068,CP Rail Transload,FOB Origin,0
+BOL-40301,ST-20301,RET-076,Trimac,FOB Origin,0
+BOL-40302,ST-20302,RET-010,CP Rail Transload,FOB Origin,0
+BOL-40303,ST-20303,RET-084,CP Rail Transload,FOB Origin,0
+BOL-40304,ST-20304,RET-052,Bison Transport,FOB Origin,0
+BOL-40305,ST-20305,RET-047,Bison Transport,FOB Origin,0
+BOL-40306,ST-20306,RET-072,CP Rail Transload,FOB Origin,0
+BOL-40307,ST-20307,RET-062,Bison Transport,FOB Destination,0
+BOL-40308,ST-20308,RET-041,CP Rail Transload,FOB Origin,0
+BOL-40309,ST-20309,RET-026,CP Rail Transload,FOB Destination,0
+BOL-40310,ST-20310,RET-062,Bison Transport,FOB Destination,0
+BOL-40311,ST-20311,RET-037,Trimac,FOB Origin,0
+BOL-40312,ST-20312,RET-066,CP Rail Transload,FOB Origin,0
