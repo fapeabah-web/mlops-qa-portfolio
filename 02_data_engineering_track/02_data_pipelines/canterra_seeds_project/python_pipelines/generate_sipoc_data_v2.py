@@ -6,7 +6,7 @@ from datetime import datetime
 np.random.seed(42)
 
 # Directory configurations targeting your active VS Code architecture
-base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) if '__file__' in locals() else os.getcwd()
 data_dir = os.path.join(base_dir, "data")
 os.makedirs(data_dir, exist_ok=True)
 
@@ -59,17 +59,21 @@ df_retail_registry['retailer_id'] = [f'RET-{i:03d}' for i in range(1, len(df_ret
 
 # 2. DEFINITIVE SEED VARIETY REGISTRY
 crop_registry = {
+    'Canola': [
+        'CS4400-LL', 'CS4300-LL', 'CS4200-LL', 'CS4100-LL', 'CS4000-LL', 'YR1261-LL', 'CS3400-TF', 
+        'CS3300-TF', 'CS3200-TF', 'CS3000-TF', 'CS2600-CRT-TF'
+    ],
     'Wheat': [
         'CS Baker', 'CS Breadwinner', 'CDC Evident', 'AAC Weyburn VB', 'CS Recoil', 'CS Garde', 
         'CS Palisade', 'CS Accelerate', 'CS Tracker', 'CS Jake', 'AAC Donlow', 'AAC Cameron VB', 
         'AAC Connery', 'AAC Congress', 'CDC Credence', 'CDC Envy', 'AAC Elie', 'AAC Leroy VB', 
         'AAC Redberry', 'AAC Vortex', 'CDC Precision', 'AAC Ahead VB', 'Fierce VB'
     ],
-    'Oats': ['CS Camden', 'CDC Endure', 'Kalio', 'Kyron', 'CDC Morrison', 'Triactor', 'ORe Ruminator', 'AAC Fetch'],
     'Barley': [
         'AAC Connect', 'AB Wrangler', 'Canmore', 'CDC Goldstar', 'CDC Coalition', 'Celebration', 
         'AAC Prairie', 'AAC Lariat', 'AB Maximizer', 'AB Foothills', 'AB Cattleac', 'AS Lafleur'
     ],
+    'Oats': ['CS Camden', 'CDC Endure', 'Kalio', 'Kyron', 'CDC Morrison', 'Triactor', 'ORe Ruminator', 'AAC Fetch'],
     'Pulses': [
         'AAC Carver', 'AAC Beyond', 'CS ProStar', 'CDC 5791', 'CDC 6928 CL', 'CDC 6956 CL', 
         'ND Palomino', 'Windbreaker', 'AAC Aberdeen', 'CDC 5845', 'CDC 7358 CL', 'Rougeaux CL', 
@@ -77,6 +81,10 @@ crop_registry = {
     ],
     'Specialty': ['CDC Lumio', 'CDC Cibo', 'CDC Calvi', 'CDC Neela', 'AC™ Prairie Thunder', 'AC™ Lightning', 'AB Snowcat', 'TriCal Surge']
 }
+
+# 6 distinct crop types mapped to a 6-value normalized probability array
+crop_names = ['Canola', 'Wheat', 'Barley', 'Oats', 'Pulses', 'Specialty']
+crop_probabilities = [0.40, 0.15, 0.15, 0.15, 0.10, 0.05]
 
 # 3. GENERATE INTEGRATED TRANSACTIONAL TIMELINE LOGS
 financial_profiles = {
@@ -113,12 +121,17 @@ for year, metrics in financial_profiles.items():
         # Mock transactional execution loops (Ensuring >100 entity records)
         loop_cycles = 8 if year <= 2023 else 18
         for _ in range(loop_cycles):
-            crop = np.random.choice(list(crop_registry.keys()))
+            crop = np.random.choice(crop_names, p=crop_probabilities)
             variety = np.random.choice(crop_registry[crop])
             retailer = df_retail_registry.sample(1).iloc[0]
             st_id = f'ST-{st_counter}'
+
+        # Adjust scale weight explicitly for Canola to simulate high-volume shipping lots
+            if crop == 'Canola':
+                net_w = np.random.uniform(28000, 39000)  # Super-B Train configurations run heavier bulk weights
+            else:
+                net_w = np.random.uniform(18000, 32000)
             
-            net_w = np.random.uniform(18000, 38000)
             clerical_fault = np.random.choice([True, False], p=[0.05, 0.95])
             manual_w = net_w * (np.random.uniform(0.93, 1.07) if clerical_fault else 1.0)
             
@@ -130,13 +143,35 @@ for year, metrics in financial_profiles.items():
             # Quality Trial Parameter Structuring
             germ = np.random.beta(17, 2) * 100
             moist = np.random.uniform(11.2, 17.8)
+            
+            # Expanded Quality Parameters
+            vigour = np.random.beta(15, 3) * 100
+            weed_purity = np.random.choice(['Pass', 'Fail'], p=[0.98, 0.02])
+            tsw = round(np.random.uniform(2.5, 45.0), 2)
+            uniformity = round(np.random.uniform(85.0, 99.5), 1)
+            coat_strength = np.random.choice(['High', 'Medium', 'Low'], p=[0.85, 0.12, 0.03])
+            genetic_purity = round(np.random.uniform(98.0, 100.0), 2)
+            herbicide_tolerance = np.random.choice(['Confirmed', 'Not Detected'], p=[0.99, 0.01]) if any(t in variety for t in ['LL', 'TF', 'CL']) else 'N/A'
+            disease_presence = np.random.choice(['Negative', 'Positive'], p=[0.97, 0.03])
+            chlorophyll_ppm = round(np.random.uniform(2.0, 25.0), 1) if crop == 'Canola' else 0.0
+            
             quality_v2.append({
-                'scale_ticket_id': st_id, 'germination_pct': round(germ, 1),
+                'scale_ticket_id': st_id,
+                'germination_pct': round(germ, 1),
                 'viability_pct': round(germ + np.random.uniform(0.5, 2.0), 1),
                 'moisture_receival_pct': round(moist, 1),
                 'moisture_post_pct': round(moist if moist <= 14.5 else moist - np.random.uniform(1.2, 2.8), 1),
                 'foreign_material_receival_pct': round(np.random.uniform(1.5, 6.8), 2),
-                'foreign_material_post_pct': round(np.random.uniform(0.1, 0.38), 2)
+                'foreign_material_post_pct': round(np.random.uniform(0.1, 0.38), 2),
+                'vigour_pct': round(vigour, 1),
+                'weed_seed_crop_purity': weed_purity,
+                'thousand_seed_weight_g': tsw,
+                'seed_size_uniformity_pct': uniformity,
+                'seed_coat_strength_integrity': coat_strength,
+                'hybridity_genetic_purity_pct': genetic_purity,
+                'herbicide_tolerance_trait': herbicide_tolerance,
+                'seed_borne_disease_presence': disease_presence,
+                'chlorophyll_green_seed_ppm': chlorophyll_ppm
             })
             
             # Input Packaging & Logistics Data
